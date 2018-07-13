@@ -1,0 +1,2693 @@
+mlb_team,mlb_team_long,bats,throws,birth_year,playerid,fg_name,fg_pos
+LAA,Los Angeles Angels,R,R,1988,11387,A.J. Achter,P
+WSN,Washington Nationals,R,R,1992,11467,A.J. Cole,P
+SDP,San Diego Padres,R,R,1981,5677,A.J. Ellis,C
+TEX,Texas Rangers,R,R,1988,11132,A.J. Griffin,P
+TEX,Texas Rangers,R,R,1990,7077,A.J. Jimenez,C
+ATL,Atlanta Braves,L,L,1993,18655,A.J. Minter,P
+CIN,Cincinnati Reds,R,R,1986,9919,A.J. Morris,P
+ARI,Arizona Diamondbacks,R,R,1987,9256,A.J. Pollock,OF
+NYM,New York Mets,R,R,1986,8350,AJ Ramos,P
+HOU,Houston Astros,L,L,1993,16246,A.J. Reed,1B
+PIT,Pittsburgh Pirates,R,R,1989,11432,A.J. Schugel,P
+PHI,Philadelphia Phillies,R,R,1991,11270,Aaron Altherr,OF
+WSN,Washington Nationals,R,R,1988,11243,Aaron Barrett,P
+ATL,Atlanta Braves,R,R,1992,14934,Aaron Blair,P
+MIL,Milwaukee Brewers,R,R,1990,12272,Aaron Brooks,P
+CHW,Chicago White Sox,L,L,1993,16258,Aaron Bummer,P
+MIA,Miami Marlins,R,R,1986,10149,Aaron Crow,P
+CHC,Chicago Cubs,R,R,1986,4087,Aaron Cunningham,OF
+PHI,Philadelphia Phillies,R,R,1978,1451,Aaron Harang,P
+NYY,New York Yankees,S,R,1989,5297,Aaron Hicks,OF
+SFG,San Francisco Giants,R,R,1982,6104,Aaron Hill,2B
+NYY,New York Yankees,R,R,1992,15640,Aaron Judge,OF
+ARI,Arizona Diamondbacks,L,L,1985,6248,Aaron Laffey,P
+TOR,Toronto Blue Jays,L,L,1987,10343,Aaron Loup,P
+PHI,Philadelphia Phillies,R,R,1993,16149,Aaron Nola,P
+TEX,Texas Rangers,L,L,1986,4313,Aaron Poreda,P
+TOR,Toronto Blue Jays,R,R,1992,11490,Aaron Sanchez,P
+MIN,Minnesota Twins,R,R,1992,15231,Aaron Slegers,P
+MIN,Minnesota Twins,L,L,1987,999,Aaron Thompson,
+MIL,Milwaukee Brewers,R,R,1989,16904,Aaron Wilkerson,P
+LAA,Los Angeles Angels,R,R,1992,12962,Abel De Los Santos,P
+KCR,Kansas City Royals,S,R,1989,5486,Abraham Almonte,OF
+MIN,Minnesota Twins,R,L,1993,13188,Adalberto Mejia,P
+SDP,San Diego Padres,R,R,1990,15288,Adam Cimber,P
+MIA,Miami Marlins,L,L,1990,14457,Adam Conley,P
+CIN,Cincinnati Reds,R,R,1988,10950,Adam Duvall,OF
+WSN,Washington Nationals,L,L,1988,11205,Adam Eaton,OF
+CHW,Chicago White Sox,R,R,1991,15082,Adam Engel,OF
+PIT,Pittsburgh Pirates,L,R,1991,15223,Adam Frazier,2B/OF
+BAL,Baltimore Orioles,R,R,1985,6368,Adam Jones,OF
+TBR,Tampa Bay Rays,L,L,1989,10843,Adam Kolarek,P
+CHW,Chicago White Sox,L,L,1979,1904,Adam LaRoche,1B
+LAD,Los Angeles Dodgers,L,L,1987,10637,Adam Liberatore,P
+NYY,New York Yankees,L,L,1983,8027,Adam Lind,1B/DH
+ARI,Arizona Diamondbacks,L,L,1984,2134,Adam Loewen,P
+ATL,Atlanta Braves,L,L,1992,sa599173,Adam McCreery,P
+CLE,Cleveland Indians,R,R,1984,9362,Adam Moore,C
+PHI,Philadelphia Phillies,L,L,1990,12580,Adam Morgan,P
+COL,Colorado Rockies,S,R,1985,1247,Adam Ottavino,P
+CLE,Cleveland Indians,R,R,1991,15846,Adam Plutko,P
+PHI,Philadelphia Phillies,R,R,1983,9682,Adam Rosales,2B/3B/SS
+STL,St. Louis Cardinals,R,R,1981,2233,Adam Wainwright,P
+BAL,Baltimore Orioles,R,R,1991,sa621791,Adam Brett Walker,
+NYY,New York Yankees,R,R,1987,9029,Adam Warren,P
+MIN,Minnesota Twins,L,L,1987,8421,Adam Wilk,P
+CHC,Chicago Cubs,R,R,1995,sa735853,Adbert Alzolay,P
+MIN,Minnesota Twins,L,R,1988,10586,Addison Reed,P
+CHC,Chicago Cubs,R,R,1994,14106,Addison Russell,SS
+TBR,Tampa Bay Rays,R,R,1989,10459,Adeiny Hechavarria,SS
+ATL,Atlanta Braves,R,R,1985,13777,Adonis Garcia,3B
+TEX,Texas Rangers,R,R,1979,639,Adrian Beltre,
+NYM,New York Mets,L,L,1982,1908,Adrian Gonzalez,1B
+MIL,Milwaukee Brewers,R,R,1993,12718,Adrian Houser,P
+CHW,Chicago White Sox,S,R,1989,10294,Adrian Nieto,C
+TEX,Texas Rangers,R,R,1991,13339,Adrian Sampson,P
+WSN,Washington Nationals,R,R,1990,11338,Adrian Sanchez,2B/3B/SS
+HOU,Houston Astros,L,L,1986,7995,Adron Chambers,OF
+LAA,Los Angeles Angels,R,R,1992,12185,Akeel Morris,P
+CHW,Chicago White Sox,R,R,1986,6324,Al Alburquerque,P
+MIN,Minnesota Twins,R,R,1990,15239,Alan Busenitz,P
+NYY,New York Yankees,R,R,1995,sa828366,Albert Abreu,P
+CHC,Chicago Cubs,R,R,1994,14109,Albert Almora Jr.,OF
+LAA,Los Angeles Angels,R,R,1980,1177,Albert Pujols,1B
+ARI,Arizona Diamondbacks,R,R,1989,6175,Albert Suarez,P
+CHC,Chicago Cubs,R,R,1988,8352,Alberto Cabrera,P
+LAD,Los Angeles Dodgers,S,R,1983,3336,Alberto Callaspo,2B/3B
+NYY,New York Yankees,R,R,1983,4906,Alberto Gonzalez,2B/SS
+STL,St. Louis Cardinals,R,R,1987,7125,Alberto Rosario,C
+PHI,Philadelphia Phillies,R,R,1994,sa659315,Alberto Tirado,
+KCR,Kansas City Royals,R,R,1986,6310,Alcides Escobar,SS
+MIL,Milwaukee Brewers,R,R,1991,13560,Alec Asher,P
+CHC,Chicago Cubs,R,R,1991,13834,Alec Mills,P
+TOR,Toronto Blue Jays,R,R,1990,15937,Aledmys Diaz,SS
+CIN,Cincinnati Reds,R,R,1993,13530,Alejandro Chacin,P
+WSN,Washington Nationals,L,L,1984,3371,Alejandro De Aza,OF
+CHW,Chicago White Sox,S,R,1992,12926,Alen Hanson,2B/OF
+ARI,Arizona Diamondbacks,L,R,1987,7476,Alex Avila,C
+CIN,Cincinnati Reds,R,R,1992,16271,Alex Blandino,3B
+HOU,Houston Astros,R,R,1994,17678,Alex Bregman,3B
+CHC,Chicago Cubs,R,R,1987,4065,Alex Burnett,P
+SDP,San Diego Padres,R,R,1986,7223,Alex Castellanos,OF
+TEX,Texas Rangers,L,L,1992,12890,Alex Claudio,P
+BAL,Baltimore Orioles,R,R,1987,6562,Alex Cobb,P
+TBR,Tampa Bay Rays,R,R,1988,6661,Alex Colome,P
+SDP,San Diego Padres,L,L,1990,12649,Alex Dickerson,OF
+KCR,Kansas City Royals,L,R,1984,5209,Alex Gordon,OF
+LAD,Los Angeles Dodgers,R,R,1986,15670,Alex Guerrero,3B/OF
+OAK,Oakland Athletics,R,R,1988,9959,Alex Hassan,OF
+CHW,Chicago White Sox,L,L,1994,sa827486,Alexander Katz,
+BAL,Baltimore Orioles,R,R,1988,5411,Alex Liddi,3B
+STL,St. Louis Cardinals,R,R,1991,13877,Alex Mejia,2B/3B/SS
+LAA,Los Angeles Angels,R,R,1990,12833,Alex Meyer,P
+DET,Detroit Tigers,L,L,1985,5305,Alex Presley,OF
+STL,St. Louis Cardinals,R,R,1994,15015,Alex Reyes,P
+KCR,Kansas City Royals,R,R,1981,2090,Alex Rios,OF
+ARI,Arizona Diamondbacks,R,R,1988,5350,Alex Sanabia,P
+ATL,Atlanta Braves,L,L,1987,7038,Alex Torres,P
+LAD,Los Angeles Dodgers,L,L,1996,17027,Alex Verdugo,OF
+HOU,Houston Astros,R,R,1988,10054,Alex White,P
+DET,Detroit Tigers,R,R,1986,9239,Alex Wilson,P
+MIN,Minnesota Twins,L,R,1988,11394,Alex Wimmers,P
+LAD,Los Angeles Dodgers,R,L,1991,13781,Alex Wood,P
+TBR,Tampa Bay Rays,R,R,1981,5133,Alexei Ramirez,SS
+DET,Detroit Tigers,L,R,1989,9063,Alexi Amarista,2B/SS/OF
+TBR,Tampa Bay Rays,S,R,1984,5248,Alexi Casilla,2B
+ATL,Atlanta Braves,R,R,1983,10261,Alexi Ogando,P
+NYY,New York Yankees,R,R,1982,5164,Alfredo Aceves,P
+TEX,Texas Rangers,R,R,1984,8404,Alfredo Figaro,P
+CHW,Chicago White Sox,R,R,1992,sa505301,Alfredo Gonzalez,
+BAL,Baltimore Orioles,R,R,1989,5212,Alfredo Marte,OF
+CIN,Cincinnati Reds,R,R,1981,2155,Alfredo Simon,P
+LAD,Los Angeles Dodgers,R,R,1987,8848,Ali Solis,C
+TBR,Tampa Bay Rays,L,R,1987,9113,Allan Dykstra,1B
+SDP,San Diego Padres,R,R,1995,15722,Allen Cordoba,SS/OF
+BOS,Boston Red Sox,R,R,1984,3433,Allen Craig,1B/OF
+PIT,Pittsburgh Pirates,R,R,1990,3993,Allen Webster,P
+NYM,New York Mets,R,R,1995,15518,Amed Rosario,SS
+CIN,Cincinnati Reds,R,L,1992,14375,Amir Garrett,P
+LAD,Los Angeles Dodgers,L,L,1982,6265,Andre Ethier,OF
+MIA,Miami Marlins,R,R,1988,3507,Andre Rienzo,P
+LAA,Los Angeles Angels,R,R,1989,10847,Andrelton Simmons,SS
+PHI,Philadelphia Phillies,S,R,1984,1907,Andres Blanco,2B/SS
+KCR,Kansas City Royals,R,R,1993,14681,Andres Machado,P
+SFG,San Francisco Giants,S,R,1978,1488,Andres Torres,OF
+SEA,Seattle Mariners,R,L,1985,7853,Andrew Albers,P
+SEA,Seattle Mariners,L,L,1991,sa502787,Andrew Aplin,
+LAA,Los Angeles Angels,R,R,1984,1368,Andrew Bailey,P
+TBR,Tampa Bay Rays,R,R,1991,10657,Andrew Bellatti,P
+BOS,Boston Red Sox,L,L,1994,17901,Andrew Benintendi,OF
+OAK,Oakland Athletics,R,R,1984,3837,Andrew Brown,OF
+OAK,Oakland Athletics,R,R,1986,2431,Andrew Carignan,P
+TOR,Toronto Blue Jays,R,R,1993,sa829881,Andrew Case,
+BAL,Baltimore Orioles,R,R,1986,8782,Andrew Cashner,P
+ARI,Arizona Diamondbacks,R,L,1990,12988,Andrew Chafin,P
+KCR,Kansas City Royals,R,R,1991,sa738219,Andrew Edwards,
+BAL,Baltimore Orioles,R,L,1992,12982,Andrew Faulkner,P
+LAA,Los Angeles Angels,L,L,1991,15423,Andrew Heaney,P
+TBR,Tampa Bay Rays,R,R,1990,12828,Andrew Kittredge,P
+PHI,Philadelphia Phillies,S,R,1991,14942,Andrew Knapp,C
+OAK,Oakland Athletics,L,L,1988,5386,Andrew Lambo,OF
+SFG,San Francisco Giants,R,R,1986,9847,Andrew McCutchen,OF
+ATL,Atlanta Braves,R,L,1990,12870,Andrew McKirahan,P
+CLE,Cleveland Indians,L,L,1985,6785,Andrew Miller,P
+SEA,Seattle Mariners,R,R,1994,17553,Andrew Moore,P
+SEA,Seattle Mariners,S,R,1985,1159,Andrew Romine,3B/SS
+WSN,Washington Nationals,L,L,1994,17932,Andrew Stevenson,OF
+SFG,San Francisco Giants,L,L,1992,18300,Andrew Suarez,P
+BAL,Baltimore Orioles,R,R,1990,13132,Andrew Susac,C
+LAA,Anaheim Angels,R,L,1986,7896,Andrew Taylor,P
+LAD,Los Angeles Dodgers,L,R,1992,13414,Andrew Toles,OF
+OAK,Oakland Athletics,R,R,1989,13533,Andrew Triggs,P
+OAK,Oakland Athletics,L,L,1987,11783,Andrew Werner,P
+CHC,Chicago Cubs,R,R,1990,sa395471,Andury Acevedo,
+TOR,Toronto Blue Jays,R,R,1990,12779,Andrew Burns,3B
+TOR,Toronto Blue Jays,L,L,1986,6453,Andy Dirks,OF
+CHW,Chicago White Sox,R,R,1983,6444,Andy LaRoche,3B
+ARI,Arizona Diamondbacks,R,R,1983,3203,Andy Marte,1B/3B
+PHI,Philadelphia Phillies,L,L,1987,10257,Andrew Oliver,P
+OAK,Oakland Athletics,S,R,1985,3972,Andy Parrino,SS
+MIL,Milwaukee Brewers,L,R,1988,11251,Andy Wilkins,1B
+BAL,Baltimore Orioles,L,R,1992,sa598684,Aneury Tavarez,
+OAK,Oakland Athletics,R,R,1982,3243,Angel Castro,P
+DET,Detroit Tigers,R,R,1990,13415,Angel Nesbitt,P
+SFG,San Francisco Giants,S,R,1981,2918,Angel Pagan,OF
+PIT,Pittsburgh Pirates,R,R,1989,11776,Angel Sanchez,P
+ATL,Atlanta Braves,R,R,1984,3284,Anibal Sanchez,P
+TOR,Toronto Blue Jays,R,R,1994,14329,Anthony Alford,OF
+TBR,Tampa Bay Rays,L,L,1993,14706,Anthony Banda,P
+TEX,Texas Rangers,R,R,1987,7982,Anthony Bass,P
+CIN,Cincinnati Reds,R,R,1990,13050,Anthony DeSclafani,P
+STL,St. Louis Cardinals,R,R,1992,sa502038,Anthony Garcia,
+HOU,Houston Astros,L,L,1990,5097,Anthony Gose,OF
+CHW,Chicago White Sox,R,R,1989,11424,Anthony Ranaudo,P
+MIN,Minnesota Twins,R,R,1983,4063,Anthony Recker,C
+WSN,Washington Nationals,R,R,1990,12861,Anthony Rendon,2B/3B
+CHC,Chicago Cubs,L,L,1989,3473,Anthony Rizzo,1B
+BAL,Baltimore Orioles,S,R,1994,14551,Anthony Santander,OF
+NYM,New York Mets,R,R,1985,7466,Anthony Swarzak,P
+BOS,Boston Red Sox,R,R,1984,2385,Anthony Varvaro,P
+TEX,Texas Rangers,S,R,1983,209,Antoan Richardson,
+ARI,Arizona Diamondbacks,R,L,1985,8844,Antonio Bastardo,P
+COL,Colorado Rockies,R,R,1995,15488,Antonio Senzatela,P
+ATL,Atlanta Braves,R,R,1993,sa737475,Anyelo Gomez,P
+SFG,San Francisco Giants,R,R,1993,,,
+DET,Detroit Tigers,R,R,1986,8846,Arcenio Leon,P
+ARI,Arizona Diamondbacks,R,R,1992,12918,Archie Bradley,P
+LAD,Los Angeles Dodgers,R,R,1992,15603,Ariel Hernandez,P
+TEX,Texas Rangers,R,R,1996,sa737364,Ariel Jurado,P
+SEA,Seattle Mariners,L,L,1989,17526,Ariel Miranda,P
+MIL,Milwaukee Brewers,R,R,1989,10240,Ariel Pena,P
+CIN,Cincinnati Reds,S,R,1991,10711,Arismendy Alcantara,2B/OF
+CIN,Cincinnati Reds,R,R,1994,sa597058,Aristides Aquino,
+ATL,Atlanta Braves,R,R,1988,sa739701,Armando Rivero,
+TOR,Toronto Blue Jays,R,R,1988,5595,Arnold Leon,P
+ATL,Atlanta Braves,R,R,1990,5498,Arodys Vizcaino,P
+NYY,New York Yankees,L,L,1988,10233,Aroldis Chapman,P
+SEA,Seattle Mariners,R,R,1987,8992,Arquimedes Caminero,P
+DET,Detroit Tigers,R,R,1992,16731,Artie Lewicki,P
+NYM,New York Mets,S,R,1985,4962,Asdrubal Cabrera,SS
+CIN,Cincinnati Reds,R,R,1988,10836,Asher Wojciechowski,P
+HOU,Houston Astros,L,L,1988,10044,Ashur Tolliver,P
+COL,Colorado Rockies,R,R,1988,9176,Audry Perez,C
+WSN,Washington Nationals,R,R,1991,13801,Austin Adams,P
+LAA,Los Angeles Angels,R,R,1986,7411,Austin Adams,P
+LAD,Los Angeles Dodgers,R,R,1989,12158,Austin Barnes,C/2B
+TEX,Texas Rangers,R,R,1985,9559,Austin Bibens-Dirkx,P
+CIN,Cincinnati Reds,R,R,1992,17237,Austin Brice,P
+STL,St. Louis Cardinals,L,L,1993,sa827376,Austin Gomber,P
+BAL,Baltimore Orioles,R,R,1995,19363,Austin Hays,OF
+SDP,San Diego Padres,R,R,1992,12976,Austin Hedges,C
+SFG,San Francisco Giants,R,R,1987,9848,Austin Jackson,OF
+MIA,Miami Marlins,R,R,1980,332,Austin Kearns,
+BOS,Boston Red Sox,R,R,1991,14241,Austin Maddox,P
+PIT,Pittsburgh Pirates,L,L,1995,sa737440,Austin Meadows,OF
+MIA,Miami Marlins,R,R,1989,sa577789,Austin Nola,
+CIN,Cincinnati Reds,R,R,1993,sa87567,Austin Orewiler,P
+TBR,Tampa Bay Rays,R,R,1989,15290,Austin Pruitt,P
+NYY,New York Yankees,R,R,1988,5491,Austin Romine,C
+MIL,Milwaukee Brewers,L,R,1988,sa553380,Austin Ross,
+SFG,San Francisco Giants,R,R,1992,16153,Austin Slater,OF
+WSN,Washington Nationals,R,R,1992,sa621465,Austin Voth,
+BAL,Baltimore Orioles,R,R,1990,sa707785,Austin Wynns,C
+CHW,Chicago White Sox,R,R,1991,5760,Avisail Garcia,OF
+PHI,Philadelphia Phillies,R,R,1985,7183,B.J. Rosenberg,P
+CIN,Cincinnati Reds,R,R,1991,14812,Barrett Astin,P
+LAA,Los Angeles Angels,R,R,1986,2412,Barry Enright,P
+TEX,Texas Rangers,R,R,1973,375,Bartolo Colon,
+ARI,Arizona Diamondbacks,R,R,1981,4677,Ben Francisco,OF
+SEA,Seattle Mariners,L,L,1992,12160,Ben Gamel,OF
+NYY,New York Yankees,R,R,1991,15100,Ben Heller,P
+PHI,Philadelphia Phillies,R,R,1992,14932,Ben Lively,P
+COL,Colorado Rockies,L,R,1987,9741,Ben Paulsen,1B
+CIN,Cincinnati Reds,L,R,1988,4712,Ben Revere,OF
+MIL,Milwaukee Brewers,R,R,1988,10983,Ben Rowen,P
+CLE,Cleveland Indians,R,R,1992,18114,Ben Taylor,P
+CHC,Chicago Cubs,S,R,1981,7435,Ben Zobrist,2B/OF
+CIN,Cincinnati Reds,L,L,1983,8538,Bill Bray,P
+SDP,San Diego Padres,R,R,1983,8253,Billy Buckner,P
+KCR,Kansas City Royals,S,R,1989,12701,Billy Burns,OF
+NYY,New York Yankees,R,R,1986,7399,Billy Butler,1B/DH
+CIN,Cincinnati Reds,S,R,1990,10199,Billy Hamilton,OF
+NYY,New York Yankees,L,L,1994,15654,Billy McKinney,OF
+KCR,Kansas City Royals,R,R,1981,2237,Blaine Boyer,P
+DET,Detroit Tigers,L,L,1987,6499,Blaine Hardy,P
+SEA,Seattle Mariners,R,R,1989,338,Blake Beavan,
+ATL,Atlanta Braves,L,R,1983,9246,Blake Lalli,C/1B
+TOR,Toronto Blue Jays,R,R,1988,sa598555,Blake Mcfarland,
+LAA,Los Angeles Angels,R,R,1985,5224,Blake Parker,P
+CHW,Chicago White Sox,L,R,1987,9780,Blake Smith,P
+TBR,Tampa Bay Rays,L,L,1992,13543,Blake Snell,P
+BOS,Boston Red Sox,S,R,1992,13176,Blake Swihart,C
+CHW,Chicago White Sox,L,R,1987,8810,Blake Tekotte,OF
+CIN,Cincinnati Reds,R,R,1993,sa874990,Blake Trahan,
+OAK,Oakland Athletics,R,R,1988,12572,Blake Treinen,P
+LAA,Los Angeles Angels,R,R,1985,1345,Blake Wood,P
+TOR,Toronto Blue Jays,R,R,1985,5028,Bo Schultz,P
+TOR,Toronto Blue Jays,R,R,1979,4608,Bobby Korecky,P
+PHI,Philadelphia Phillies,L,L,1986,7758,Bobby LaFromboise,P
+DET,Detroit Tigers,R,R,1984,9926,Bobby Parnell,P
+BOS,Boston Red Sox,L,L,1992,17987,Bobby Poyner,P
+OAK,Oakland Athletics,R,R,1992,14832,Bobby Wahl,P
+TBR,Tampa Bay Rays,R,R,1983,6564,Bobby Wilson,C
+OAK,Oakland Athletics,L,L,1993,15103,Boog Powell,OF
+MIL,Milwaukee Brewers,R,L,1984,5525,Boone Logan,P
+ARI,Arizona Diamondbacks,R,R,1988,10133,Brad Boxberger,P
+BAL,Baltimore Orioles,R,R,1986,6627,Brad Brach,P
+TOR,Toronto Blue Jays,R,R,1987,7392,Brad Glenn,OF
+CHW,Chicago White Sox,R,R,1990,14776,Brad Goldberg,P
+SDP,San Diego Padres,L,L,1990,9111,Brad Hand,P
+KCR,Kansas City Royals,R,R,1995,15734,Brad Keller,P
+PHI,Philadelphia Phillies,L,R,1985,4241,Brad Lincoln,P
+TBR,Tampa Bay Rays,L,R,1989,12775,Brad Miller,SS
+OAK,Oakland Athletics,R,L,1985,4420,Brad Mills,P
+HOU,Houston Astros,R,R,1988,5401,Brad Peacock,P
+TEX,Texas Rangers,L,L,1982,6052,Brad Snyder,1B/OF
+SDP,San Diego Padres,L,L,1991,sa659424,Brad Wieck,P
+MIA,Miami Marlins,R,R,1979,7293,Brad Ziegler,P
+ARI,Arizona Diamondbacks,R,R,1992,15158,Braden Shipley,P
+ARI,Arizona Diamondbacks,R,R,1989,7422,Bradin Hagens,P
+CLE,Cleveland Indians,L,R,1992,16221,Bradley Zimmer,OF
+TEX,Texas Rangers,R,R,1993,sa598911,Brady Dragmire,
+HOU,Houston Astros,R,R,1990,13393,Brady Rodgers,P
+NYY,New York Yankees,R,R,1989,12093,Branden Pinder,P
+CIN,Cincinnati Reds,L,R,1986,7436,Brandon Allen,1B
+SEA,Seattle Mariners,R,R,1987,9442,Brandon Bantz,C
+COL,Colorado Rockies,R,R,1986,629,Brandon Barnes,
+LAD,Los Angeles Dodgers,R,R,1986,8851,Brandon Beachy,P
+SFG,San Francisco Giants,L,L,1988,10264,Brandon Belt,1B
+CHW,Chicago White Sox,R,R,1991,sa550121,Brandon Brennan,
+SFG,San Francisco Giants,L,R,1987,5343,Brandon Crawford,SS
+PIT,Pittsburgh Pirates,R,R,1988,11366,Brandon Cumpton,P
+ATL,Atlanta Braves,R,R,1988,11509,Brandon Cunniff,P
+NYY,New York Yankees,R,R,1992,11615,Brandon Drury,2B/OF
+CIN,Cincinnati Reds,L,L,1993,16208,Brandon Finnegan,P
+TBR,Tampa Bay Rays,R,R,1984,2267,Brandon Gomes,P
+CLE,Cleveland Indians,R,R,1986,2636,Brandon Guyer,OF
+SFG,San Francisco Giants,R,R,1985,4003,Brandon Hicks,2B
+PIT,Pittsburgh Pirates,R,R,1977,470,Brandon Inge,
+WSN,Washington Nationals,R,R,1984,9939,Brandon Kintzler,P
+KCR,Kansas City Royals,R,R,1987,5476,Brandon Laird,1B/3B
+LAD,Los Angeles Dodgers,R,R,1983,3731,Brandon League,P
+NYM,New York Mets,R,R,1979,1312,Brandon Lyon,P
+KCR,Kansas City Royals,R,R,1990,4878,Brandon Maurer,P
+ATL,Atlanta Braves,R,R,1983,4662,Brandon McCarthy,P
+CHC,Chicago Cubs,R,R,1984,9346,Brandon Morrow,P
+OAK,Oakland Athletics,L,R,1983,4467,Brandon Moss,1B/OF
+NYM,New York Mets,L,R,1993,12927,Brandon Nimmo,OF
+LAA,Los Angeles Angels,R,R,1981,791,Brandon Phillips,
+TBR,Tampa Bay Rays,R,R,1986,9856,Brandon Snyder,1B/3B
+MIL,Milwaukee Brewers,L,R,1993,16162,Brandon Woodruff,P
+BOS,Boston Red Sox,R,R,1988,11428,Brandon Workman,P
+MIA,Miami Marlins,L,R,1993,16839,Braxton Lee,OF
+STL,St. Louis Cardinals,S,R,1982,3231,Brayan Pena,C
+BOS,Boston Red Sox,R,R,1987,5180,Brayan Villarreal,P
+TOR,Toronto Blue Jays,R,R,1995,sa918925,Brayden Bouchey,
+LAA,Los Angeles Angels,R,R,1980,2178,Brendan Harris,SS
+LAA,Los Angeles Angels,R,R,1982,6073,Brendan Ryan,SS
+CIN,Cincinnati Reds,L,L,1985,914,Brennan Boesch,
+TBR,Tampa Bay Rays,R,R,1995,sa828706,Brent Honeywell,P
+NYY,New York Yankees,R,R,1983,3501,Brent Lillibridge,OF
+PIT,Pittsburgh Pirates,R,R,1987,6402,Brent Morel,3B
+MIL,Milwaukee Brewers,L,L,1989,13942,Brent Suter,P
+TOR,Toronto Blue Jays,L,L,1988,8223,Brett Anderson,P
+SFG,San Francisco Giants,R,R,1987,11867,Brett Bochy,P
+WSN,Washington Nationals,R,R,1982,8066,Brett Carroll,OF
+STL,St. Louis Cardinals,R,L,1986,2660,Brett Cecil,P
+LAD,Los Angeles Dodgers,R,R,1988,11369,Brett Eibner,OF
+NYY,New York Yankees,L,L,1983,9927,Brett Gardner,OF
+MIA,Miami Marlins,R,R,1993,sa599301,Brett Graves,P
+CLE,Cleveland Indians,R,R,1984,4293,Brett Hayes,C
+ARI,Arizona Diamondbacks,L,R,1988,9632,Brett Jackson,OF
+CHW,Chicago White Sox,R,R,1990,5247,Brett Lawrie,2B/3B
+CIN,Cincinnati Reds,R,R,1990,5364,Brett Marshall,P
+TEX,Texas Rangers,L,L,1995,sa828879,Brett Martin,P
+TEX,Texas Rangers,L,R,1988,11192,Brett Nicholas,C
+TOR,Toronto Blue Jays,L,L,1989,3855,Brett Oberholtzer,P
+MIL,Milwaukee Brewers,L,R,1994,14735,Brett Phillips,OF
+SFG,San Francisco Giants,R,R,1984,5834,Brett Pill,1B
+SDP,San Diego Padres,L,R,1986,8434,Brett Wallace,1B
+LAD,Los Angeles Dodgers,S,R,1992,12758,Breyvic Valera,2B
+MIA,Miami Marlins,R,R,1993,18289,Brian Anderson,3B
+HOU,Houston Astros,R,R,1982,8055,Brian Bixler,SS/OF
+PHI,Philadelphia Phillies,L,L,1984,4719,Brian Bogusevic,OF
+MIN,Minnesota Twins,R,R,1987,9810,Brian Dozier,2B
+CHC,Chicago Cubs,L,L,1983,4064,Brian Duensing,P
+MIA,Miami Marlins,R,R,1990,17233,Brian Ellington,P
+KCR,Kansas City Royals,L,L,1990,12027,Brian Flynn,P
+WSN,Washington Nationals,L,R,1990,12858,Brian Goodwin,OF
+BOS,Boston Red Sox,L,L,1990,14272,Brian Johnson,P
+CHC,Chicago Cubs,L,L,1987,2646,Brian Matusz,P
+HOU,Houston Astros,L,R,1984,4810,Brian McCann,C
+NYY,New York Yankees,S,R,1977,166,Brian Roberts,
+CHC,Chicago Cubs,R,R,1985,3599,Brian Schlitter,P
+LAD,Los Angeles Dodgers,R,R,1982,6485,Brian Wilson,P
+BOS,Boston Red Sox,L,R,1988,9345,Brock Holt,2B/OF
+WSN,Washington Nationals,R,R,1983,4984,Brock Peterson,1B/OF
+PHI,Philadelphia Phillies,L,L,1989,12244,Brock Stassi,1B
+LAD,Los Angeles Dodgers,L,R,1991,16727,Brock Stewart,P
+CIN,Cincinnati Reds,R,R,1977,978,Bronson Arroyo,
+LAD,Los Angeles Dodgers,L,R,1985,5679,Brooks Brown,P
+SDP,San Diego Padres,S,R,1980,3664,Brooks Conrad,2B/3B
+LAA,Los Angeles Angels,R,R,1990,10387,Brooks Pounders,P
+LAA,Los Angeles Angels,L,L,1988,10061,Brooks Raley,P
+NYY,New York Yankees,R,R,1985,3044,Bruce Billings,P
+OAK,Oakland Athletics,L,R,1990,13866,Bruce Maxwell,C
+CHW,Chicago White Sox,R,R,1990,5766,Bruce Rondon,P
+OAK,Oakland Athletics,L,R,1986,9871,Bryan Anderson,C
+MIA,Miami Marlins,R,R,1987,11287,Bryan Holaday,C
+SDP,San Diego Padres,L,R,1991,11479,Bryan Mitchell,P
+SFG,San Francisco Giants,L,R,1987,10234,Bryan Morris,P
+MIA,Miami Marlins,L,R,1986,2567,Bryan Petersen,OF
+CLE,Cleveland Indians,R,R,1986,8436,Bryan Price,P
+COL,Colorado Rockies,S,R,1987,8110,Bryan Shaw,P
+NYM,New York Mets,R,R,1988,10607,Bryce Brentz,OF
+WSN,Washington Nationals,L,R,1992,11579,Bryce Harper,OF
+KCR,Kansas City Royals,R,R,1992,sa597751,Bubba Starling,
+DET,Detroit Tigers,L,R,1991,14814,Buck Farmer,P
+STL,St. Louis Cardinals,R,R,1985,9492,Bud Norris,P
+SDP,San Diego Padres,L,L,1987,9309,Buddy Baumann,P
+HOU,Houston Astros,L,L,1988,8490,Buddy Boshers,P
+KCR,Kansas City Royals,R,R,1990,12784,Burch Smith,P
+WSN,Washington Nationals,R,R,1983,9736,Burke Badenhop,P
+SFG,San Francisco Giants,R,R,1987,9166,Buster Posey,C
+MIN,Minnesota Twins,R,R,1993,14161,Byron Buxton,OF
+MIN,Minnesota Twins,R,R,1986,18497,Byung-ho Park,1B/DH
+CLE,Cleveland Indians,R,R,1986,5177,C.C. Lee,P
+TBR,Tampa Bay Rays,R,R,1990,12546,C.J. Cron,1B/DH
+HOU,Houston Astros,R,R,1985,7978,Chuckie Fick,P
+CHC,Chicago Cubs,L,L,1990,11193,C.J. Riefenhauser,P
+LAA,Los Angeles Angels,L,L,1980,3580,C.J. Wilson,P
+CIN,Cincinnati Reds,R,R,1987,10075,Caleb Cotham,P
+MIL,Milwaukee Brewers,L,L,1988,5002,Caleb Gindl,OF
+BAL,Baltimore Orioles,R,R,1986,7087,Caleb Joseph,C
+MIA,Miami Marlins,R,L,1991,14875,Caleb Smith,P
+SDP,San Diego Padres,R,L,1987,10078,Caleb Thielbar,P
+LAA,Los Angeles Angels,R,R,1991,13360,Cam Bedrosian,P
+KCR,Kansas City Royals,R,R,1992,12981,Cam Gallagher,C
+MIA,Miami Marlins,R,R,1987,5223,Cameron Maybin,OF
+SEA,Seattle Mariners,R,R,1990,13444,Cam Perkins,OF
+PHI,Philadelphia Phillies,R,R,1988,11146,Cameron Rupp,C
+LAD,Los Angeles Dodgers,L,L,1981,1201,Carl Crawford,OF
+CHC,Chicago Cubs,R,R,1991,13607,Carl Edwards Jr.,P
+SDP,San Diego Padres,L,R,1991,15197,Carlos Asuaje,2B
+HOU,Houston Astros,S,R,1977,589,Carlos Beltran,
+CLE,Cleveland Indians,R,R,1987,6632,Carlos Carrasco,P
+CIN,Cincinnati Reds,R,R,1991,10386,Carlos Contreras,P
+NYY,New York Yankees,S,R,1984,5587,Carlos Corporan,C
+HOU,Houston Astros,R,R,1994,14162,Carlos Correa,SS
+COL,Colorado Rockies,R,R,1992,14542,Carlos Estevez,P
+CLE,Cleveland Indians,R,R,1989,3547,Carlos Frias,P
+TBR,Tampa Bay Rays,R,R,1985,4881,Carlos Gomez,OF
+COL,Colorado Rockies,L,L,1985,7287,Carlos Gonzalez,OF
+BOS,Boston Red Sox,R,R,1982,2790,Carlos Marmol,P
+STL,St. Louis Cardinals,R,R,1991,11682,Carlos Martinez,P
+SFG,San Francisco Giants,L,R,1988,7511,Carlos Moncrief,OF
+BOS,Boston Red Sox,L,L,1987,8760,Carlos Peguero,OF
+TEX,Texas Rangers,L,L,1978,934,Carlos Pena,
+ATL,Atlanta Braves,R,R,1990,10642,Carlos Perez,C
+MIN,Minnesota Twins,R,R,1982,6274,Carlos Quentin,OF
+TOR,Toronto Blue Jays,R,R,1991,11743,Carlos Ramirez,P
+SEA,Seattle Mariners,R,R,1988,1136,Carlos Rivero,3B/DH
+CHW,Chicago White Sox,L,L,1992,16137,Carlos Rodon,P
+SEA,Seattle Mariners,R,R,1979,2579,Carlos Ruiz,C
+CHW,Chicago White Sox,S,R,1992,11602,Yolmer Sanchez,2B
+PHI,Philadelphia Phillies,S,R,1986,2396,Carlos Santana,C/1B
+TEX,Texas Rangers,R,R,1995,14558,Carlos Tocci,OF
+CLE,Cleveland Indians,R,R,1982,7624,Carlos Torres,P
+LAD,Los Angeles Dodgers,R,R,1990,193,Carlos Triunfel,
+SDP,San Diego Padres,R,R,1983,4138,Carlos Villanueva,P
+MIA,Miami Marlins,S,R,1981,305,Carlos Zambrano,
+OAK,Oakland Athletics,R,R,1989,5429,Carson Blair,C
+CHW,Chicago White Sox,R,R,1993,18311,Carson Fulmer,P
+STL,St. Louis Cardinals,R,R,1994,13620,Carson Kelly,C
+BOS,Boston Red Sox,R,R,1989,13172,Carson Smith,P
+SDP,San Diego Padres,R,R,1990,12803,Carter Capps,P
+KCR,Kansas City Royals,L,R,1987,8270,Casey Coleman,P
+DET,Detroit Tigers,R,L,1988,5261,Casey Crosby,P
+PHI,Philadelphia Phillies,R,R,1983,3926,Casey Fien,P
+CHW,Chicago White Sox,S,L,1993,sa827177,Casey Gillaspie,1B
+SDP,San Diego Padres,R,R,1981,7355,Casey Janssen,P
+ATL,Atlanta Braves,R,R,1989,9174,Casey Kelly,P
+MIA,Miami Marlins,L,L,1983,1930,Casey Kotchman,1B
+SEA,Seattle Mariners,R,R,1987,11121,Casey Lawrence,P
+DET,Detroit Tigers,R,R,1982,6086,Casey McGehee,3B
+PIT,Pittsburgh Pirates,R,R,1990,11209,Casey Sadler,P
+PHI,Philadelphia Phillies,R,R,1984,9700,Casper Wells,OF
+TOR,Toronto Blue Jays,L,R,1995,sa738582,Cavan Biggio,
+NYY,New York Yankees,L,L,1980,404,CC Sabathia,
+PHI,Philadelphia Phillies,L,L,1988,2833,Cedric Hunter,OF
+BAL,Baltimore Orioles,L,L,1989,6741,Cesar Cabral,P
+PHI,Philadelphia Phillies,S,R,1990,10556,Cesar Hernandez,2B
+HOU,Houston Astros,S,R,1980,656,Cesar Izturis,
+MIL,Milwaukee Brewers,L,L,1984,3762,Cesar Jimenez,P
+TBR,Tampa Bay Rays,R,R,1991,7216,Cesar Puello,DH/OF
+TEX,Texas Rangers,L,L,1984,3357,Cesar Ramos,P
+TOR,Toronto Blue Jays,R,R,1985,9013,Cesar Valdez,P
+SDP,San Diego Padres,R,R,1991,14099,Cesar Vargas,P
+DET,Detroit Tigers,R,L,1989,10297,Chad Bell,P
+COL,Colorado Rockies,R,R,1989,10587,Chad Bettis,P
+PHI,Philadelphia Phillies,R,R,1984,5842,Chad Billingsley,P
+PHI,Philadelphia Phillies,R,R,1983,1783,Chad Gaudin,P
+TOR,Toronto Blue Jays,L,L,1991,15542,Chad Girodo,P
+NYY,New York Yankees,L,R,1991,15552,Chad Green,P
+STL,St. Louis Cardinals,R,R,1985,5311,Chad Huffman,OF
+TOR,Toronto Blue Jays,R,R,1987,10326,Chad Jenkins,P
+PIT,Pittsburgh Pirates,R,R,1992,14975,Chad Kuhl,P
+OAK,Oakland Athletics,R,R,1992,15191,Chad Pinder,2B/SS/OF
+COL,Colorado Rockies,R,R,1978,2170,Chad Qualls,P
+LAA,Los Angeles Angels,R,R,1989,13604,Chad Smith,P
+LAA,Anaheim Angels,L,R,1980,1888,Chad Tracy,1B/3B
+MIA,Miami Marlins,R,R,1991,17161,Chad Wallach,C
+SEA,Seattle Mariners,R,R,1988,11745,Chance Ruffin,P
+BAL,Baltimore Orioles,L,R,1995,15694,Chance Sisco,C
+BOS,Boston Red Sox,R,R,1992,sa602595,Chandler Shepherd,P
+SEA,Seattle Mariners,R,R,1988,9155,Charles Brewer,P
+COL,Colorado Rockies,L,L,1986,7859,Charlie Blackmon,OF
+ATL,Atlanta Braves,R,R,1989,3298,Charlie Culberson,2B/SS
+SEA,Seattle Mariners,L,L,1986,1370,Charlie Furbush,P
+CHW,Chicago White Sox,L,L,1987,9124,Charlie Leesman,P
+HOU,Houston Astros,R,R,1983,4676,Charlie Morton,P
+CHW,Chicago White Sox,L,L,1992,12983,Charlie Tilson,OF
+MIL,Milwaukee Brewers,R,R,1987,6895,Chase Anderson,P
+SDP,San Diego Padres,R,R,1987,6652,Chase d'Arnaud,3B/SS
+SEA,Seattle Mariners,L,R,1993,15036,Chase De Jong,P
+SDP,San Diego Padres,S,R,1984,4720,Chase Headley,3B
+SFG,San Francisco Giants,R,R,1992,sa502090,Chase Johnson,
+PIT,Pittsburgh Pirates,S,R,1992,sa829341,Chase Simpson,
+LAD,Los Angeles Dodgers,L,R,1978,1679,Chase Utley,2B
+ATL,Atlanta Braves,R,R,1989,10982,Chase Whitley,P
+SEA,Seattle Mariners,R,R,1989,12452,Chasen Bradford,P
+NYY,New York Yankees,L,L,1990,10855,Chasen Shreve,P
+TBR,Tampa Bay Rays,R,R,1986,9866,Chaz Roe,P
+HOU,Houston Astros,R,R,1988,3734,Che-Hsuan Lin,OF
+KCR,Kansas City Royals,R,R,1992,10473,Cheslor Cuthbert,3B
+TEX,Texas Rangers,R,R,1992,14663,Chi Chi Gonzalez,P
+HOU,Houston Astros,R,R,1986,5440,Chia-Jen Lo,P
+KCR,Kansas City Royals,R,R,1980,2074,Chien-Ming Wang,P
+TBR,Tampa Bay Rays,R,R,1993,16419,Chih-Wei Hu,P
+LAD,Los Angeles Dodgers,R,R,1981,1776,Chin-hui Tsao,P
+LAD,Los Angeles Dodgers,S,R,1978,1580,Chone Figgins,3B/OF
+TBR,Tampa Bay Rays,R,R,1988,6345,Chris Archer,P
+OAK,Oakland Athletics,R,R,1989,12304,Chris Bassitt,P
+CHW,Chicago White Sox,R,R,1990,13418,Chris Beck,P
+NYY,New York Yankees,R,R,1978,1842,Chris Bootcheck,P
+PIT,Pittsburgh Pirates,R,R,1993,13718,Chris Bostick,2B/OF
+MIL,Milwaukee Brewers,L,L,1978,1701,Chris Capuano,P
+NYY,New York Yankees,R,R,1986,9911,Chris Carter,1B/DH
+TOR,Toronto Blue Jays,L,R,1985,6878,Chris Coghlan,OF
+TOR,Toronto Blue Jays,R,R,1983,13051,Chris Colabello,1B/OF
+BAL,Baltimore Orioles,L,R,1986,9272,Chris Davis,1B
+NYY,New York Yankees,R,R,1980,4400,Chris Denorfia,OF
+HOU,Houston Astros,R,R,1990,12763,Chris Devenski,P
+CLE,Cleveland Indians,L,L,1982,7095,Chris Dickerson,OF
+CIN,Cincinnati Reds,R,R,1986,9718,Chris Dominguez,OF
+KCR,Kansas City Royals,R,L,1988,10045,Chris Dwyer,P
+NYM,New York Mets,R,R,1994,13896,Chris Flexen,P
+MIN,Minnesota Twins,R,R,1982,7324,Chris Gimenez,C
+OAK,Oakland Athletics,R,R,1985,3299,Chris Hatcher,P
+MIN,Minnesota Twins,R,R,1984,3978,Chris Heisey,OF
+ARI,Arizona Diamondbacks,L,R,1987,9284,Chris Herrmann,C/OF
+MIN,Minnesota Twins,R,R,1988,10302,Chris Heston,P
+COL,Colorado Rockies,R,R,1983,8267,Chris Iannetta,C
+MIA,Miami Marlins,R,R,1984,1191,Chris Johnson,3B
+LAA,Los Angeles Angels,L,L,1988,sa392067,Chris Jones,
+BAL,Baltimore Orioles,L,L,1992,sa550044,Christopher Lee,
+PHI,Philadelphia Phillies,L,R,1984,7645,Chris Leroux,P
+SFG,San Francisco Giants,R,R,1988,2852,Chris Marrero,1B/OF
+TEX,Texas Rangers,R,R,1986,11847,Chris Martin,P
+PIT,Pittsburgh Pirates,L,L,1988,9423,Chris McGuiness,1B
+MIA,Miami Marlins,L,L,1981,2141,Chris Narveson,P
+SDP,San Diego Padres,R,R,1985,8175,Chris Nelson,3B
+MIA,Miami Marlins,R,L,1990,13818,Chris O'Grady,
+ARI,Arizona Diamondbacks,R,R,1991,10030,Chris Owings,2B/SS
+NYY,New York Yankees,L,L,1988,2554,Chris Parmelee,1B/OF
+MIL,Milwaukee Brewers,R,R,1985,5213,Chris Perez,P
+COL,Colorado Rockies,R,R,1993,sa829062,Chris Rabago,C
+SDP,San Diego Padres,L,L,1987,11050,Christopher Rearick,P
+MIA,Miami Marlins,L,L,1990,12801,Chris Reed,P
+OAK,Oakland Athletics,R,R,1982,3799,Chris Resop,P
+TOR,Toronto Blue Jays,R,R,1990,18820,Chris Rowley,P
+COL,Colorado Rockies,L,L,1986,9895,Chris Rusin,P
+BOS,Boston Red Sox,L,L,1989,10603,Chris Sale,P
+NYM,New York Mets,R,R,1986,7851,Chris Schwinden,P
+OAK,Oakland Athletics,R,R,1981,4544,Chris Smith,P
+TOR,Toronto Blue Jays,R,R,1988,14449,Chris Smith,P
+WSN,Washington Nationals,R,R,1981,4606,Chris Snyder,C
+ATL,Atlanta Braves,R,R,1982,3878,Chris Stewart,C
+SFG,San Francisco Giants,R,R,1990,13761,Chris Stratton,P
+LAD,Los Angeles Dodgers,R,R,1990,13757,Chris Taylor,SS/OF
+BAL,Baltimore Orioles,R,R,1988,5279,Chris Tillman,P
+CHC,Chicago Cubs,R,R,1985,1165,Chris Valaika,2B
+CHW,Chicago White Sox,R,R,1986,9901,Chris Volstad,P
+ATL,Atlanta Braves,R,R,1989,7161,Chris Withrow,P
+KCR,Kansas City Royals,R,R,1979,3196,Chris Young,P
+LAA,Los Angeles Angels,R,R,1983,3882,Chris Young,OF
+TBR,Tampa Bay Rays,R,R,1995,16434,Christian Arroyo,3B/SS
+SEA,Seattle Mariners,R,R,1988,10925,Christian Bergman,P
+SDP,San Diego Padres,R,R,1991,10028,Christian Bethancourt,C
+MIA,Miami Marlins,R,R,1989,11145,Christian Colon,2B/3B
+SDP,San Diego Padres,R,L,1987,7942,Christian Friedrich,P
+WSN,Washington Nationals,R,R,1985,4067,Christian Garcia,P
+BOS,Boston Red Sox,R,R,1990,9774,Christian Vazquez,C
+SDP,San Diego Padres,R,R,1991,11738,Christian Villanueva,3B
+ARI,Arizona Diamondbacks,R,R,1991,13419,Christian Walker,1B/DH
+MIL,Milwaukee Brewers,L,R,1991,11477,Christian Yelich,OF
+HOU,Houston Astros,L,L,1996,sa954181,Cionel Perez,P
+PHI,Philadelphia Phillies,L,R,1984,3543,Clay Buchholz,P
+PIT,Pittsburgh Pirates,R,R,1993,13649,Clay Holmes,P
+LAA,Los Angeles Angels,R,L,1981,4831,Clay Rapada,P
+TEX,Texas Rangers,L,R,1993,sa598302,Clayton Blackburn,
+LAD,Los Angeles Dodgers,L,L,1988,2036,Clayton Kershaw,P
+BOS,Boston Red Sox,R,R,1985,3166,Clayton Mortensen,P
+SDP,San Diego Padres,L,L,1983,3551,Clayton Richard,P
+MIN,Minnesota Twins,L,R,1983,3373,Clete Thomas,OF
+PHI,Philadelphia Phillies,L,L,1978,1636,Cliff Lee,P
+CIN,Cincinnati Reds,S,R,1984,3395,Cliff Pennington,2B/SS
+KCR,Kansas City Royals,R,R,1979,1830,Clint Barmes,2B/SS
+NYY,New York Yankees,R,R,1994,15983,Clint Frazier,OF
+WSN,Washington Nationals,L,L,1985,6908,Clint Robinson,1B/OF
+CLE,Cleveland Indians,S,R,1979,1572,Coco Crisp,OF
+CLE,Cleveland Indians,R,R,1988,12183,Cody Allen,P
+CLE,Cleveland Indians,R,R,1990,12799,Cody Anderson,P
+KCR,Kansas City Royals,L,R,1990,11997,Cody Asche,3B/OF
+LAD,Los Angeles Dodgers,L,L,1995,15998,Cody Bellinger,1B/OF
+KCR,Kansas City Royals,R,R,1987,9665,Cody Decker,1B
+LAA,Los Angeles Angels,L,L,1991,15928,Cody Ege,P
+NYY,New York Yankees,R,R,1985,9095,Cody Eppley,P
+MIA,Miami Marlins,R,R,1988,12232,Cody Hall,P
+SEA,Seattle Mariners,R,R,1989,12182,Cody Martin,P
+CHC,Chicago Cubs,R,R,1976,1126,Cody Ransom,3B/SS
+CIN,Cincinnati Reds,L,L,1993,15232,Cody Reed,P
+OAK,Oakland Athletics,R,L,1980,1760,Cody Ross,OF
+STL,St. Louis Cardinals,L,R,1988,10838,Cody Stanley,C
+TEX,Texas Rangers,R,R,1979,1259,Colby Lewis,P
+BAL,Baltimore Orioles,L,L,1986,9893,Colby Rasmus,OF
+MIA,Miami Marlins,L,R,1987,8790,Cole Figueroa,2B
+MIA,Miami Marlins,R,R,1984,5888,Cole Gillespie,OF
+TEX,Texas Rangers,L,L,1983,4972,Cole Hamels,P
+PIT,Pittsburgh Pirates,L,R,1992,16909,Colin Moran,3B
+SDP,San Diego Padres,R,R,1990,12317,Colin Rea,P
+MIL,Milwaukee Brewers,S,R,1989,10961,Colin Walsh,3B
+CIN,Cincinnati Reds,R,R,1986,6883,Collin Balester,P
+CLE,Cleveland Indians,R,L,1986,7250,Collin Cowgill,OF
+HOU,Houston Astros,R,R,1987,7531,Collin McHugh,P
+CLE,Cleveland Indians,L,L,1985,7560,Colt Hynes,P
+SDP,San Diego Padres,R,R,1992,12997,Colten Brewer,P
+PHI,Philadelphia Phillies,R,R,1990,12264,Colton Murray,P
+STL,St. Louis Cardinals,R,R,1995,sa737829,Conner Greene,P
+TEX,Texas Rangers,R,R,1991,sa550247,Connor Sadzeck,
+SFG,San Francisco Giants,L,R,1987,9009,Conor Gillaspie,3B
+CHC,Chicago Cubs,R,R,1988,11580,Conor Mullee,P
+NYY,New York Yankees,L,R,1988,5503,Corban Joseph,1B/2B
+BAL,Baltimore Orioles,S,R,1987,8631,Cord Phelps,2B/DH
+BOS,Boston Red Sox,L,L,1985,2650,Corey Brown,OF
+PIT,Pittsburgh Pirates,L,R,1989,10762,Corey Dickerson,OF
+PIT,Pittsburgh Pirates,R,R,1982,1945,Corey Hart,OF
+CLE,Cleveland Indians,R,R,1986,2429,Corey Kluber,P
+MIL,Milwaukee Brewers,R,R,1991,15010,Corey Knebel,P
+NYM,New York Mets,R,R,1993,sa658034,Corey Oswalt,P
+LAD,Los Angeles Dodgers,L,R,1994,13624,Corey Seager,SS
+CIN,Cincinnati Reds,R,R,1976,342,Corky Miller,
+TOR,Toronto Blue Jays,R,R,1987,6620,Cory Burns,P
+SFG,San Francisco Giants,R,R,1986,7947,Cory Gearrin,P
+PIT,Pittsburgh Pirates,R,L,1985,1984,Cory Luebke,P
+CHC,Chicago Cubs,R,R,1989,12537,Cory Mazzoni,P
+LAA,Los Angeles Angels,R,R,1987,2413,Cory Rasmus,P
+SDP,San Diego Padres,L,R,1991,12294,Cory Spangenberg,2B/3B
+TOR,Toronto Blue Jays,R,R,1983,7570,Cory Wade,P
+TOR,Toronto Blue Jays,L,L,1980,4363,Craig Breslow,P
+BAL,Baltimore Orioles,R,R,1983,9571,Craig Gentry,OF
+BOS,Boston Red Sox,R,R,1988,6655,Craig Kimbrel,P
+SDP,San Diego Padres,R,R,1984,7274,Craig Stammen,P
+COL,Colorado Rockies,S,R,1991,6013,Cristhian Adames,SS
+TBR,Tampa Bay Rays,R,R,1988,12510,Curt Casali,C
+TOR,Toronto Blue Jays,L,R,1981,4747,Curtis Granderson,OF
+PIT,Pittsburgh Pirates,R,R,1987,1333,Curtis Partch,P
+CIN,Cincinnati Reds,R,R,1991,sa549926,D.J. Peterson,
+SFG,San Francisco Giants,L,L,1992,sa549813,D.J. Snelten,P
+SEA,Seattle Mariners,R,R,1982,18722,Dae-Ho Lee,1B
+NYM,New York Mets,R,R,1980,7775,Daisuke Matsuzaka,P
+BAL,Baltimore Orioles,R,R,1980,5032,Dale Thayer,P
+PHI,Philadelphia Phillies,R,R,1986,15671,Dalier Hinojosa,P
+CHC,Chicago Cubs,R,R,1989,11471,Dallas Beeler,P
+HOU,Houston Astros,L,L,1988,9434,Dallas Keuchel,P
+TOR,Toronto Blue Jays,S,R,1992,12797,Dalton Pompey,OF
+LAA,Los Angeles Angels,R,R,1991,13395,Damien Magnifico,P
+SEA,Seattle Mariners,R,R,1992,16507,Dan Altavilla,P
+WSN,Washington Nationals,R,R,1986,9968,Daniel Butler,C
+CHC,Chicago Cubs,R,R,1980,1757,Dan Haren,P
+MIL,Milwaukee Brewers,L,L,1987,8073,Dan Jennings,P
+STL,St. Louis Cardinals,L,R,1979,2167,Dan Johnson,1B
+CLE,Cleveland Indians,R,R,1985,7385,Dan Otero,P
+PIT,Pittsburgh Pirates,L,L,1985,4080,Dan Runzler,P
+SFG,San Francisco Giants,R,R,1992,15639,Dan Slania,P
+MIA,Miami Marlins,R,R,1988,9460,Dan Straily,P
+WSN,Washington Nationals,R,R,1980,3442,Dan Uggla,2B
+SEA,Seattle Mariners,L,R,1992,14130,Dan Vogelbach,1B/DH
+TBR,Tampa Bay Rays,L,L,1983,5508,Dana Eveland,P
+LAA,Los Angeles Angels,R,R,1983,10095,Dane de la Rosa,P
+CHC,Chicago Cubs,R,R,1985,7115,Daniel Bard,P
+SDP,San Diego Padres,R,R,1995,sa657827,Daniel Bravo,
+SFG,San Francisco Giants,R,R,1991,sa829978,Daniel Carbonell,
+ATL,Atlanta Braves,R,R,1992,15450,Daniel Castro,2B/SS
+LAD,Los Angeles Dodgers,R,R,1990,9266,Daniel Corcino,P
+OAK,Oakland Athletics,L,L,1989,13293,Daniel Coulombe,P
+ARI,Arizona Diamondbacks,L,R,1986,8392,Daniel Descalso,2B/3B
+CHW,Chicago White Sox,L,R,1991,10390,Daniel Fields,OF
+OAK,Oakland Athletics,R,R,1992,16164,Daniel Gossett,P
+TBR,Tampa Bay Rays,R,R,1987,7146,Daniel Hudson,P
+TEX,Texas Rangers,R,R,1982,263,Daniel McCutchen,
+OAK,Oakland Athletics,R,R,1993,16980,Daniel Mengden,P
+WSN,Washington Nationals,L,R,1985,4316,Daniel Murphy,2B
+PHI,Philadelphia Phillies,S,L,1983,5450,Daniel Nava,OF
+DET,Detroit Tigers,L,L,1993,13475,Daniel Norris,P
+CHW,Chicago White Sox,L,L,1991,sa549449,Daniel Palka,
+TBR,Tampa Bay Rays,R,R,1994,14145,Daniel Robertson,2B/SS
+CLE,Cleveland Indians,R,R,1985,6266,Daniel Robertson,OF
+DET,Detroit Tigers,L,L,1986,8739,Daniel Schlereth,P
+LAA,Anaheim Angels,R,R,1985,9404,Daniel Stange,P
+DET,Detroit Tigers,L,L,1991,13780,Daniel Stumpf,P
+CHW,Chicago White Sox,R,R,1989,10558,Daniel Webb,P
+ATL,Atlanta Braves,R,R,1990,12237,Dan Winkler,P
+LAA,Los Angeles Angels,R,R,1991,15179,Daniel Wright,P
+TOR,Toronto Blue Jays,L,R,1989,11388,Danny Barnes,P
+ATL,Atlanta Braves,R,R,1988,11397,Daniel Burawa,P
+TOR,Toronto Blue Jays,L,L,1984,1050,Daniel Dorn,1B/OF
+KCR,Kansas City Royals,L,L,1988,3542,Danny Duffy,P
+NYY,New York Yankees,S,R,1987,9219,Danny Espinosa,2B/SS
+CHW,Chicago White Sox,R,R,1987,8501,Danny Farquhar,P
+SEA,Seattle Mariners,L,L,1989,sa455118,Danny Hultzen,
+TOR,Toronto Blue Jays,R,R,1995,sa738162,Danny Jansen,C
+NYM,New York Mets,S,R,1989,12214,Daniel Muno,3B
+PIT,Pittsburgh Pirates,L,L,1990,10317,Danny Ortiz,OF
+LAA,Los Angeles Angels,R,R,1991,sa501564,Danny Reynolds,
+CLE,Cleveland Indians,R,R,1990,5867,Danny Salazar,P
+ATL,Atlanta Braves,S,R,1990,10322,Danny Santana,SS/OF
+BAL,Baltimore Orioles,R,R,1984,6364,Danny Valencia,3B
+HOU,Houston Astros,R,R,1985,198,Danny Worth,
+ATL,Atlanta Braves,R,R,1994,18314,Dansby Swanson,SS
+OAK,Oakland Athletics,L,R,1985,5928,Daric Barton,1B
+BAL,Baltimore Orioles,R,R,1988,15580,Dariel Alvarez,OF
+HOU,Houston Astros,R,L,1984,5903,Darin Downs,P
+MIN,Minnesota Twins,R,R,1985,7316,Darin Mastroianni,OF
+LAD,Los Angeles Dodgers,R,R,1986,9929,Darin Ruf,1B/OF
+PIT,Pittsburgh Pirates,R,R,1994,sa737059,Dario Agrazal,P
+SEA,Seattle Mariners,L,L,1989,14239,Dario Alvarez,P
+LAD,Los Angeles Dodgers,S,R,1991,13284,Darnell Sweeney,2B/OF
+TOR,Toronto Blue Jays,L,L,1990,9954,Darrell Ceciliani,OF
+BAL,Baltimore Orioles,R,R,1982,3321,Darren O'Day,P
+TOR,Toronto Blue Jays,R,R,1985,2430,Darwin Barney,2B
+PHI,Philadelphia Phillies,R,R,1987,6898,Dave Sappelt,OF
+ATL,Atlanta Braves,R,R,1981,1902,David Aardsma,P
+BAL,Baltimore Orioles,R,R,1987,7389,David Adams,3B
+CHC,Chicago Cubs,R,R,1993,sa658323,David Bote,1B/2B
+PHI,Philadelphia Phillies,R,R,1989,11176,David Buchanan,P
+TBR,Tampa Bay Rays,R,R,1985,3959,David Carpenter,P
+ATL,Atlanta Braves,R,R,1987,9244,David Carpenter,P
+CLE,Cleveland Indians,L,L,1987,7752,David Cooper,1B/DH
+COL,Colorado Rockies,L,R,1994,13744,David Dahl,OF
+LAA,Los Angeles Angels,L,L,1979,1825,David DeJesus,OF
+PIT,Pittsburgh Pirates,R,R,1983,9549,David Freese,3B
+SEA,Seattle Mariners,R,R,1989,10619,David Freitas,C
+MIL,Milwaukee Brewers,R,R,1988,12166,David Goforth,P
+BAL,Baltimore Orioles,R,R,1987,9756,David Hale,P
+CIN,Cincinnati Reds,R,R,1985,4259,David Hernandez,P
+BAL,Baltimore Orioles,R,R,1993,sa829314,David Hess,P
+CHW,Chicago White Sox,R,L,1991,7725,David Holmberg,P
+LAA,Los Angeles Angels,S,L,1984,4257,David Huff,P
+PHI,Philadelphia Phillies,L,L,1986,7215,David Lough,OF
+HOU,Houston Astros,R,R,1987,8893,David Martinez,P
+BOS,Boston Red Sox,L,L,1981,6035,David Murphy,OF
+TOR,Toronto Blue Jays,R,R,1983,3625,David Pauley,P
+HOU,Houston Astros,R,R,1994,17418,David Paulino,P
+ARI,Arizona Diamondbacks,L,L,1987,2136,David Peralta,OF
+SEA,Seattle Mariners,R,R,1986,6316,David Phelps,P
+BOS,Boston Red Sox,L,L,1985,3184,David Price,P
+CHW,Chicago White Sox,L,L,1982,8360,David Purcey,P
+NYY,New York Yankees,R,R,1985,8241,David Robertson,P
+CHC,Chicago Cubs,L,L,1989,11928,David Rollins,P
+CHC,Chicago Cubs,R,R,1977,1551,David Ross,C
+BAL,Baltimore Orioles,L,L,1990,12110,David Washington,DH/OF
+NYM,New York Mets,R,R,1982,3787,David Wright,3B
+DET,Detroit Tigers,R,R,1994,,,
+LAA,Los Angeles Angels,R,R,1989,11543,Dayan Diaz,P
+TOR,Toronto Blue Jays,R,R,1989,3917,Dayan Viciedo,OF
+CHW,Chicago White Sox,L,R,1986,8353,Dean Anna,SS
+HOU,Houston Astros,R,R,1993,sa829001,Dean Deetz,P
+SEA,Seattle Mariners,L,L,1989,10529,Dean Kiekhefer,P
+CIN,Cincinnati Reds,R,R,1989,11596,Deck McGuire,P
+SEA,Seattle Mariners,L,R,1988,8203,Dee Gordon,2B
+TEX,Texas Rangers,R,R,1992,11379,Delino DeShields,OF
+NYY,New York Yankees,R,R,1988,6216,Dellin Betances,P
+BAL,Baltimore Orioles,R,R,1985,2140,Delmon Young,OF
+TBR,Tampa Bay Rays,L,L,1984,8347,Denard Span,OF
+CIN,Cincinnati Reds,R,R,1985,6968,Denis Phipps,OF
+LAD,Los Angeles Dodgers,R,R,1996,sa737018,Dennis Santana,P/SS
+LAA,Los Angeles Angels,R,R,1989,8410,Deolis Guerra,P
+MIA,Miami Marlins,L,R,1989,10542,Derek Dietrich,2B/3B
+HOU,Houston Astros,L,R,1993,16192,Derek Fisher,OF
+DET,Detroit Tigers,R,R,1995,,,
+SFG,San Francisco Giants,S,L,1986,4141,Derek Holland,P
+SFG,San Francisco Giants,R,R,1990,13133,Derek Law,P
+TBR,Tampa Bay Rays,R,R,1989,6867,Derek Norris,C
+STL,St. Louis Cardinals,R,R,1995,sa737568,Derian Gonzalez,P
+CIN,Cincinnati Reds,S,L,1987,2784,Derrick Robinson,OF
+TBR,Tampa Bay Rays,R,R,1986,1965,Desmond Jennings,OF
+MIA,Miami Marlins,R,R,1990,9887,Destin Hood,OF
+CIN,Cincinnati Reds,R,R,1985,7371,Deunte Heath,P
+ARI,Arizona Diamondbacks,R,R,1990,13325,Deven Marrero,3B
+CIN,Cincinnati Reds,R,R,1988,5666,Devin Mesoraco,C
+TOR,Toronto Blue Jays,R,R,1991,13862,Devon Travis,2B
+STL,St. Louis Cardinals,S,R,1986,4062,Dexter Fowler,OF
+ATL,Atlanta Braves,L,L,1989,17199,Dian Toscano,OF
+NYY,New York Yankees,L,R,1990,6012,Didi Gregorius,SS
+TBR,Tampa Bay Rays,R,R,1994,sa822882,Diego Castillo,P
+CLE,Cleveland Indians,R,R,1987,6238,Diego Moreno,P
+MIN,Minnesota Twins,L,L,1991,13932,Dietrich Enns,P
+MIN,Minnesota Twins,R,R,1986,7396,Dillon Gee,P
+CHC,Chicago Cubs,R,R,1992,14672,Dillon Maples,P
+SDP,San Diego Padres,L,L,1991,15627,Dillon Overton,P
+MIA,Miami Marlins,L,L,1992,18790,Dillon Peters,P
+CIN,Cincinnati Reds,R,R,1994,14335,Dilson Herrera,2B
+SDP,San Diego Padres,R,R,1992,17186,Dinelson Lamet,P
+TOR,Toronto Blue Jays,S,R,1984,3179,Dioner Navarro,C
+DET,Detroit Tigers,R,R,1992,11472,Dixon Machado,2B/SS
+COL,Colorado Rockies,R,R,1988,9874,DJ LeMahieu,2B
+NYY,New York Yankees,R,R,1994,sa739716,Domingo Acevedo,P
+NYY,New York Yankees,R,R,1992,17149,Domingo German,P
+ARI,Arizona Diamondbacks,S,R,1995,,,
+MIL,Milwaukee Brewers,R,R,1992,10348,Domingo Santana,OF
+STL,St. Louis Cardinals,R,R,1991,13763,Dominic Leone,P
+NYM,New York Mets,L,L,1995,15653,Dominic Smith,1B
+PHI,Philadelphia Phillies,L,L,1987,3154,Domonic Brown,OF
+MIA,Miami Marlins,L,R,1980,2216,Don Kelly,OF
+CIN,Cincinnati Reds,L,R,1989,10154,Donald Lutz,OF
+OAK,Oakland Athletics,R,R,1989,10620,Donn Roach,P
+BAL,Baltimore Orioles,L,L,1990,15306,Donnie Hart,P
+MIA,Miami Marlins,L,L,1987,6491,Donnie Joseph,P
+TEX,Texas Rangers,R,R,1983,4704,Donnie Murphy,2B/3B/SS
+TEX,Texas Rangers,L,L,1984,4741,Donnie Veal,P
+CIN,Cincinnati Reds,R,R,1986,8728,Donovan Hand,P
+NYY,New York Yankees,R,R,1987,8623,Donovan Solano,2B
+MIN,Minnesota Twins,R,R,1980,4518,Doug Bernier,SS
+TEX,Texas Rangers,L,R,1984,9425,Doug Fister,P
+PIT,Pittsburgh Pirates,R,R,1993,11604,Dovydas Neverauskas,P
+CHC,Chicago Cubs,L,L,1989,2868,Drake Britton,P
+PHI,Philadelphia Phillies,R,R,1994,15130,Drew Anderson,P
+KCR,Kansas City Royals,R,R,1983,3411,Drew Butera,C
+TOR,Toronto Blue Jays,R,R,1985,9533,Andrew Carpenter,P
+NYM,New York Mets,R,R,1990,,,
+CIN,Cincinnati Reds,R,R,1987,10528,Drew Hayes,P
+PHI,Philadelphia Phillies,L,R,1990,10732,Drew Hutchison,P
+BOS,Boston Red Sox,R,L,1988,11426,Drew Pomeranz,P
+TEX,Texas Rangers,L,R,1992,11761,Drew Robinson,3B/OF
+MIN,Minnesota Twins,R,R,1988,12499,Drew Rucinski,P
+CHC,Chicago Cubs,L,L,1989,11760,Drew Smyly,P
+MIA,Miami Marlins,R,R,1991,18806,Drew Steckenrider,P
+CIN,Cincinnati Reds,S,R,1987,6983,Drew Storen,P
+SFG,San Francisco Giants,R,R,1984,9328,Drew Stubbs,OF
+DET,Detroit Tigers,R,R,1990,13424,Drew VerHagen,P
+MIA,Miami Marlins,L,L,1985,3124,Duane Below,P
+CHC,Chicago Cubs,R,R,1994,sa657936,Duane Underwood,
+PIT,Pittsburgh Pirates,L,R,1986,792,Duke Welker,
+NYY,New York Yankees,L,R,1988,10099,Dustin Ackley,2B/OF
+TOR,Toronto Blue Jays,R,R,1989,7119,Dustin Antolin,P
+OAK,Oakland Athletics,L,L,1994,17098,Dustin Fowler,OF
+OAK,Oakland Athletics,R,R,1987,9433,Dustin Garneau,C
+MIA,Miami Marlins,R,R,1982,8600,Dustin McGowan,P
+DET,Detroit Tigers,L,R,1984,6200,Dustin Molleken,P
+BOS,Boston Red Sox,R,R,1983,8370,Dustin Pedroia,2B
+SDP,San Diego Padres,R,R,1987,8979,Dusty Coleman,SS
+TOR,Toronto Blue Jays,L,R,1992,13473,Dwight Smith,OF
+CIN,Cincinnati Reds,R,R,1985,9303,Dylan Axelrod,P
+LAD,Los Angeles Dodgers,R,R,1992,sa658002,Dylan Baker,
+BAL,Baltimore Orioles,S,R,1992,12917,Dylan Bundy,P
+CHW,Chicago White Sox,R,R,1991,14825,Dylan Covey,P
+PHI,Philadelphia Phillies,L,L,1994,sa657955,Dylan Cozens,
+CIN,Cincinnati Reds,L,R,1990,13394,Dylan Floro,P
+STL,St. Louis Cardinals,R,R,1985,2487,Edward Easley,C
+TEX,Texas Rangers,R,R,1982,7532,Ed Lucas,3B
+CHC,Chicago Cubs,R,R,1991,13453,Eddie Butler,P
+TEX,Texas Rangers,R,R,1984,6911,Eddie Gamboa,P
+MIN,Minnesota Twins,L,R,1991,12155,Eddie Rosario,OF
+SDP,San Diego Padres,R,R,1985,6870,Eddy Rodriguez,C
+HOU,Houston Astros,R,R,1983,1727,Edgar Gonzalez,P
+LAA,Los Angeles Angels,L,L,1989,5195,Edgar Ibarra,P
+CHC,Chicago Cubs,L,L,1990,10174,Edgar Olmos,P
+PIT,Pittsburgh Pirates,R,R,1991,17355,Edgar Santana,P
+SFG,San Francisco Giants,R,R,1986,8574,Edgmer Escalona,P
+MIA,Miami Marlins,R,R,1983,3990,Edinson Volquez,P
+STL,St. Louis Cardinals,R,R,1996,sa736859,Edmundo Sosa,
+MIN,Minnesota Twins,S,R,1989,6153,Eduardo Escobar,3B/SS
+DET,Detroit Tigers,R,R,1995,sa655954,Eduardo Jimenez,P
+BOS,Boston Red Sox,R,R,1987,6848,Eduardo Nunez,3B/SS
+LAA,Los Angeles Angels,R,R,1995,16344,Eduardo Paredes,P
+BOS,Boston Red Sox,L,L,1993,13164,Eduardo Rodriguez,P
+CHC,Chicago Cubs,R,R,1989,2966,Eduardo Sanchez,P
+PHI,Philadelphia Phillies,R,R,1992,16086,Edubray Ramos,P
+TEX,Texas Rangers,L,L,1987,9211,Edwar Cabrera,P
+DET,Detroit Tigers,R,R,1984,3970,Edward Mujica,P
+LAD,Los Angeles Dodgers,L,L,1986,4168,Edward Paredes,P
+SEA,Seattle Mariners,R,R,1994,14710,Edwin Diaz,P
+CLE,Cleveland Indians,R,R,1983,2151,Edwin Encarnacion,3B/DH
+CLE,Cleveland Indians,L,L,1992,10337,Edwin Escobar,P
+WSN,Washington Nationals,R,R,1983,1841,Edwin Jackson,P
+CHC,Chicago Cubs,L,L,1986,9854,Efren Navarro,1B/OF
+MIN,Minnesota Twins,S,R,1989,8418,Ehire Adrianza,2B/SS
+MIL,Milwaukee Brewers,S,R,1985,5432,Elian Herrera,2B/3B/OF
+PIT,Pittsburgh Pirates,R,R,1990,11680,Elias Diaz,C
+MIA,Miami Marlins,R,R,1995,sa658203,Elieser Hernandez,P
+TEX,Texas Rangers,L,R,1994,sa657261,Eliezer Alvarez,
+TEX,Texas Rangers,S,R,1984,4751,Elliot Johnson,2B/SS
+ATL,Atlanta Braves,R,R,1990,sa506274,Elmer Reyes,
+PHI,Philadelphia Phillies,L,L,1994,sa684104,Elniery Garcia,
+CHW,Chicago White Sox,R,R,1996,sa830373,Eloy Jimenez,OF
+PIT,Pittsburgh Pirates,R,R,1987,2247,Elvin Ramirez,P
+TEX,Texas Rangers,R,R,1988,8709,Elvis Andrus,SS
+MIA,Miami Marlins,L,L,1991,12854,Elvis Araujo,P
+ATL,Atlanta Braves,S,R,1985,4054,Emilio Bonifacio,2B/OF
+OAK,Oakland Athletics,L,R,1991,14771,Emilio Pagan,P
+PHI,Philadelphia Phillies,S,R,1985,2917,Emmanuel Burriss,2B
+ATL,Atlanta Braves,L,L,1990,4922,Ender Inciarte,OF
+SEA,Seattle Mariners,L,L,1978,768,Endy Chavez,
+HOU,Houston Astros,R,R,1985,4204,Enerio Del Rosario,P
+TEX,Texas Rangers,L,L,1989,4918,Engel Beltre,OF
+BAL,Baltimore Orioles,S,R,1994,15481,Engelb Vielma,2B
+PIT,Pittsburgh Pirates,R,L,1991,4001,Enny Romero,P
+ATL,Atlanta Braves,R,R,1990,3895,Enrique Burgos,P
+LAD,Los Angeles Dodgers,R,R,1991,10472,Enrique Hernandez,OF
+SEA,Seattle Mariners,R,R,1990,10314,Erasmo Ramirez,P
+NYM,New York Mets,R,R,1987,6938,Eric Campbell,1B/3B
+MIL,Milwaukee Brewers,R,R,1986,2066,Eric Farris,2B/OF
+WSN,Washington Nationals,R,R,1988,7042,Eric Fornataro,P
+STL,St. Louis Cardinals,R,R,1985,8145,Eric Fryer,C
+CLE,Cleveland Indians,R,R,1992,,,
+SDP,San Diego Padres,L,L,1989,3516,Eric Hosmer,1B
+MIA,Miami Marlins,R,L,1989,11157,Eric Jokisch,P
+ATL,Atlanta Braves,L,L,1985,5746,Eric O'Flaherty,P
+KCR,Kansas City Royals,L,L,1992,16155,Eric Skoglund,P
+MIL,Milwaukee Brewers,L,R,1986,7927,Eric Sogard,2B
+CLE,Cleveland Indians,R,R,1991,sa621787,Eric Stamets,SS
+KCR,Kansas City Royals,L,L,1993,sa829070,Eric Stout,P
+LAD,Los Angeles Dodgers,L,L,1979,8011,Eric Stults,P
+TEX,Texas Rangers,L,L,1987,2540,Eric Surkamp,P
+MIL,Milwaukee Brewers,L,R,1986,3711,Eric Thames,1B/OF
+LAA,Los Angeles Angels,S,R,1985,7158,Eric Young,OF
+SDP,San Diego Padres,S,R,1984,4082,Erick Aybar,SS
+WSN,Washington Nationals,R,R,1993,17425,Erick Fedde,P
+TBR,Tampa Bay Rays,L,L,1979,126,Erik Bedard,
+MIA,Miami Marlins,R,R,1986,4086,Erik Cordier,P
+WSN,Washington Nationals,R,R,1986,8422,Erik Davis,P
+TEX,Texas Rangers,R,R,1988,11712,Erik Goeddel,P
+CLE,Cleveland Indians,R,R,1991,13369,Erik Gonzalez,2B
+SDP,San Diego Padres,R,R,1989,12520,Erik Johnson,P
+MIN,Minnesota Twins,L,L,1987,8039,Erik Komatsu,OF
+NYY,New York Yankees,R,R,1980,4403,Erik Kratz,C
+LAD,Los Angeles Dodgers,R,R,1990,15809,Erisbel Arruebarrena,SS
+TEX,Texas Rangers,R,R,1985,5178,Ernesto Frieri,P
+MIN,Minnesota Twins,R,R,1982,3200,Ervin Santana,P
+NYY,New York Yankees,R,R,1985,6317,Esmil Rogers,P
+STL,St. Louis Cardinals,R,R,1994,sa739879,Estarlin Arias,P
+PHI,Philadelphia Phillies,R,R,1989,3877,Ethan Martin,P
+CIN,Cincinnati Reds,R,R,1991,12552,Eugenio Suarez,3B/SS
+SDP,San Diego Padres,L,L,1990,4055,Eury De la Rosa,P
+PIT,Pittsburgh Pirates,R,R,1990,10299,Eury Perez,OF
+TOR,Toronto Blue Jays,R,L,1986,7249,Evan Crawford,P
+HOU,Houston Astros,R,R,1986,11003,Evan Gattis,C/DH
+SFG,San Francisco Giants,R,R,1985,9368,Evan Longoria,3B
+SEA,Seattle Mariners,R,R,1990,12297,Evan Marshall,P
+BAL,Baltimore Orioles,R,R,1983,5109,Evan Meek,P
+DET,Detroit Tigers,R,R,1985,1349,Evan Reed,P
+ATL,Atlanta Braves,R,L,1992,sa549263,Evan Rutckyj,
+SEA,Seattle Mariners,R,R,1985,7525,Evan Scribner,P
+TBR,Tampa Bay Rays,L,L,1984,3732,Everett Teaford,P
+BAL,Baltimore Orioles,S,R,1986,8155,Everth Cabrera,SS
+TOR,Toronto Blue Jays,L,L,1987,9048,Ezequiel Carrera,OF
+LAD,Los Angeles Dodgers,R,R,1989,2826,Fabio Castillo,P
+BOS,Boston Red Sox,R,R,1983,3777,Felipe Paulino,P
+PIT,Pittsburgh Pirates,L,L,1991,12076,Felipe Vazquez,P
+OAK,Oakland Athletics,L,L,1987,1478,Felix Doubront,P
+SEA,Seattle Mariners,R,R,1986,4772,Felix Hernandez,P
+MIN,Minnesota Twins,R,R,1994,14532,Felix Jorge,P
+LAA,Los Angeles Angels,R,R,1990,13403,Felix Pena,P
+PHI,Philadelphia Phillies,L,L,1985,4994,Fernando Abad,P
+MIN,Minnesota Twins,R,R,1977,494,Fernando Rodney,
+OAK,Oakland Athletics,R,R,1984,7558,Fernando Rodriguez,P
+MIN,Minnesota Twins,R,R,1994,sa657418,Fernando Romero,
+ARI,Arizona Diamondbacks,R,R,1985,4971,Fernando Salas,P
+SDP,San Diego Padres,L,R,1994,14567,Franchy Cordero,OF
+HOU,Houston Astros,R,R,1995,17303,Francis Martes,P
+PIT,Pittsburgh Pirates,R,R,1986,5275,Francisco Cervelli,C
+CLE,Cleveland Indians,S,R,1993,12916,Francisco Lindor,SS
+DET,Detroit Tigers,L,L,1983,3201,Francisco Liriano,P
+CLE,Cleveland Indians,S,R,1995,16403,Francisco Mejia,C/DH
+BAL,Baltimore Orioles,R,R,1988,5496,Francisco Peguero,OF
+STL,St. Louis Cardinals,R,R,1989,8298,Francisco Pena,C
+PHI,Philadelphia Phillies,R,R,1982,1642,Francisco Rodriguez,P
+LAA,Los Angeles Angels,R,R,1983,6688,Francisco Rodriguez,P
+KCR,Kansas City Royals,L,L,1981,5980,Francisley Bueno,P
+CHW,Chicago White Sox,R,R,1979,1933,Frank Francisco,P
+SDP,San Diego Padres,L,L,1990,13144,Frank Garces,P
+PHI,Philadelphia Phillies,L,R,1984,7960,Frank Herrmann,P
+OAK,Oakland Athletics,R,R,1993,14309,Frankie Montas,P
+OAK,Oakland Athletics,R,R,1996,15519,Franklin Barreto,2B/SS
+LAD,Los Angeles Dodgers,R,R,1983,3255,Franklin Gutierrez,OF
+TOR,Toronto Blue Jays,L,L,1986,5088,Franklin Morales,P
+PHI,Philadelphia Phillies,R,R,1995,sa830592,Franklyn Kilome,P
+ATL,Atlanta Braves,L,R,1989,5361,Freddie Freeman,1B
+SDP,San Diego Padres,S,R,1989,6609,Freddy Galvis,SS
+TBR,Tampa Bay Rays,S,R,1983,2162,Freddy Guzman,OF
+MIL,Milwaukee Brewers,R,R,1996,sa737343,Freddy Peralta,P
+CIN,Cincinnati Reds,R,R,1993,sa596948,Gabby Guerrero,
+MIN,Minnesota Twins,L,L,1995,16348,Gabriel Moya,P
+CIN,Cincinnati Reds,S,R,1994,sa828252,Gabriel Ovalle,2B
+BAL,Baltimore Orioles,R,R,1993,12938,Gabriel Ynoa,P
+PIT,Pittsburgh Pirates,R,R,1983,3361,Gaby Sanchez,1B
+MIL,Milwaukee Brewers,L,R,1991,11608,Garin Cecchini,3B
+MIA,Miami Marlins,R,R,1990,15279,Garrett Cooper,1B
+NYY,New York Yankees,L,L,1981,2714,Garrett Jones,1B/OF
+LAA,Los Angeles Angels,R,R,1988,9784,Garrett Richards,P
+LAA,Los Angeles Angels,R,R,1988,11464,Gary Brown,OF
+NYY,New York Yankees,R,R,1992,11442,Gary Sanchez,C
+NYM,New York Mets,R,R,1993,17005,Gavin Cecchini,2B
+TOR,Toronto Blue Jays,R,R,1983,3886,Gavin Floyd,P
+PIT,Pittsburgh Pirates,R,R,1985,9486,George Kontos,P
+TOR,Toronto Blue Jays,L,R,1983,5506,George Kottaras,C
+KCR,Kansas City Royals,L,L,1977,6291,George Sherrill,P
+HOU,Houston Astros,R,R,1989,12856,George Springer,OF
+CHW,Chicago White Sox,R,R,1983,3707,Geovany Soto,C
+ARI,Arizona Diamondbacks,R,R,1979,1698,Gerald Laird,C
+CHC,Chicago Cubs,L,L,1992,14411,Gerardo Concepcion,P
+COL,Colorado Rockies,L,L,1987,8553,Gerardo Parra,OF
+COL,Colorado Rockies,R,R,1995,15038,German Marquez,P
+HOU,Houston Astros,R,R,1990,13125,Gerrit Cole,P
+NYM,New York Mets,R,R,1995,sa732755,Gerson Bautista,P
+DET,Detroit Tigers,R,R,1995,sa736656,Gerson Moreno,P
+NYY,New York Yankees,R,R,1989,4949,Giancarlo Stanton,OF
+TOR,Toronto Blue Jays,R,R,1990,10340,Gift Ngoepe,2B/SS
+MIA,Miami Marlins,R,R,1979,2070,Gil Velazquez,3B
+WSN,Washington Nationals,R,L,1985,7448,Gio Gonzalez,P
+CHW,Chicago White Sox,L,L,1991,10330,Giovanni Soto,P
+NYY,New York Yankees,R,R,1991,14986,Giovanny Gallegos,P
+CLE,Cleveland Indians,R,R,1991,10681,Giovanny Urshela,3B
+MIN,Minnesota Twins,L,L,1983,8041,Glen Perkins,P
+TOR,Toronto Blue Jays,S,R,1992,15200,Glenn Sparkman,P
+NYY,New York Yankees,R,R,1996,sa830372,Gleyber Torres,SS
+COL,Colorado Rockies,R,R,1987,5876,Gonzalez Germen,P
+SEA,Seattle Mariners,R,R,1986,9015,Gordon Beckham,2B
+SFG,San Francisco Giants,R,R,1987,4146,Gorkys Hernandez,OF
+TBR,Tampa Bay Rays,L,L,1982,2197,Grady Sizemore,OF
+OAK,Oakland Athletics,R,R,1984,3128,Graham Godfrey,P
+TBR,Tampa Bay Rays,R,R,1977,718,Grant Balfour,
+ATL,Atlanta Braves,L,L,1987,11203,Grant Dayton,P
+WSN,Washington Nationals,R,R,1987,10053,Grant Green,2B
+TBR,Tampa Bay Rays,L,L,1989,sa526542,Grayson Garvin,
+DET,Detroit Tigers,R,R,1992,sa828801,Grayson Greiner,C
+CLE,Cleveland Indians,S,R,1993,16623,Greg Allen,OF
+NYY,New York Yankees,L,R,1992,14131,Gregory Bird,1B
+PHI,Philadelphia Phillies,R,R,1982,6282,Greg Burke,P
+WSN,Washington Nationals,L,R,1978,2158,Greg Dobbs,3B
+STL,St. Louis Cardinals,L,R,1989,10951,Greg Garcia,2B/3B/SS
+STL,St. Louis Cardinals,R,R,1985,7196,Greg Holland,P
+LAA,Los Angeles Angels,L,L,1993,16877,Greg Mahle,P
+SFG,San Francisco Giants,L,L,1983,3123,Gregor Blanco,OF
+LAA,Los Angeles Angels,R,R,1984,3812,Gregorio Petit,2B/SS
+CHW,Chicago White Sox,R,R,1987,9119,Gregory Infante,P
+PIT,Pittsburgh Pirates,L,L,1991,12907,Gregory Polanco,OF
+DET,Detroit Tigers,L,L,1995,sa737262,Gregory Soto,P
+PIT,Pittsburgh Pirates,R,R,1989,12669,Guido Knudson,P
+TEX,Texas Rangers,S,R,1983,3412,Guilder Rodriguez,2B/3B/DH
+SEA,Seattle Mariners,R,L,1991,18721,Guillermo Heredia,OF
+CLE,Cleveland Indians,R,R,1981,7989,Guillermo Quiroz,C
+ATL,Atlanta Braves,R,R,1988,12321,Gus Schlosser,P
+TBR,Tampa Bay Rays,L,R,1990,sa502536,Hak-Ju Lee,
+TBR,Tampa Bay Rays,S,R,1988,2505,Hank Conger,C
+BOS,Boston Red Sox,R,R,1983,8001,Hanley Ramirez,SS
+NYM,New York Mets,R,R,1990,11801,Hansel Robles,P
+TEX,Texas Rangers,R,R,1992,11902,Hanser Alberto,2B
+TOR,Toronto Blue Jays,R,R,1994,sa660586,Harold Ramirez,
+STL,St. Louis Cardinals,R,R,1994,18030,Harrison Bader,OF
+WSN,Washington Nationals,R,R,1977,2080,Heath Bell,P
+KCR,Kansas City Royals,R,R,1994,sa738396,Heath Fillmyer,P
+BOS,Boston Red Sox,R,R,1989,11632,Heath Hembree,P
+SDP,San Diego Padres,L,R,1984,559,Hector Ambriz,
+CHW,Chicago White Sox,S,R,1982,2172,Hector Gimenez,C
+MIL,Milwaukee Brewers,R,R,1988,2264,Hector Gomez,2B/3B/SS
+PHI,Philadelphia Phillies,R,R,1989,11804,Hector Neris,P
+CHW,Chicago White Sox,R,R,1987,3292,Hector Noesi,P
+SDP,San Diego Padres,R,R,1985,17528,Hector Olivera,3B
+HOU,Houston Astros,R,R,1988,2391,Hector Rondon,P
+SDP,San Diego Padres,S,R,1989,10289,Hector Sanchez,C
+CHW,Chicago White Sox,R,L,1987,4026,Hector Santiago,P
+BOS,Boston Red Sox,R,R,1988,19341,Hector Velazquez,P
+PHI,Philadelphia Phillies,R,R,1990,5669,Henderson Alvarez,P
+MIA,Miami Marlins,R,R,1987,6371,Henry Rodriguez,P
+CIN,Cincinnati Reds,S,R,1990,7983,Henry Rodriguez,2B
+LAD,Los Angeles Dodgers,L,L,1992,13143,Henry Owens,P
+BAL,Baltimore Orioles,L,R,1987,14441,Henry Urrutia,DH/OF
+CIN,Cincinnati Reds,L,R,1984,4177,Hernan Iribarren,2B/OF
+MIL,Milwaukee Brewers,R,R,1991,5751,Hernan Perez,3B/OF
+MIL,Milwaukee Brewers,R,R,1987,9412,Hiram Burgos,P
+NYY,New York Yankees,R,R,1975,3283,Hiroki Kuroda,P
+SEA,Seattle Mariners,R,R,1981,13048,Hisashi Iwakuma,P
+PHI,Philadelphia Phillies,L,L,1991,13346,Hoby Milner,P
+CIN,Cincinnati Reds,R,R,1986,8362,Homer Bailey,P
+WSN,Washington Nationals,R,R,1983,4229,Howie Kendrick,2B
+SEA,Seattle Mariners,R,R,1979,1824,Humberto Quintero,C
+MIA,Miami Marlins,L,L,1990,10510,Hunter Cervenka,P
+KCR,Kansas City Royals,R,R,1991,15117,Hunter Dozier,OF
+BAL,Baltimore Orioles,R,R,1994,sa737510,Hunter Harvey,P
+SFG,San Francisco Giants,R,R,1983,8252,Hunter Pence,OF
+SDP,San Diego Padres,R,R,1992,15464,Hunter Renfroe,OF
+SFG,San Francisco Giants,R,R,1988,7836,Hunter Strickland,P
+TBR,Tampa Bay Rays,R,R,1993,15091,Hunter Wood,P
+LAA,Los Angeles Angels,R,R,1983,8258,Huston Street,P
+LAD,Los Angeles Dodgers,R,L,1987,14444,Hyun-Jin Ryu,P
+PHI,Philadelphia Phillies,L,R,1988,18718,Hyun Soo Kim,OF
+CHW,Chicago White Sox,L,L,1995,sa737534,Ian Clarkin,P
+COL,Colorado Rockies,R,R,1985,6885,Ian Desmond,SS
+SFG,San Francisco Giants,R,R,1990,sa598115,Ian Gardeck,
+CHC,Chicago Cubs,S,R,1994,17919,Ian Happ,2B/OF
+KCR,Kansas City Royals,R,R,1984,6986,Ian Kennedy,P
+LAA,Los Angeles Angels,R,R,1982,6195,Ian Kinsler,2B
+ATL,Atlanta Braves,L,L,1991,10066,Ian Krol,P
+TOR,Toronto Blue Jays,L,L,1989,13821,Ian Parmley,OF
+LAA,Los Angeles Angels,L,R,1985,5950,Ian Stewart,3B
+LAD,Los Angeles Dodgers,R,L,1987,13881,Ian Thomas,P
+SEA,Seattle Mariners,L,R,1973,1101,Ichiro Suzuki,OF
+NYY,New York Yankees,L,L,1987,8433,Ike Davis,1B
+ARI,Arizona Diamondbacks,S,R,1991,13324,Ildemaro Vargas,2B/3B
+MIL,Milwaukee Brewers,S,R,1983,6165,Irving Falu,2B
+TEX,Texas Rangers,R,R,1995,16512,Isiah Kiner-Falefa,2B
+CIN,Cincinnati Reds,R,R,1987,9886,Ivan De Jesus,2B
+PIT,Pittsburgh Pirates,R,R,1987,1994,Ivan Nova,P
+TOR,Toronto Blue Jays,L,L,1982,7410,J.A. Happ,P
+MIA,Miami Marlins,L,L,1987,6677,J.B. Shuck,OF
+OAK,Oakland Athletics,R,R,1993,14506,J.B. Wendelken,P
+CHC,Chicago Cubs,R,R,1979,2324,J.C. Boscan,C
+HOU,Houston Astros,R,R,1993,16219,J.D. Davis,1B/3B
+BOS,Boston Red Sox,R,R,1987,6184,J.D. Martinez,OF
+BAL,Baltimore Orioles,R,R,1982,3797,J.J. Hardy,SS
+MIL,Milwaukee Brewers,R,R,1987,9037,J.J. Hoover,P
+TBR,Tampa Bay Rays,R,R,1986,697,J.P. Arencibia,
+PHI,Philadelphia Phillies,L,R,1995,15491,J.P. Crawford,3B/SS
+TOR,Toronto Blue Jays,L,L,1983,8245,J.P. Howell,P
+NYY,New York Yankees,R,R,1990,12042,J.R. Graham,P
+LAD,Los Angeles Dodgers,S,R,1990,13767,J.T. Chargois,P
+MIA,Miami Marlins,R,R,1991,11739,J.T. Realmuto,C
+MIA,Miami Marlins,L,R,1991,17642,J.T. Riddle,SS
+LAA,Los Angeles Angels,R,R,1989,11247,Jabari Blash,OF
+CHW,Chicago White Sox,L,L,1993,16159,Jace Fry,P
+NYY,New York Yankees,L,R,1990,12325,Jace Peterson,2B
+STL,St. Louis Cardinals,R,R,1995,17479,Jack Flaherty,P
+CIN,Cincinnati Reds,L,R,1980,3692,Jack Hannahan,3B
+PIT,Pittsburgh Pirates,R,L,1990,12562,Jack Leathersich,P
+ARI,Arizona Diamondbacks,R,R,1992,14938,Jack Reinheimer,SS
+BOS,Boston Red Sox,L,R,1990,12984,Jackie Bradley Jr.,OF
+CIN,Cincinnati Reds,R,R,1994,14420,Jackson Stephens,P
+SFG,San Francisco Giants,R,R,1986,8524,Jackson Williams,C
+MIL,Milwaukee Brewers,R,R,1990,12323,Jacob Barnes,P
+NYM,New York Mets,L,R,1988,10954,Jacob deGrom,P
+TBR,Tampa Bay Rays,R,R,1993,13699,Jake Faria,P
+CHC,Chicago Cubs,L,L,1991,15644,Jacob Hannemann,OF
+ATL,Atlanta Braves,R,L,1993,16215,Jacob Lindgren,P
+CHW,Chicago White Sox,S,R,1992,14876,Jacob May,OF
+MIL,Milwaukee Brewers,R,R,1995,sa737809,Jacob Nottingham,C
+NYM,New York Mets,R,R,1993,15267,Jacob Rhame,P
+PIT,Pittsburgh Pirates,R,R,1989,13723,Jacob Stallings,C
+MIA,Miami Marlins,R,R,1991,10185,Jacob Turner,P
+NYY,New York Yankees,L,L,1983,4727,Jacoby Ellsbury,OF
+DET,Detroit Tigers,R,R,1992,14818,JaCoby Jones,OF
+SFG,San Francisco Giants,R,R,1987,19369,Jae-Gyun Hwang,3B
+OAK,Oakland Athletics,L,L,1990,7945,Jaff Decker,OF
+LAA,Los Angeles Angels,R,R,1996,18356,Jaime Barria,P
+TOR,Toronto Blue Jays,L,L,1986,8137,Jaime Garcia,P
+TBR,Tampa Bay Rays,R,R,1991,sa708975,Jaime Schultz,
+COL,Colorado Rockies,R,R,1986,5556,Jair Jurrjens,P
+CHW,Chicago White Sox,R,R,1983,3332,Jairo Asencio,P
+COL,Colorado Rockies,R,R,1991,12774,Jairo Diaz,P
+OAK,Oakland Athletics,L,L,1994,14996,Jairo Labourt,P
+PHI,Philadelphia Phillies,R,R,1986,4153,Jake Arrieta,P
+ARI,Arizona Diamondbacks,R,R,1991,13322,Jake Barrett,P
+TBR,Tampa Bay Rays,L,L,1995,sa737848,Jake Bauers,1B
+ATL,Atlanta Braves,R,R,1988,2851,Jacob Brigham,P
+CIN,Cincinnati Reds,R,R,1989,10962,Jake Buchanan,P
+MIN,Minnesota Twins,L,L,1992,sa597983,Jake Cave,
+TEX,Texas Rangers,L,L,1987,5003,Jake Diekman,P
+SFG,San Francisco Giants,R,R,1988,10803,Jake Dunning,P
+MIL,Milwaukee Brewers,R,R,1987,7290,Jake Elmore,SS
+SDP,San Diego Padres,R,R,1990,12756,Jake Esch,P
+TBR,Tampa Bay Rays,L,L,1987,9431,Jake Goebbert,1B
+LAA,Los Angeles Angels,R,R,1993,sa829312,Jake Jewell,P
+KCR,Kansas City Royals,R,R,1992,13619,Jakob Junis,P
+ARI,Arizona Diamondbacks,L,R,1990,13329,Jake Lamb,3B
+HOU,Houston Astros,R,R,1991,11339,Jake Marisnick,OF
+COL,Colorado Rockies,L,L,1986,7550,Jake McGee,P
+MIN,Minnesota Twins,R,R,1990,6397,Jake Odorizzi,P
+SFG,San Francisco Giants,R,R,1981,1051,Jake Peavy,P
+CHW,Chicago White Sox,R,R,1988,10534,Jake Petricka,P
+SDP,San Diego Padres,R,R,1990,14379,Jake Smith,P
+OAK,Oakland Athletics,R,R,1989,5408,Jake Smolinski,OF
+PHI,Philadelphia Phillies,R,R,1994,14371,Jake Thompson,P
+BOS,Boston Red Sox,L,L,1993,sa827439,Jalen Beeks,P
+MIN,Minnesota Twins,L,R,1989,4626,James Beresford,1B/3B
+SDP,San Diego Padres,R,R,1987,9060,James Darnell,3B/OF
+HOU,Houston Astros,R,R,1986,14605,James Hoyt,P
+TEX,Texas Rangers,L,L,1988,9767,James Jones,OF
+NYM,New York Mets,L,L,1984,4556,James Loney,1B
+DET,Detroit Tigers,R,R,1990,12859,James McCann,C
+CHC,Chicago Cubs,L,R,1984,5523,James McDonald,P
+MIA,Miami Marlins,R,R,1991,sa501496,James Needy,P
+SEA,Seattle Mariners,L,L,1988,11828,James Paxton,P
+SEA,Seattle Mariners,R,L,1991,13323,James Pazos,P
+LAD,Los Angeles Dodgers,L,R,1989,sa599239,James Ramsey,
+CLE,Cleveland Indians,L,L,1986,4089,James Russell,P
+CHW,Chicago White Sox,R,R,1981,7059,James Shields,P
+PIT,Pittsburgh Pirates,R,R,1991,11674,Jameson Taillon,P
+NYM,New York Mets,R,R,1994,14711,Jamie Callahan,P
+ARI,Arizona Diamondbacks,R,R,1985,5552,Jamie Romak,1B/OF
+HOU,Houston Astros,R,R,1992,14665,Jandel Gustave,P
+NYY,New York Yankees,R,R,1981,8346,Jared Burton,P
+TEX,Texas Rangers,L,R,1989,10882,Jared Hoying,OF
+CIN,Cincinnati Reds,R,R,1985,9325,Jared Hughes,P
+ARI,Arizona Diamondbacks,L,L,1993,sa827467,Jared Miller,P
+MIA,Miami Marlins,L,L,1993,18282,Jarlin Garcia,P
+SDP,San Diego Padres,R,R,1990,10304,Jarred Cosart,P
+SEA,Seattle Mariners,R,R,1981,7553,Jarrett Grube,P
+SFG,San Francisco Giants,L,L,1989,11624,Jarrett Parker,OF
+ARI,Arizona Diamondbacks,L,R,1984,4866,Jarrod Dyson,OF
+OAK,Oakland Athletics,R,R,1988,4913,Jarrod Parker,P
+TOR,Toronto Blue Jays,S,R,1985,5557,Jarrod Saltalamacchia,C
+MIN,Minnesota Twins,R,R,1979,8219,Jason Bartlett,SS
+CHC,Chicago Cubs,R,R,1983,5673,Jason Berken,P
+ARI,Arizona Diamondbacks,R,R,1982,2225,Jason Bourgeois,OF
+MIN,Minnesota Twins,L,R,1987,8722,Jason Castro,C
+TBR,Tampa Bay Rays,R,R,1990,14282,Jason Coats,OF
+CIN,Cincinnati Reds,R,R,1984,9331,Jason Donald,2B/SS
+ATL,Atlanta Braves,R,R,1977,1906,Jason Frasor,P
+BAL,Baltimore Orioles,R,R,1992,12143,Jason Garcia,P
+TEX,Texas Rangers,R,R,1976,521,Jason Grilli,
+LAA,Los Angeles Angels,L,L,1988,8007,Jason Gurka,P
+KCR,Kansas City Royals,R,R,1982,4538,Jason Hammel,P
+CHC,Chicago Cubs,L,L,1989,4940,Jason Heyward,OF
+ATL,Atlanta Braves,R,R,1991,14914,Jason Hursh,P
+CLE,Cleveland Indians,L,R,1987,9776,Jason Kipnis,2B
+MIN,Minnesota Twins,L,R,1982,2161,Jason Kubel,DH/OF
+SDP,San Diego Padres,R,L,1976,1397,Jason Lane,OF
+STL,St. Louis Cardinals,R,R,1982,5861,Jason Motte,P
+OAK,Oakland Athletics,L,R,1983,4611,Jason Pridie,OF
+PIT,Pittsburgh Pirates,R,R,1988,11773,Jason Rogers,1B
+NYM,New York Mets,L,L,1983,8044,Jason Vargas,P
+LAD,Los Angeles Dodgers,L,L,1990,13128,Jason Wheeler,P
+CHC,Chicago Cubs,R,R,1992,12979,Javier Baez,2B/SS
+SDP,San Diego Padres,L,R,1995,sa736916,Javier Guerra,
+SFG,San Francisco Giants,L,L,1977,1663,Javier Lopez,P
+MIA,Miami Marlins,R,R,1985,7407,Javy Guerra,P
+NYM,New York Mets,L,L,1987,9892,Jay Bruce,OF
+SDP,San Diego Padres,R,R,1987,7432,Jay Jackson,P
+BAL,Baltimore Orioles,L,L,1992,14936,Jaycob Brugman,OF
+MIL,Milwaukee Brewers,R,R,1987,9096,Jaye Chapman,P
+BAL,Baltimore Orioles,L,L,1992,13150,Jayson Aquino,P
+KCR,Kansas City Royals,R,R,1982,3790,Jayson Nix,2B/3B
+WSN,Washington Nationals,R,R,1979,1327,Jayson Werth,OF
+LAA,Los Angeles Angels,R,R,1988,8302,JC Ramirez,P
+SEA,Seattle Mariners,R,R,1982,3220,Jean Machi,P
+SEA,Seattle Mariners,R,R,1990,5933,Jean Segura,SS
+SEA,Seattle Mariners,R,R,1988,9033,Jeanmar Gomez,P
+BAL,Baltimore Orioles,L,L,1990,13166,Jed Bradley,P
+OAK,Oakland Athletics,S,R,1984,4418,Jed Lowrie,2B/SS
+STL,St. Louis Cardinals,R,R,1988,10816,Jedd Gyorko,2B/3B
+MIA,Miami Marlins,R,R,1981,2073,Jeff Baker,1B/2B
+TOR,Toronto Blue Jays,L,L,1987,8504,Jeff Beliveau,P
+BOS,Boston Red Sox,R,R,1986,9958,Jeff Bianchi,3B/SS
+DET,Detroit Tigers,R,R,1990,11506,Jeff Ferrell,P
+TOR,Toronto Blue Jays,L,L,1981,4684,Jeff Francis,P
+MIA,Miami Marlins,R,R,1984,4792,Jeff Francoeur,OF
+COL,Colorado Rockies,R,R,1993,17432,Jeff Hoffman,P
+CHW,Chicago White Sox,R,R,1980,3856,Jeff Keppinger,2B
+WSN,Washington Nationals,R,R,1988,9591,Jeff Kobernus,OF
+MIA,Miami Marlins,L,L,1987,2929,Jeff Locke,P
+CIN,Cincinnati Reds,R,R,1985,6865,Jeff Manship,P
+ARI,Arizona Diamondbacks,R,R,1983,3448,Jeff Mathis,C
+SFG,San Francisco Giants,R,R,1985,3254,Jeff Samardzija,P
+NYM,New York Mets,R,R,1987,sa328221,Jeff Walters,
+LAA,Los Angeles Angels,R,R,1991,5107,Jefry Marte,1B
+WSN,Washington Nationals,R,R,1993,sa657760,Jefry Rodriguez,P
+DET,Detroit Tigers,S,R,1993,13621,Jeimer Candelario,3B
+SDP,San Diego Padres,S,R,1987,2498,Jemile Weeks,2B
+CHC,Chicago Cubs,L,R,1994,15524,Jen-Ho Tseng,P
+NYM,New York Mets,R,R,1989,8476,Jenrry Mejia,P
+PHI,Philadelphia Phillies,R,R,1990,12664,Jerad Eickhoff,P
+SDP,San Diego Padres,R,R,1982,4235,Jered Weaver,P
+SFG,San Francisco Giants,L,L,1979,583,Jeremy Affeldt,
+WSN,Washington Nationals,R,R,1979,2072,Jeremy Guthrie,P
+TBR,Tampa Bay Rays,L,R,1987,9399,Jeremy Hazelbaker,OF
+NYM,New York Mets,R,R,1986,1989,Jeremy Hefner,P
+WSN,Washington Nationals,R,R,1987,4371,Jeremy Hellickson,P
+SDP,San Diego Padres,L,R,1984,7208,Jeremy Hermida,OF
+PHI,Philadelphia Phillies,L,L,1985,596,Jeremy Horst,
+MIL,Milwaukee Brewers,R,R,1987,9490,Jeremy Jeffress,P
+LAA,Anaheim Angels,R,R,1987,sa328275,Jeremy Mcbryde,
+STL,St. Louis Cardinals,R,R,1987,7765,Jermaine Curtis,OF
+STL,St. Louis Cardinals,R,R,1981,1137,Jerome Williams,P
+NYM,New York Mets,L,L,1983,7841,Jerry Blevins,P
+CHW,Chicago White Sox,R,R,1987,4016,Jerry Sands,OF
+PHI,Philadelphia Phillies,R,R,1993,15853,Jesen Therrien,P
+PHI,Philadelphia Phillies,S,R,1994,sa657867,Jesmuel Valentin,
+ATL,Atlanta Braves,L,L,1991,sa548186,Jesse Biddle,
+TEX,Texas Rangers,R,R,1983,5448,Jesse Chavez,P
+HOU,Houston Astros,R,R,1981,4817,Jesse Crain,P
+KCR,Kansas City Royals,R,R,1989,13287,Jesse Hahn,P
+CIN,Cincinnati Reds,L,L,1993,13590,Jesse Winker,OF
+MIL,Milwaukee Brewers,R,R,1990,11342,Jesus Aguilar,1B
+LAA,Los Angeles Angels,R,R,1995,sa657701,Jesus Castillo,P
+ATL,Atlanta Braves,R,R,1984,4166,Jesus Flores,C
+CHC,Chicago Cubs,R,R,1984,3118,Jesus Guzman,1B/OF
+PIT,Pittsburgh Pirates,R,R,1995,sa658076,Jesus Liranzo,
+TOR,Toronto Blue Jays,R,R,1989,5514,Jesus Montero,C/DH
+CIN,Cincinnati Reds,R,R,1993,sa877345,Jesus Reyes,P
+TBR,Tampa Bay Rays,R,R,1988,5942,Jesus Sucre,C
+COL,Colorado Rockies,R,R,1995,sa657723,Jesus Tinoco,P
+MIL,Milwaukee Brewers,R,R,1990,12508,Jett Bandy,C
+NYM,New York Mets,R,R,1989,5114,Jeurys Familia,P
+TEX,Texas Rangers,R,R,1988,5830,Jhan Marinez,P
+OAK,Oakland Athletics,R,R,1992,13654,Jharel Cotton,P
+WSN,Washington Nationals,R,R,1985,7515,Jhonatan Solano,C
+STL,St. Louis Cardinals,R,R,1982,1738,Jhonny Peralta,SS
+MIL,Milwaukee Brewers,R,R,1988,2608,Jhoulys Chacin,P
+MIL,Milwaukee Brewers,L,R,1991,5452,Ji-Man Choi,1B/OF
+DET,Detroit Tigers,L,L,1985,6448,Jim Adduci,OF
+NYM,New York Mets,L,R,1982,6653,Jim Henderson,P
+LAA,Los Angeles Angels,R,R,1983,3656,Jim Johnson,P
+NYY,New York Yankees,R,R,1982,7458,Jim Miller,P
+ARI,Arizona Diamondbacks,R,R,1991,15118,Jimmie Sherfy,P
+WSN,Washington Nationals,R,R,1991,sa680023,Jimmy Cordero,
+MIL,Milwaukee Brewers,R,R,1989,10547,Jimmy Nelson,P
+PHI,Philadelphia Phillies,S,R,1988,5481,Jimmy Paredes,3B/DH/OF
+CHW,Chicago White Sox,S,R,1978,971,Jimmy Rollins,
+BAL,Baltimore Orioles,R,R,1992,15157,Jimmy Yacabonis,P
+MIA,Miami Marlins,L,L,1984,5559,Jo-Jo Reyes,P
+CHW,Chicago White Sox,R,R,1984,6941,Joakim Soria,P
+SFG,San Francisco Giants,R,R,1992,sa547815,Joan Gregorio,
+ARI,Arizona Diamondbacks,R,R,1984,3817,Joaquin Arias,3B
+WSN,Washington Nationals,R,R,1977,1437,Joaquin Benoit,P
+CLE,Cleveland Indians,R,R,1985,2692,Joba Chamberlain,P
+LAD,Los Angeles Dodgers,L,L,1992,11899,Joc Pederson,OF
+SEA,Seattle Mariners,L,L,1977,979,Joe Beimel,
+TOR,Toronto Blue Jays,R,R,1990,13194,Joe Biagini,P
+WSN,Washington Nationals,R,R,1980,4849,Joe Blanton,P
+MIA,Miami Marlins,R,R,1991,sa738176,Joe Gunkel,
+DET,Detroit Tigers,R,R,1995,15761,Joe Jimenez,P
+BOS,Boston Red Sox,R,R,1988,9761,Joe Kelly,P
+NYY,New York Yankees,R,L,1991,14857,Joe Mantiply,P
+CLE,Cleveland Indians,L,R,1983,3935,Joe Martinez,P
+MIN,Minnesota Twins,L,R,1983,1857,Joe Mauer,C/1B
+PIT,Pittsburgh Pirates,R,R,1992,12970,Joe Musgrove,P
+CHC,Chicago Cubs,L,L,1990,7955,Joe Ortiz,P
+TEX,Texas Rangers,L,L,1994,sa738453,Joe Palumbo,P
+SFG,San Francisco Giants,L,R,1990,11936,Joe Panik,2B
+ARI,Arizona Diamondbacks,R,L,1986,2565,Joe Paterson,P
+WSN,Washington Nationals,R,R,1993,12972,Joe Ross,P
+BAL,Baltimore Orioles,L,L,1981,4366,Joe Saunders,P
+CHW,Chicago White Sox,L,L,1985,2835,Joe Savery,P
+HOU,Houston Astros,R,R,1984,3281,Joe Smith,P
+CLE,Cleveland Indians,L,L,1981,4620,Joe Thatcher,P
+ATL,Atlanta Braves,R,R,1990,6109,Joe Wieland,P
+TOR,Toronto Blue Jays,R,R,1987,2746,Joel Carreno,P
+ATL,Atlanta Braves,R,R,1989,12825,Joel De La Cruz,P
+DET,Detroit Tigers,R,R,1981,2186,Joel Hanrahan,P
+CHC,Chicago Cubs,R,R,1976,2332,Joel Peralta,P
+TEX,Texas Rangers,L,L,1991,11487,Joely Rodriguez,P
+CLE,Cleveland Indians,R,R,1986,7799,Joey Butler,DH/OF
+TEX,Texas Rangers,L,R,1993,14128,Joey Gallo,1B/3B
+SDP,San Diego Padres,L,L,1993,19320,Joey Lucchesi,P
+BAL,Baltimore Orioles,R,L,1991,13277,Joey Rickard,OF
+BAL,Baltimore Orioles,S,R,1988,10593,Joey Terdoslavich,1B/OF
+CIN,Cincinnati Reds,L,R,1983,4314,Joey Votto,1B
+TBR,Tampa Bay Rays,L,R,1990,13853,Joey Wendle,2B
+ATL,Atlanta Braves,S,R,1993,14950,Johan Camargo,3B/SS
+TOR,Toronto Blue Jays,R,R,1983,9059,John Axford,P
+CHC,Chicago Cubs,L,R,1981,4756,John Baker,C
+PIT,Pittsburgh Pirates,R,R,1993,18006,John Bormann,PH/PR
+STL,St. Louis Cardinals,L,R,1990,12777,John Brebbia,P
+ATL,Atlanta Braves,R,R,1980,2041,John Buck,C
+BOS,Boston Red Sox,R,R,1989,12364,John Cornely,P
+MIN,Minnesota Twins,R,R,1993,16128,John Curtiss,P
+CHW,Chicago White Sox,L,L,1985,6329,John Danks,P
+HOU,Houston Astros,R,R,1986,6132,John Ely,P
+STL,St. Louis Cardinals,R,R,1992,13684,John Gant,P
+STL,St. Louis Cardinals,L,L,1989,11133,John Gast,P
+LAA,Los Angeles Angels,R,R,1983,877,John Hester,
+DET,Detroit Tigers,R,R,1989,12547,John Hicks,C/1B
+PIT,Pittsburgh Pirates,R,R,1987,9392,John Holdzkom,P
+PIT,Pittsburgh Pirates,L,R,1983,5887,John Jaso,C
+CHC,Chicago Cubs,R,R,1978,1507,John Lackey,P
+TBR,Tampa Bay Rays,L,L,1990,8493,John Lamb,P
+NYM,New York Mets,L,L,1984,7080,John Lannan,P
+DET,Detroit Tigers,R,R,1983,3390,John Mayberry,OF
+ARI,Arizona Diamondbacks,R,R,1991,10346,John Ryan Murphy,C
+DET,Detroit Tigers,R,R,1992,11440,Johnny Barbato,P
+SFG,San Francisco Giants,R,R,1986,6893,Johnny Cueto,P
+TBR,Tampa Bay Rays,R,R,1992,,,
+BAL,Baltimore Orioles,R,R,1987,6740,Johnny Giavotella,2B
+MIL,Milwaukee Brewers,R,R,1988,10065,Johnny Hellweg,P
+NYM,New York Mets,L,R,1986,2783,Johnny Monell,C
+SDP,San Diego Padres,R,R,1988,1483,Jon Edwards,P
+COL,Colorado Rockies,R,R,1991,14916,Jon Gray,P
+KCR,Kansas City Royals,L,L,1985,5227,Jon Jay,OF
+CHC,Chicago Cubs,L,L,1984,4930,Jon Lester,P
+CIN,Cincinnati Reds,R,R,1991,13849,Jon Moscot,P
+NYY,New York Yankees,L,L,1986,4424,Jon Niese,P
+HOU,Houston Astros,L,L,1991,10441,Jon Singleton,1B
+ARI,Arizona Diamondbacks,R,R,1982,3521,Jonathan Albaladejo,P
+SEA,Seattle Mariners,R,R,1990,14699,Jonathan Aro,P
+STL,St. Louis Cardinals,R,R,1984,4759,Jonathan Broxton,P
+TOR,Toronto Blue Jays,R,R,1985,4142,Jonathan Diaz,SS
+TEX,Texas Rangers,R,R,1996,sa737482,Jonathan Hernandez,P
+CHC,Chicago Cubs,S,R,1984,4182,Jonathan Herrera,2B/SS
+NYY,New York Yankees,R,R,1993,16588,Jonathan Holder,P
+NYY,New York Yankees,R,R,1994,sa737372,Jonathan Loaisiga,P
+OAK,Oakland Athletics,R,R,1986,7870,Jonathan Lucroy,C
+WSN,Washington Nationals,R,R,1980,5975,Jonathan Papelbon,P
+PHI,Philadelphia Phillies,L,R,1990,7106,Jonathan Pettibone,P
+CIN,Cincinnati Reds,L,L,1982,7507,Jonathan Sanchez,P
+BAL,Baltimore Orioles,R,R,1991,11265,Jonathan Schoop,2B
+MIL,Milwaukee Brewers,S,R,1991,10071,Jonathan Villar,2B/SS
+KCR,Kansas City Royals,R,R,1980,1845,Jonny Gomes,DH/OF
+ATL,Atlanta Braves,L,L,1985,7175,Jonny Venters,P
+MIA,Miami Marlins,L,L,1983,4121,Jordan Brown,1B/DH/OF
+PHI,Philadelphia Phillies,L,R,1986,9187,Jordan Danks,OF
+STL,St. Louis Cardinals,R,R,1996,19618,Jordan Hicks,P
+LAD,Los Angeles Dodgers,R,R,1989,13313,Jordan Jankowski,P
+PIT,Pittsburgh Pirates,R,R,1993,16424,Jordan Luplow,OF
+SDP,San Diego Padres,R,R,1990,7593,Jordan Lyles,P
+CLE,Cleveland Indians,R,R,1991,sa738636,Jordan Milbrath,P
+NYY,New York Yankees,L,L,1992,16511,Jordan Montgomery,P
+OAK,Oakland Athletics,L,L,1986,8432,Jordan Norberto,P
+CIN,Cincinnati Reds,R,R,1986,2677,Jordan Pacheco,1B/3B
+COL,Colorado Rockies,L,L,1992,15119,Jordan Patterson,OF
+MIN,Minnesota Twins,L,L,1986,9883,Jordan Schafer,OF
+STL,St. Louis Cardinals,R,R,1987,3271,Jordan Walden,P
+DET,Detroit Tigers,R,R,1986,4505,Jordan Zimmermann,P
+MIA,Miami Marlins,L,R,1987,5098,Jordany Valdespin,2B/OF
+PIT,Pittsburgh Pirates,R,R,1986,6547,Jordy Mercer,SS
+PHI,Philadelphia Phillies,R,R,1993,12180,Jorge Alfaro,C
+KCR,Kansas City Royals,R,R,1993,12174,Jorge Bonifacio,OF
+ARI,Arizona Diamondbacks,L,L,1981,2047,Jorge De La Rosa,P
+OAK,Oakland Athletics,R,R,1987,5397,Jorge De Leon,P
+MIL,Milwaukee Brewers,R,R,1993,14527,Jorge Lopez,P
+OAK,Oakland Athletics,R,R,1995,sa657910,Jorge Mateo,
+MIN,Minnesota Twins,S,R,1993,13152,Jorge Polanco,SS
+PIT,Pittsburgh Pirates,R,R,1988,5791,Jorge Rondon,P
+KCR,Kansas City Royals,R,R,1992,14221,Jorge Soler,OF
+CHW,Chicago White Sox,R,R,1987,15676,Jose Abreu,1B
+HOU,Houston Astros,R,R,1990,5417,Jose Altuve,2B
+TBR,Tampa Bay Rays,L,L,1995,17780,Jose Alvarado,P
+LAA,Los Angeles Angels,L,L,1989,5358,Jose Alvarez,P
+CIN,Cincinnati Reds,R,R,1984,4722,Jose Arredondo,P
+TOR,Toronto Blue Jays,R,R,1980,1887,Jose Bautista,OF
+MIN,Minnesota Twins,R,R,1994,14168,Jose Berrios,P
+SDP,San Diego Padres,L,L,1996,sa739762,Jose Castillo,P
+ARI,Arizona Diamondbacks,R,R,1989,6399,Jose Cisnero,P
+ATL,Atlanta Braves,L,L,1983,6003,Jose Constanza,OF
+MIL,Milwaukee Brewers,R,R,1985,787,Jose De La Torre,
+TBR,Tampa Bay Rays,R,R,1992,15463,Jose De Leon,P
+NYY,New York Yankees,R,L,1988,5744,Jose De Paula,P
+SDP,San Diego Padres,R,R,1990,11571,Jose Dominguez,P
+DET,Detroit Tigers,R,R,1990,10231,Jose Iglesias,SS
+TEX,Texas Rangers,R,R,1993,14524,Jose Leclerc,P
+NYM,New York Mets,S,R,1984,4243,Jose Lobaton,C
+CIN,Cincinnati Reds,R,R,1993,sa709715,Jose Lopez,P
+WSN,Washington Nationals,L,L,1993,sa598311,Jose Marmolejos,
+STL,St. Louis Cardinals,R,R,1988,7996,Jose Martinez,1B/OF
+BAL,Baltimore Orioles,R,R,1993,sa541954,Jose Martinez,1B
+CIN,Cincinnati Reds,L,L,1984,4140,Jose Mijares,P
+TBR,Tampa Bay Rays,R,R,1996,sa739763,Jose Mujica,P
+DET,Detroit Tigers,R,R,1988,9651,Jose Ortega,P
+PIT,Pittsburgh Pirates,R,R,1992,12937,Jose Osuna,1B/OF
+CIN,Cincinnati Reds,R,R,1994,13593,Jose Peraza,2B/SS
+SDP,San Diego Padres,R,R,1989,5485,Jose Pirela,2B/OF
+CHC,Chicago Cubs,R,L,1989,11423,Jose Quintana,P
+CLE,Cleveland Indians,S,R,1992,13510,Jose Ramirez,3B
+ATL,Atlanta Braves,R,R,1990,10171,Jose Ramirez,P
+NYM,New York Mets,S,R,1983,1736,Jose Reyes,SS
+CHW,Chicago White Sox,R,R,1994,14140,Jose Rondon,SS
+CHC,Chicago Cubs,R,R,1990,sa455780,Jose Rosario,
+CHW,Chicago White Sox,R,R,1994,14552,Jose Ruiz,P
+CIN,Cincinnati Reds,R,R,1995,sa736940,Jose Siri,OF
+PIT,Pittsburgh Pirates,R,R,1988,2411,Jose Tabata,OF
+PHI,Philadelphia Phillies,L,R,1993,sa828246,Jose Taveras,P
+SDP,San Diego Padres,L,L,1993,14957,Jose Torres,P
+TEX,Texas Rangers,R,R,1992,sa827368,Jose Trevino,C
+MIA,Miami Marlins,R,R,1991,11589,Jose Urena,P
+SDP,San Diego Padres,R,R,1990,14470,Jose Valdez,P
+HOU,Houston Astros,R,R,1983,3217,Jose Valdez,P
+ATL,Atlanta Braves,R,R,1980,2063,Jose Veras,P
+STL,St. Louis Cardinals,R,R,1990,4920,Joseph Colon,P
+LAD,Los Angeles Dodgers,R,R,1980,510,Josh Beckett,
+PIT,Pittsburgh Pirates,S,R,1992,13145,Josh Bell,1B
+ATL,Atlanta Braves,R,R,1986,7312,Josh Collmenter,P
+TOR,Toronto Blue Jays,R,R,1985,5038,Josh Donaldson,3B
+NYM,New York Mets,R,L,1986,10796,Josh Edgin,P
+LAD,Los Angeles Dodgers,R,R,1985,5070,Josh Fields,P
+MIL,Milwaukee Brewers,L,L,1994,14212,Josh Hader,P
+TEX,Texas Rangers,L,L,1981,1875,Josh Hamilton,OF
+PIT,Pittsburgh Pirates,R,R,1987,8202,Josh Harrison,2B/3B
+SDP,San Diego Padres,L,R,1984,4567,Josh Johnson,P
+SEA,Seattle Mariners,R,R,1979,3638,Josh Kinney,P
+PIT,Pittsburgh Pirates,R,R,1987,7882,Josh Lindblom,P
+OAK,Oakland Athletics,R,R,1990,11686,Josh Lucas,P
+TBR,Tampa Bay Rays,R,R,1984,5722,Josh Lueke,P
+SDP,San Diego Padres,R,R,1989,sa599246,Josh Martin,
+SFG,San Francisco Giants,L,L,1988,11528,Josh Osich,P
+ATL,Atlanta Braves,L,L,1984,4004,Josh Outman,P
+OAK,Oakland Athletics,R,R,1988,9308,Josh Phegley,C
+MIL,Milwaukee Brewers,R,R,1988,6746,Josh Prince,OF
+ATL,Atlanta Braves,R,R,1988,2951,Josh Ravin,P
+HOU,Houston Astros,L,R,1987,3892,Josh Reddick,OF
+MIN,Minnesota Twins,R,R,1982,3241,Josh Roenicke,P
+BOS,Boston Red Sox,R,R,1989,11167,Josh Rutledge,2B/SS
+NYM,New York Mets,R,R,1984,6788,Josh Satin,1B/3B
+OAK,Oakland Athletics,R,R,1987,10946,Josh Smith,P
+PIT,Pittsburgh Pirates,L,L,1988,10285,Josh Smoker,P
+NYY,New York Yankees,L,L,1988,11260,Josh Spence,P
+PIT,Pittsburgh Pirates,R,R,1988,3219,Josh Stinson,P
+ARI,Arizona Diamondbacks,L,R,1986,9689,Josh Thole,C
+CLE,Cleveland Indians,R,R,1984,9388,Josh Tomlin,P
+CIN,Cincinnati Reds,L,R,1995,sa737821,Josh Vanmeter,
+CHC,Chicago Cubs,R,R,1989,4623,Josh Vitters,3B
+PIT,Pittsburgh Pirates,R,R,1987,4436,Josh Wall,P
+KCR,Kansas City Royals,R,R,1979,2103,Josh Willingham,OF
+TEX,Texas Rangers,R,R,1981,2102,Josh Wilson,SS
+DET,Detroit Tigers,R,R,1987,6527,Josh Zeid,P
+MIL,Milwaukee Brewers,R,R,1989,6806,Josmil Pinto,C/DH
+TEX,Texas Rangers,R,R,1982,2886,Juan Oviedo,P
+TEX,Texas Rangers,L,R,1989,7168,Juan Centeno,C
+CLE,Cleveland Indians,L,R,1988,9235,Juan Diaz,SS
+CIN,Cincinnati Reds,R,R,1991,sa503255,Juan Duran,
+BOS,Boston Red Sox,L,R,1987,6978,Juan Francisco,1B/3B
+LAA,Los Angeles Angels,R,R,1989,5398,Juan Graterol,C
+SFG,San Francisco Giants,R,R,1983,3265,Juan Gutierrez,P
+ATL,Atlanta Braves,R,R,1987,6127,Juan Jaime,P
+NYM,New York Mets,R,R,1989,5384,Juan Lagares,OF
+CHW,Chicago White Sox,R,R,1990,10341,Juan Minaya,P
+SEA,Seattle Mariners,R,R,1986,7731,Juan Nicasio,P
+SFG,San Francisco Giants,R,R,1986,5371,Juan Perez,OF
+NYY,New York Yankees,R,R,1978,843,Juan Rivera,
+CLE,Cleveland Indians,R,R,1979,454,Juan Uribe,
+SFG,San Francisco Giants,R,R,1995,sa737347,Julian Fernandez,P
+CLE,Cleveland Indians,R,R,1991,sa829363,Julian Merryweather,P
+BAL,Baltimore Orioles,L,L,1986,3209,Julio Borbon,OF
+SEA,Seattle Mariners,L,L,1992,sa503304,Julio Morban,
+ATL,Atlanta Braves,R,R,1991,6797,Julio Teheran,P
+LAD,Los Angeles Dodgers,L,L,1996,14765,Julio Urias,P
+TBR,Tampa Bay Rays,R,R,1984,3397,Jumbo Diaz,P
+PIT,Pittsburgh Pirates,R,R,1987,17182,Jung Ho Kang,3B/SS
+MIA,Miami Marlins,R,R,1986,4079,Junichi Tazawa,P
+TBR,Tampa Bay Rays,S,R,1992,12140,Juniel Querecuto,2B/3B/SS
+MIL,Milwaukee Brewers,R,R,1985,5702,Junior Guerra,P
+CIN,Cincinnati Reds,R,R,1996,,,
+TOR,Toronto Blue Jays,R,R,1990,4672,Junior Lake,OF
+TEX,Texas Rangers,S,R,1993,10815,Jurickson Profar,2B
+MIA,Miami Marlins,L,R,1988,9744,Justin Bour,1B
+SFG,San Francisco Giants,R,R,1980,8297,Justin Christian,OF
+SEA,Seattle Mariners,S,R,1987,4955,Justin De Fratus,P
+CIN,Cincinnati Reds,R,R,1986,7568,Justin Freeman,P
+TEX,Texas Rangers,R,R,1982,1938,Justin Germano,P
+KCR,Kansas City Royals,R,R,1988,11720,Justin Grimm,P
+MIN,Minnesota Twins,R,R,1991,13572,Justin Haley,P
+LAD,Los Angeles Dodgers,L,L,1988,10265,Justin Marks,P
+BOS,Boston Red Sox,R,R,1985,2038,Justin Masterson,P
+MIA,Miami Marlins,R,R,1983,6827,Justin Maxwell,OF
+COL,Colorado Rockies,R,R,1987,8580,Justin Miller,P
+CHW,Chicago White Sox,L,R,1981,1737,Justin Morneau,1B
+CIN,Cincinnati Reds,L,L,1991,11754,Justin Nicolino,P
+TBR,Tampa Bay Rays,R,R,1992,sa548314,Justin O'Conner,
+SFG,San Francisco Giants,R,R,1982,7620,Justin Ruggiano,OF
+SDP,San Diego Padres,R,R,1986,4006,Justin Sellers,SS
+TOR,Toronto Blue Jays,S,L,1986,9054,Justin Smoak,1B
+NYY,New York Yankees,L,L,1984,9910,Justin Thomas,P
+LAD,Los Angeles Dodgers,R,R,1984,5235,Justin Turner,3B
+LAA,Los Angeles Angels,R,R,1987,5222,Justin Upton,OF
+HOU,Houston Astros,R,R,1983,8700,Justin Verlander,P
+TBR,Tampa Bay Rays,L,R,1995,sa737559,Justin Williams,OF
+CHC,Chicago Cubs,L,L,1987,4301,Justin Wilson,P
+LAA,Los Angeles Angels,S,R,1992,11494,Kaleb Cowart,2B/3B
+SFG,San Francisco Giants,R,R,1981,4422,Kameron Loe,P
+SDP,San Diego Padres,R,R,1984,19757,Kazuhisa Makita,P
+STL,St. Louis Cardinals,R,R,1989,10080,Keith Butler,P
+SDP,San Diego Padres,L,L,1989,12220,Keith Hessler,P
+SFG,San Francisco Giants,R,R,1990,13005,Kelby Tomlinson,2B
+PHI,Philadelphia Phillies,L,R,1990,sa500838,Kelly Dugan,
+NYM,New York Mets,L,R,1982,2234,Kelly Johnson,2B
+CLE,Cleveland Indians,R,R,1980,3867,Kelly Shoppach,C
+WSN,Washington Nationals,R,R,1994,sa736855,Kelvin Gutierrez,3B
+KCR,Kansas City Royals,R,R,1989,6033,Kelvin Herrera,P
+PIT,Pittsburgh Pirates,R,L,1987,5200,Kelvin Marte,P
+HOU,Houston Astros,R,R,1990,12910,Ken Giles,P
+PHI,Philadelphia Phillies,L,L,1988,10938,Kenneth Roberts,P
+OAK,Oakland Athletics,R,R,1990,15514,Kendall Graveman,P
+MIA,Miami Marlins,R,R,1991,12118,Kendry Flores,P
+TOR,Toronto Blue Jays,S,R,1983,8610,Kendrys Morales,1B/DH
+LAD,Los Angeles Dodgers,S,R,1987,3096,Kenley Jansen,P
+MIN,Minnesota Twins,S,R,1990,12101,Kennys Vargas,1B/DH
+SFG,San Francisco Giants,L,R,1981,14448,Kensuke Tanaka,OF
+LAD,Los Angeles Dodgers,R,R,1988,18498,Kenta Maeda,P
+MIL,Milwaukee Brewers,R,R,1990,9253,Keon Broxton,OF
+TEX,Texas Rangers,R,R,1993,14696,Keone Kela,P
+ARI,Arizona Diamondbacks,S,R,1993,13613,Ketel Marte,SS
+CIN,Cincinnati Reds,R,R,1993,15964,Keury Mella,P
+CHW,Chicago White Sox,R,R,1988,12284,Kevan Smith,C
+ATL,Atlanta Braves,L,L,1988,11240,Kevin Chapman,P
+PHI,Philadelphia Phillies,R,R,1980,1767,Kevin Correia,P
+SFG,San Francisco Giants,R,R,1982,7528,Kevin Frandsen,2B/3B
+TBR,Tampa Bay Rays,R,R,1994,sa735841,Kevin Gadea,
+BAL,Baltimore Orioles,L,R,1991,14107,Kevin Gausman,P
+CIN,Cincinnati Reds,R,R,1978,1793,Kevin Gregg,P
+TEX,Texas Rangers,R,R,1984,6475,Kevin Jepsen,P
+TBR,Tampa Bay Rays,L,R,1990,11038,Kevin Kiermaier,OF
+TEX,Texas Rangers,R,R,1981,5995,Kevin Kouzmanoff,3B
+MIA,Miami Marlins,L,L,1985,6635,Kevin Mattison,OF
+KCR,Kansas City Royals,R,R,1992,15240,Kevin McCarthy,P
+NYM,New York Mets,R,R,1991,15215,Kevin McGowan,P
+ARI,Arizona Diamondbacks,R,R,1989,sa526289,Kevin Munson,
+TOR,Toronto Blue Jays,R,R,1989,12434,Kevin Pillar,OF
+NYM,New York Mets,R,R,1991,13807,Kevin Plawecki,C
+CIN,Cincinnati Reds,R,R,1988,12360,Kevin Quackenbush,P
+CIN,Cincinnati Reds,R,R,1989,11012,Kevin Shackelford,P
+PHI,Philadelphia Phillies,L,L,1989,8180,Kevin Siegrist,P
+PHI,Philadelphia Phillies,R,R,1984,9918,Kevin Slowey,P
+DET,Detroit Tigers,R,R,1984,3462,Kevin Whelan,P
+LAA,Los Angeles Angels,R,R,1993,15264,Keynan Middleton,P
+CIN,Cincinnati Reds,R,R,1991,10039,Keyvius Sampson,P
+OAK,Oakland Athletics,R,R,1987,9112,Khris Davis,OF
+OAK,Oakland Athletics,L,R,1984,4707,Kila Ka'aihue,1B/DH
+SDP,San Diego Padres,L,R,1987,9073,Kirby Yates,P
+MIL,Milwaukee Brewers,L,R,1987,6400,Kirk Nieuwenhuis,OF
+WSN,Washington Nationals,R,R,1993,17695,Koda Glover,P
+CHC,Chicago Cubs,R,R,1975,9227,Koji Uehara,P
+LAA,Los Angeles Angels,L,L,1987,11200,Kole Calhoun,OF
+STL,St. Louis Cardinals,L,R,1990,12532,Kolten Wong,2B
+PHI,Philadelphia Phillies,S,R,1979,1829,Koyie Hill,C
+CHC,Chicago Cubs,R,R,1992,15429,Kris Bryant,3B
+MIN,Minnesota Twins,L,L,1984,886,Kris Johnson,
+KCR,Kansas City Royals,S,R,1985,9417,Kris Medlen,P
+ARI,Arizona Diamondbacks,R,R,1986,5306,Kristopher Negron,2B/3B/OF
+ATL,Atlanta Braves,R,R,1983,8259,Kurt Suzuki,C
+MIA,Miami Marlins,R,R,1990,13713,Kyle Barraclough,P
+TEX,Texas Rangers,R,R,1986,49,Kyle Blanks,
+PIT,Pittsburgh Pirates,L,R,1992,13182,Kyle Crick,P
+CIN,Cincinnati Reds,L,L,1991,15033,Kyle Crockett,P
+ARI,Arizona Diamondbacks,R,R,1987,4359,Kyle Drabek,P
+LAD,Los Angeles Dodgers,R,R,1990,14813,Kyle Farmer,C/3B
+COL,Colorado Rockies,L,L,1993,16256,Kyle Freeland,P
+MIN,Minnesota Twins,R,R,1987,10123,Kyle Gibson,P
+CHC,Chicago Cubs,R,R,1989,12049,Kyle Hendricks,P
+NYY,New York Yankees,R,R,1990,5517,Kyle Higashioka,C
+ARI,Arizona Diamondbacks,R,L,1988,7706,Kyle Jensen,1B/OF
+BOS,Boston Red Sox,R,R,1984,6230,Kyle Kendrick,P
+ATL,Atlanta Braves,L,R,1990,12148,Kyle Kubitza,3B
+SDP,San Diego Padres,R,R,1990,15378,Kyle Lloyd,P
+BAL,Baltimore Orioles,L,L,1989,9178,Kyle Lobstein,P
+TEX,Texas Rangers,R,R,1978,739,Kyle Lohse,
+BOS,Boston Red Sox,R,R,1991,14860,Kyle Martin,P
+SDP,San Diego Padres,L,L,1992,16793,Kyle McGrath,P
+PIT,Pittsburgh Pirates,R,R,1987,5009,Kyle McPherson,P
+COL,Colorado Rockies,R,R,1989,11763,Kyle Parker,OF
+DET,Detroit Tigers,L,L,1991,11753,Kyle Ryan,P
+CHC,Chicago Cubs,L,R,1993,16478,Kyle Schwarber,OF
+SEA,Seattle Mariners,L,R,1987,9785,Kyle Seager,3B
+CIN,Cincinnati Reds,L,R,1990,5298,Kyle Skipworth,C
+CIN,Cincinnati Reds,L,L,1991,7513,Kyle Waldrop,P
+KCR,Kansas City Royals,R,R,1991,sa621583,Kyle Zimmer,
+TEX,Texas Rangers,L,R,1980,14443,Kyuji Fujikawa,P
+BAL,Baltimore Orioles,R,R,1990,6656,L.J. Hoes,OF
+MIN,Minnesota Twins,S,R,1987,2520,Lance Lynn,P
+HOU,Houston Astros,L,R,1993,14120,Lance McCullers Jr.,P
+ATL,Atlanta Braves,R,R,1989,10767,Lane Adams,OF
+TOR,Toronto Blue Jays,L,L,1987,9018,Lars Anderson,1B
+PHI,Philadelphia Phillies,L,L,1980,1766,Laynce Nix,OF
+LAD,Los Angeles Dodgers,R,R,1989,15301,Layne Somsen,P
+CHC,Chicago Cubs,S,R,1989,11562,Lendy Castillo,P
+CLE,Cleveland Indians,R,R,1987,12277,Leonel Campos,P
+DET,Detroit Tigers,L,R,1988,11846,Leonys Martin,OF
+MIN,Minnesota Twins,R,R,1988,9167,Lester Oliveros,P
+CHW,Chicago White Sox,S,R,1991,5913,Leury Garcia,OF
+BAL,Baltimore Orioles,R,R,1976,1724,Lew Ford,OF
+MIA,Miami Marlins,R,R,1994,14352,Lewis Brinson,OF
+MIN,Minnesota Twins,R,L,1995,sa739599,Lewis Thorpe,P
+OAK,Oakland Athletics,R,R,1989,3548,Liam Hendriks,P
+CLE,Cleveland Indians,S,R,1990,11266,Lisalverto Bonilla,P
+MIN,Minnesota Twins,L,L,1989,11261,Logan Darnell,P
+LAD,Los Angeles Dodgers,R,R,1987,7185,Logan Forsythe,2B
+DET,Detroit Tigers,R,R,1982,6166,Logan Kensing,P
+MIN,Minnesota Twins,L,L,1987,9205,Logan Morrison,1B/OF
+BAL,Baltimore Orioles,R,R,1985,3677,Logan Ondrusek,P
+MIN,Minnesota Twins,L,L,1986,7937,Logan Schafer,OF
+BAL,Baltimore Orioles,R,R,1990,12905,Logan Verrett,P
+CHC,Chicago Cubs,L,R,1989,4875,Logan Watkins,2B
+CLE,Cleveland Indians,L,R,1988,7571,Lonnie Chisenhall,3B/OF
+MIL,Milwaukee Brewers,R,R,1986,9077,Lorenzo Cain,OF
+PHI,Philadelphia Phillies,R,R,1986,7610,Lou Marson,C
+OAK,Oakland Athletics,R,R,1991,sa737939,Lou Trivino,P
+LAD,Los Angeles Dodgers,R,R,1986,9720,Louis Coleman,P
+TOR,Toronto Blue Jays,R,R,1993,,,
+KCR,Kansas City Royals,L,R,1986,2502,Lucas Duda,1B/OF
+CHW,Chicago White Sox,R,R,1994,15474,Lucas Giolito,P
+TOR,Toronto Blue Jays,S,R,1985,7541,Lucas Harrell,P
+LAA,Los Angeles Angels,L,L,1987,8337,Lucas Luetge,P
+ATL,Atlanta Braves,R,R,1994,13470,Luke Sims,P
+CHW,Chicago White Sox,S,R,1996,sa736915,Luis Alexander Basabe,OF
+CHW,Chicago White Sox,L,L,1989,2882,Luis Avilan,P
+WSN,Washington Nationals,R,R,1978,1650,Luis Ayala,P
+CIN,Cincinnati Reds,R,R,1992,15689,Luis Castillo,P
+NYY,New York Yankees,R,R,1992,13345,Luis Cessa,P
+HOU,Houston Astros,L,L,1990,sa454687,Luis Cruz,
+PIT,Pittsburgh Pirates,R,R,1996,sa828442,Luis Escobar,P
+BAL,Baltimore Orioles,R,R,1987,4398,Luis Exposito,C
+PHI,Philadelphia Phillies,R,R,1987,6984,Luis Garcia,P
+NYM,New York Mets,L,R,1994,sa737882,Luis Guillorme,2B/SS
+SEA,Seattle Mariners,L,L,1982,2602,Luis Jimenez,DH
+BOS,Boston Red Sox,R,R,1988,6341,Luis Jimenez,3B
+MIN,Minnesota Twins,R,R,1984,5380,Luis Perdomo,P
+SDP,San Diego Padres,R,R,1993,14682,Luis Perdomo,P
+TOR,Toronto Blue Jays,L,L,1985,6389,Luis Perez,P
+TOR,Toronto Blue Jays,R,R,1991,15006,Luis Santos,P
+BAL,Baltimore Orioles,S,R,1993,13153,Luis Sardinas,2B/SS
+NYY,New York Yankees,R,R,1994,15890,Luis Severino,P
+SDP,San Diego Padres,R,R,1996,15905,Luis Torrens,C
+LAA,Los Angeles Angels,L,R,1985,4969,Luis Valbuena,3B
+LAD,Los Angeles Dodgers,L,L,1992,sa739569,Luis Ysla,
+ATL,Atlanta Braves,L,L,1996,15166,Luiz Gohara,P
+LAA,Los Angeles Angels,R,R,1990,14288,Luke Bard,P
+DET,Detroit Tigers,S,R,1980,4666,Luke Carlin,C
+CHC,Chicago Cubs,L,R,1991,15101,Luke Farrell,P
+STL,St. Louis Cardinals,L,R,1984,4090,Luke Gregerson,P
+KCR,Kansas City Royals,R,R,1983,6943,Luke Hochevar,P
+OAK,Oakland Athletics,R,R,1984,4898,Luke Hughes,1B/2B
+ATL,Atlanta Braves,R,R,1991,11752,Luke Jackson,P
+TOR,Toronto Blue Jays,R,R,1991,13355,Luke Maile,C
+OAK,Oakland Athletics,R,R,1983,6601,Luke Montz,C/DH
+DET,Detroit Tigers,R,R,1986,6736,Luke Putkonen,P
+TBR,Tampa Bay Rays,L,R,1978,3469,Luke Scott,DH/OF
+STL,St. Louis Cardinals,R,R,1991,14811,Luke Voit,1B
+STL,St. Louis Cardinals,R,R,1993,16918,Luke Weaver,P
+SFG,San Francisco Giants,R,R,1990,14158,Mac Williamson,OF
+SFG,San Francisco Giants,R,L,1989,5524,Madison Bumgarner,P
+ATL,Atlanta Braves,R,R,1990,10636,Madison Younginer,P
+MIA,Miami Marlins,L,L,1996,17023,Magneuris Sierra,OF
+TOR,Toronto Blue Jays,S,R,1980,2437,Maicer Izturis,2B/3B
+CHW,Chicago White Sox,R,R,1989,5529,Maikel Cleto,P
+PHI,Philadelphia Phillies,R,R,1992,12179,Maikel Franco,3B
+TBR,Tampa Bay Rays,L,R,1993,13608,Mallex Smith,OF
+NYM,New York Mets,R,R,1981,8725,Manny Acosta,P
+ATL,Atlanta Braves,R,L,1991,5365,Manny Banuelos,P
+COL,Colorado Rockies,R,R,1982,2807,Manny Corpas,P
+BAL,Baltimore Orioles,R,R,1992,11493,Manny Machado,3B
+CHC,Chicago Cubs,L,L,1982,4279,Manny Parra,P
+MIL,Milwaukee Brewers,R,R,1987,2829,Manny Pina,C
+SDP,San Diego Padres,R,R,1994,14712,Manuel Margot,OF
+DET,Detroit Tigers,L,R,1987,7577,Marc Krauss,1B/OF
+SEA,Seattle Mariners,L,L,1985,6612,Marc Rzepczynski,P
+STL,St. Louis Cardinals,R,R,1990,10324,Marcell Ozuna,OF
+TOR,Toronto Blue Jays,R,R,1983,1118,Marco Estrada,P
+SEA,Seattle Mariners,L,L,1992,15467,Marco Gonzales,P
+BOS,Boston Red Sox,L,R,1992,13154,Marco Hernandez,2B/3B
+SFG,San Francisco Giants,R,R,1975,1555,Marco Scutaro,2B/SS
+MIL,Milwaukee Brewers,R,R,1996,sa828590,Marcos Diplan,P
+SDP,San Diego Padres,R,R,1984,6869,Marcos Mateo,P
+NYM,New York Mets,R,R,1995,sa503994,Marcos Molina,
+STL,St. Louis Cardinals,R,R,1988,4002,Marcus Hatley,P
+OAK,Oakland Athletics,R,R,1990,12533,Marcus Semien,SS
+TOR,Toronto Blue Jays,R,R,1991,13431,Marcus Stroman,P
+BOS,Boston Red Sox,R,R,1988,8004,Marcus Walden,P
+PHI,Philadelphia Phillies,L,L,1988,10504,Mario Hollands,P
+PHI,Philadelphia Phillies,R,R,1991,sa501726,Mark Appel,
+OAK,Oakland Athletics,R,R,1989,11445,Mark Canha,1B/OF
+PHI,Philadelphia Phillies,R,R,1991,15551,Mark Leiter,P
+LAD,Los Angeles Dodgers,L,R,1983,7416,Mark Lowe,P
+SFG,San Francisco Giants,R,R,1985,4264,Mark Melancon,P
+COL,Colorado Rockies,R,R,1983,7619,Mark Reynolds,1B/3B
+TEX,Texas Rangers,R,R,1986,4083,Mark Rogers,P
+NYY,New York Yankees,S,R,1980,1281,Mark Teixeira,1B
+BAL,Baltimore Orioles,R,R,1986,6876,Mark Trumbo,1B/OF
+CHC,Chicago Cubs,R,R,1993,16565,Mark Zagunis,OF
+CLE,Cleveland Indians,R,R,1977,950,Marlon Byrd,
+LAA,Los Angeles Angels,R,R,1986,6887,Martin Maldonado,C
+TEX,Texas Rangers,L,L,1991,6902,Martin Perez,P
+MIA,Miami Marlins,R,R,1983,3312,Martin Prado,3B
+HOU,Houston Astros,S,R,1989,5497,Marwin Gonzalez,SS
+NYY,New York Yankees,R,R,1988,15764,Masahiro Tanaka,P
+MIN,Minnesota Twins,R,L,1991,sa621016,Mason Melotakis,
+NYY,New York Yankees,L,R,1991,11859,Mason Williams,OF
+ATL,Atlanta Braves,L,R,1985,4034,Mat Gamel,1B/3B
+TOR,Toronto Blue Jays,R,R,1987,3815,Mat Latos,P
+WSN,Washington Nationals,L,R,1988,9393,Matt Adams,1B
+MIL,Milwaukee Brewers,L,R,1983,4300,Matt Albers,P
+TBR,Tampa Bay Rays,R,R,1989,12022,Matt Andriese,P
+BOS,Boston Red Sox,R,R,1990,12863,Matt Barnes,P
+CLE,Cleveland Indians,R,R,1980,1837,Matt Belisle,P
+STL,St. Louis Cardinals,R,R,1991,13528,Matt Bowman,P
+DET,Detroit Tigers,L,L,1991,15440,Matt Boyd,P
+ARI,Arizona Diamondbacks,R,R,1984,3832,Matt Buschmann,P
+TEX,Texas Rangers,R,R,1986,1246,Matt Bush,P
+SFG,San Francisco Giants,R,R,1984,4732,Matt Cain,P
+ATL,Atlanta Braves,R,R,1983,4788,Matt Capps,P
+CHC,Chicago Cubs,R,R,1991,13276,Matt Carasiti,P
+STL,St. Louis Cardinals,L,R,1985,8090,Matt Carpenter,3B
+CLE,Cleveland Indians,R,R,1981,4748,Matt Carson,OF
+OAK,Oakland Athletics,R,R,1993,16505,Matt Chapman,3B
+CHC,Chicago Cubs,L,R,1986,8793,Matthew Clark,1B
+NYY,New York Yankees,R,R,1982,7952,Matt Daley,P
+CHW,Chicago White Sox,R,R,1991,7226,Matt Davidson,3B/DH
+DET,Detroit Tigers,L,L,1987,11385,Matt den Dekker,OF
+TOR,Toronto Blue Jays,R,L,1990,14844,Matt Dermody,P
+TOR,Toronto Blue Jays,R,R,1989,4903,Matt Dominguez,3B
+TBR,Tampa Bay Rays,R,R,1991,13836,Matt Duffy,3B
+TEX,Texas Rangers,R,R,1989,12181,Matt Duffy,1B/3B
+MIL,Milwaukee Brewers,R,R,1983,3340,Matt Garza,P
+WSN,Washington Nationals,L,L,1988,11449,Matt Grace,P
+MIN,Minnesota Twins,R,R,1978,2061,Matt Guerrier,P
+TOR,Toronto Blue Jays,R,R,1985,7772,Matt Hague,1B
+PHI,Philadelphia Phillies,L,L,1985,5551,Matt Harrison,P
+NYM,New York Mets,R,R,1989,11713,Matt Harvey,P
+NYY,New York Yankees,R,R,1980,1873,Matt Holliday,OF
+OAK,Oakland Athletics,L,R,1984,3353,Matt Joyce,OF
+LAD,Los Angeles Dodgers,R,R,1984,5631,Matt Kemp,OF
+ARI,Arizona Diamondbacks,L,R,1990,13420,Matt Koch,P
+ARI,Arizona Diamondbacks,R,R,1986,8130,Matt Langwell,P
+BAL,Baltimore Orioles,R,R,1985,2280,Matt LaPorta,1B
+LAA,Los Angeles Angels,R,R,1980,4604,Matt Lindstrom,P
+CIN,Cincinnati Reds,R,R,1989,3950,Matt Magill,P
+MIN,Minnesota Twins,L,L,1984,9920,Matt Maloney,P
+ATL,Atlanta Braves,L,L,1990,15089,Matt Marksberry,P
+OAK,Oakland Athletics,R,R,1985,9373,Matt McBride,C/1B/OF
+TEX,Texas Rangers,L,L,1989,1890,Matt Moore,P
+OAK,Oakland Athletics,L,R,1994,14344,Matt Olson,1B
+MIL,Milwaukee Brewers,R,R,1982,6046,Matt Pagnozzi,C
+SDP,San Diego Padres,R,R,1979,4457,Matt Palmer,P
+CHW,Chicago White Sox,L,L,1990,12831,Matt Purke,P
+MIA,Miami Marlins,R,R,1989,sa577883,Matt Ramsey,
+WSN,Washington Nationals,R,R,1990,13788,Matt Reynolds,3B/SS
+SFG,San Francisco Giants,L,L,1984,8887,Matt Reynolds,P
+LAA,Los Angeles Angels,R,R,1986,4776,Matt Shoemaker,P
+WSN,Washington Nationals,L,R,1989,sa526563,Matt Skole,
+ARI,Arizona Diamondbacks,L,R,1990,12165,Matt Stites,P
+SDP,San Diego Padres,R,R,1989,11255,Matt Szczur,OF
+SDP,San Diego Padres,L,L,1976,1918,Matt Thornton,P
+NYY,New York Yankees,L,L,1988,12240,Matthew Tracy,P
+ATL,Atlanta Braves,R,R,1986,8272,Matt Tuiasosopo,OF
+LAD,Los Angeles Dodgers,R,R,1988,7980,Matt West,P
+WSN,Washington Nationals,S,R,1986,4298,Matt Wieters,C
+ATL,Atlanta Braves,R,R,1992,12804,Matt Wisler,P
+SDP,San Diego Padres,R,L,1991,13799,Matt Strahm,P
+ATL,Atlanta Braves,R,R,1993,12975,Mauricio Cabrera,P
+MIL,Milwaukee Brewers,R,R,1994,sa738378,Mauricio Dubon,2B/SS
+PHI,Philadelphia Phillies,L,L,1989,8895,Mauricio Robles,P
+ATL,Atlanta Braves,L,L,1994,13743,Max Fried,P
+MIN,Minnesota Twins,L,L,1993,12144,Max Kepler,OF
+PIT,Pittsburgh Pirates,S,R,1993,14556,Max Moroff,2B/SS
+LAD,Los Angeles Dodgers,L,R,1990,13301,Max Muncy,1B
+SEA,Seattle Mariners,R,R,1993,16165,Max Povse,P
+WSN,Washington Nationals,R,R,1984,3137,Max Scherzer,P
+HOU,Houston Astros,R,R,1991,10059,Max Stassi,C
+SEA,Seattle Mariners,R,R,1990,11663,Mayckol Guaipe,P
+KCR,Kansas City Royals,L,R,1997,sa830182,Meibrys Viloria,C
+KCR,Kansas City Royals,S,L,1984,4022,Melky Cabrera,OF
+KCR,Kansas City Royals,R,R,1987,447,Melky Mesa,
+DET,Detroit Tigers,R,R,1990,10181,Melvin Mercedes,P
+CLE,Cleveland Indians,R,R,1984,5015,Melvin Upton Jr.,OF
+MIA,Miami Marlins,R,R,1995,sa737381,Merandy Gonzalez,P
+TBR,Tampa Bay Rays,L,R,1990,13809,Micah Johnson,2B
+SDP,San Diego Padres,R,R,1982,4253,Micah Owings,P
+MIL,Milwaukee Brewers,R,R,1989,9654,Michael Blazek,P
+BAL,Baltimore Orioles,L,R,1982,6387,Michael Bourn,OF
+CIN,Cincinnati Reds,R,R,1986,4440,Michael Bowden,P
+OAK,Oakland Athletics,R,R,1987,8461,Michael Brady,P
+CLE,Cleveland Indians,L,L,1987,4106,Michael Brantley,OF
+CLE,Cleveland Indians,R,R,1989,11376,Michael Choice,OF
+NYM,New York Mets,L,R,1993,16376,Michael Conforto,OF
+NYM,New York Mets,R,R,1979,1534,Michael Cuddyer,OF
+PIT,Pittsburgh Pirates,R,R,1993,11903,Michael Feliz,P
+DET,Detroit Tigers,R,R,1993,13218,Michael Fulmer,P
+WSN,Washington Nationals,R,L,1978,1794,Michael Gonzalez,P
+LAA,Los Angeles Angels,R,R,1995,sa738413,Michael Hermosillo,OF
+BAL,Baltimore Orioles,R,R,1992,,,
+ATL,Atlanta Braves,L,L,1986,9877,Michael Kirkman,P
+MIN,Minnesota Twins,R,R,1986,8505,Michael Kohn,P
+CIN,Cincinnati Reds,R,R,1992,14843,Michael Lorenzen,P
+PHI,Philadelphia Phillies,R,R,1988,10835,Michael Mariot,P
+TBR,Tampa Bay Rays,S,R,1982,7358,Michael Martinez,2B/OF
+ATL,Atlanta Braves,R,R,1985,9628,Michael McKenry,C
+SFG,San Francisco Giants,R,R,1982,3035,Michael Morse,1B/OF
+MIN,Minnesota Twins,R,R,1989,5372,Michael Pineda,P
+MIL,Milwaukee Brewers,R,R,1992,13228,Michael Reed,OF
+TBR,Tampa Bay Rays,L,L,1990,13736,Michael Roth,P
+KCR,Kansas City Royals,L,R,1986,9981,Michael Saunders,OF
+PHI,Philadelphia Phillies,R,R,1986,6550,Michael Stutes,P
+CHW,Chicago White Sox,R,R,1985,2591,Michael Taylor,OF
+WSN,Washington Nationals,R,R,1991,11489,Michael A. Taylor,OF
+MIN,Minnesota Twins,R,R,1989,10315,Michael Tonkin,P
+STL,St. Louis Cardinals,R,R,1991,14078,Michael Wacha,P
+CHW,Chicago White Sox,R,R,1991,14093,Michael Ynoa,P
+CHW,Chicago White Sox,R,R,1996,sa830303,Micker Adolfo,OF
+TOR,Toronto Blue Jays,R,R,1986,4721,Mickey Storey,P
+PHI,Philadelphia Phillies,R,R,1986,15675,Miguel Gonzalez,P
+LAA,Los Angeles Angels,R,R,1993,14139,Miguel Almonte,P
+NYY,New York Yankees,R,R,1995,15878,Miguel Andujar,3B/DH
+DET,Detroit Tigers,R,R,1983,1744,Miguel Cabrera,1B/3B
+BAL,Baltimore Orioles,R,R,1994,15684,Miguel Castro,P
+MIA,Miami Marlins,L,L,1992,,,
+SDP,San Diego Padres,R,R,1994,18815,Miguel Diaz,P
+SFG,San Francisco Giants,S,R,1992,17075,Miguel Gomez,2B
+CHW,Chicago White Sox,R,R,1984,7024,Miguel Gonzalez,P
+CHW,Chicago White Sox,R,R,1990,4049,Miguel Gonzalez,C
+WSN,Washington Nationals,L,R,1983,3364,Miguel Montero,C
+LAD,Los Angeles Dodgers,R,R,1978,1638,Miguel Olivo,C
+MIA,Miami Marlins,R,R,1989,7802,Miguel Rojas,SS
+MIN,Minnesota Twins,R,R,1993,12164,Miguel Sano,3B/DH
+ATL,Atlanta Braves,R,R,1986,6697,Miguel Socolovich,P
+HOU,Houston Astros,R,R,1997,,,
+PHI,Philadelphia Phillies,R,R,1978,1937,Mike Adams,P
+MIA,Miami Marlins,R,R,1981,5986,Mike Aviles,SS
+CHC,Chicago Cubs,L,R,1984,4464,Mike Baxter,OF
+DET,Detroit Tigers,R,L,1988,9324,Michael Belfiore,P
+TOR,Toronto Blue Jays,R,R,1988,11137,Mike Bolsinger,P
+TBR,Tampa Bay Rays,R,R,1987,9894,Mike Broadway,P
+TEX,Texas Rangers,L,R,1986,7480,Mike Carp,1B/OF
+CLE,Cleveland Indians,R,R,1990,12808,Mike Clevinger,P
+CIN,Cincinnati Reds,L,R,1983,3533,Mike Costanzo,1B/DH
+COL,Colorado Rockies,L,L,1985,9948,Mike Dunn,P
+COL,Colorado Rockies,R,R,1983,7488,Mike Ekstrom,P
+DET,Detroit Tigers,R,R,1985,7754,Mike Fiers,P
+ATL,Atlanta Braves,R,R,1991,10811,Mike Foltynewicz,P
+WSN,Washington Nationals,L,R,1980,3912,Mike Fontenot,2B
+SEA,Seattle Mariners,L,R,1992,sa708447,Mike Ford,1B
+CHC,Chicago Cubs,L,R,1987,11241,Mike Freeman,2B/SS
+DET,Detroit Tigers,L,R,1992,sa550125,Mike Gerber,OF
+TEX,Texas Rangers,R,R,1990,14033,Mike Hauschild,P
+SEA,Seattle Mariners,L,R,1980,2231,Mike Jacobs,1B
+TEX,Texas Rangers,L,L,1988,11618,Mike Kickham,P
+SEA,Seattle Mariners,R,R,1987,10130,Mike Leake,P
+LAD,Los Angeles Dodgers,S,R,1977,612,Mike MacDougal,
+SEA,Seattle Mariners,R,R,1989,12594,Mike Marjama,C
+STL,St. Louis Cardinals,R,R,1991,15451,Mike Mayers,P
+COL,Colorado Rockies,R,R,1985,9587,Mike McClendon,P
+TOR,Toronto Blue Jays,R,R,1981,4583,Mike McCoy,OF
+BOS,Boston Red Sox,R,R,1989,13891,Mike Miller,2B
+TEX,Texas Rangers,R,L,1987,10021,Mike Minor,P
+CHC,Chicago Cubs,L,L,1989,4869,Mike Montgomery,P
+SEA,Seattle Mariners,R,R,1991,13442,Mike Morin,P
+KCR,Kansas City Royals,L,R,1988,4892,Mike Moustakas,3B
+TEX,Texas Rangers,R,R,1981,3057,Mike Napoli,C/1B
+TOR,Toronto Blue Jays,R,R,1983,7419,Mike Nickeas,C
+TEX,Texas Rangers,R,R,1990,10347,Mike Ohlman,C
+CHW,Chicago White Sox,R,R,1988,10698,Mike Olt,3B
+CHW,Chicago White Sox,R,R,1984,5203,Mike Pelfrey,P
+MIN,Minnesota Twins,L,L,1988,sa502184,Mike Strong,
+COL,Colorado Rockies,L,L,1990,15274,Mike Tauchman,OF
+LAA,Los Angeles Angels,R,R,1991,10155,Mike Trout,OF
+BAL,Baltimore Orioles,R,R,1990,12586,Mike Wright,P
+NYY,New York Yankees,L,L,1983,9683,Mike Zagurski,P
+SEA,Seattle Mariners,R,R,1991,13265,Mike Zunino,C
+DET,Detroit Tigers,R,R,1989,13130,Mikie Mahtook,OF
+STL,St. Louis Cardinals,R,R,1988,9803,Miles Mikolas,P
+MIN,Minnesota Twins,R,R,1991,15161,Mitch Garver,C
+SEA,Seattle Mariners,R,R,1990,14274,Mitch Haniger,OF
+STL,St. Louis Cardinals,R,R,1985,4530,Mitchell Harris,P
+CHC,Chicago Cubs,L,R,1982,5588,Mitch Maier,OF
+BOS,Boston Red Sox,L,L,1985,3086,Mitch Moreland,1B
+BOS,Boston Red Sox,R,R,1984,3344,Mitchell Boggs,P
+WSN,Washington Nationals,R,R,1988,6050,Moises Sierra,OF
+DET,Detroit Tigers,R,R,1990,sa598657,Montreal Robertson,
+BOS,Boston Red Sox,R,R,1992,13611,Mookie Betts,OF
+CHC,Chicago Cubs,L,R,1981,13047,Munenori Kawasaki,2B/SS
+BAL,Baltimore Orioles,R,R,1990,10430,Mychal Givens,P
+DET,Detroit Tigers,S,R,1991,11769,Myles Jaye,P
+CIN,Cincinnati Reds,R,R,1988,3282,Nate Adcock,P
+ATL,Atlanta Braves,R,R,1986,6582,Nate Freiman,1B
+CHW,Chicago White Sox,R,R,1986,4696,Nate Jones,P
+WSN,Washington Nationals,L,R,1981,3190,Nate McLouth,OF
+TEX,Texas Rangers,L,R,1984,6201,Nate Schierholtz,OF
+LAA,Los Angeles Angels,L,L,1991,sa737900,Nate Smith,
+BOS,Boston Red Sox,L,R,1985,6026,Nate Spears,2B/OF
+TBR,Tampa Bay Rays,R,R,1990,9132,Nathan Eovaldi,P
+KCR,Kansas City Royals,R,R,1987,12638,Nathan Karns,P
+HOU,Houston Astros,L,L,1980,1797,Neal Cotts,P
+CIN,Cincinnati Reds,R,R,1989,12253,Nefi Ogando,P
+KCR,Kansas City Royals,R,R,1988,18,Neftali Feliz,
+CIN,Cincinnati Reds,R,R,1989,5663,Neftali Soto,1B
+NYM,New York Mets,R,R,1989,7677,Neil Ramirez,P
+TOR,Toronto Blue Jays,R,R,1984,8162,Neil Wagner,P
+NYY,New York Yankees,S,R,1985,7539,Neil Walker,2B
+SEA,Seattle Mariners,R,R,1980,2434,Nelson Cruz,DH/OF
+BAL,Baltimore Orioles,R,L,1994,17874,Nestor Cortes,P
+NYM,New York Mets,R,R,1984,3274,Nevin Ashley,C
+ARI,Arizona Diamondbacks,R,R,1990,12147,Nick Ahmed,SS
+PIT,Pittsburgh Pirates,R,R,1993,sa599297,Nick Burdi,P
+LAA,Los Angeles Angels,L,R,1986,6835,Nick Buss,OF
+DET,Detroit Tigers,R,R,1992,11737,Nicholas Castellanos,3B
+CIN,Cincinnati Reds,R,R,1987,10332,Nick Christiani,P
+ARI,Arizona Diamondbacks,R,R,1986,7595,Nick Evans,1B/OF
+LAA,Los Angeles Angels,S,R,1991,10166,Nick Franklin,2B
+TEX,Texas Rangers,R,R,1993,16513,Nick Gardewine,P
+CLE,Cleveland Indians,R,R,1991,13685,Nick Goody,P
+STL,St. Louis Cardinals,R,L,1987,8182,Nick Greenwood,P
+CLE,Cleveland Indians,L,L,1986,1351,Nick Hagadone,P
+SFG,San Francisco Giants,R,R,1983,3376,Nick Hundley,C
+PIT,Pittsburgh Pirates,R,R,1991,sa548285,Nick Kingham,
+WSN,Washington Nationals,L,L,1991,sa550027,Nick Lee,
+ATL,Atlanta Braves,L,L,1983,5930,Nick Markakis,OF
+CLE,Cleveland Indians,S,L,1989,12530,Nick Maronde,P
+TEX,Texas Rangers,L,R,1990,12730,Nick Martinez,P
+ATL,Atlanta Braves,R,R,1982,7267,Nick Masset,P
+SDP,San Diego Padres,L,R,1989,6880,Nick Noonan,2B/3B
+PHI,Philadelphia Phillies,R,R,1993,15454,Nick Pivetta,P
+OAK,Oakland Athletics,S,R,1977,1429,Nick Punto,2B/3B/SS
+SEA,Seattle Mariners,R,R,1991,14867,Nick Rumbelow,P
+ATL,Atlanta Braves,S,L,1980,4599,Nick Swisher,1B/OF
+TOR,Toronto Blue Jays,R,R,1988,11716,Nick Tepesch,P
+CIN,Cincinnati Reds,R,R,1994,sa657906,Nick Travieso,
+LAA,Los Angeles Angels,R,R,1990,12385,Nick Tropeano,P
+SEA,Seattle Mariners,R,R,1986,7555,Nick Vincent,P
+PHI,Philadelphia Phillies,L,L,1993,14330,Nick Williams,OF
+MIA,Miami Marlins,R,R,1991,15594,Nick Wittgren,P
+CHW,Chicago White Sox,L,R,1992,13157,Nick Delmonico,OF
+PIT,Pittsburgh Pirates,L,L,1989,5530,Nik Turley,P
+DET,Detroit Tigers,S,R,1992,12092,Niko Goodrum,1B/2B
+NYM,New York Mets,L,R,1992,11762,Noah Syndergaard,P
+LAA,Los Angeles Angels,R,R,1989,12800,Noe Ramirez,P
+COL,Colorado Rockies,R,R,1991,,,
+COL,Colorado Rockies,R,R,1991,9777,Nolan Arenado,3B
+LAA,Los Angeles Angels,L,R,1991,13267,Nolan Fontana,2B
+BAL,Baltimore Orioles,R,R,1983,3441,Nolan Reimold,OF
+TEX,Texas Rangers,L,L,1995,14553,Nomar Mazara,OF
+NYM,New York Mets,L,R,1982,13075,Nori Aoki,OF
+CLE,Cleveland Indians,L,L,1980,4885,Nyjer Morgan,OF
+LAD,Los Angeles Dodgers,R,R,1990,12677,O'Koyea Dickson,OF
+MIA,Miami Marlins,R,R,1987,16017,Odrisamer Despaigne,P
+PHI,Philadelphia Phillies,L,R,1991,11476,Odubel Herrera,OF
+MIL,Milwaukee Brewers,R,R,1987,8823,Oliver Drake,P
+WSN,Washington Nationals,L,L,1981,1514,Oliver Perez,P
+KCR,Kansas City Royals,R,R,1981,1609,Omar Infante,2B
+CHW,Chicago White Sox,L,R,1992,13338,Omar Narvaez,C
+NYM,New York Mets,L,R,1981,6335,Omar Quintanilla,2B/SS
+CLE,Cleveland Indians,R,R,1981,3583,Omir Santos,C
+KCR,Kansas City Royals,L,L,1989,13674,Onelki Garcia,P
+MIL,Milwaukee Brewers,R,R,1994,13185,Orlando Arcia,SS
+SFG,San Francisco Giants,R,R,1992,11905,Orlando Calixte,OF
+CHC,Chicago Cubs,R,R,1995,sa737037,Oscar De La Cruz,P
+ARI,Arizona Diamondbacks,R,R,1993,13490,Oscar Hernandez,C
+STL,St. Louis Cardinals,R,R,1994,sa737612,Oscar Mercado,SS
+STL,St. Louis Cardinals,L,L,1992,11173,Oscar Taveras,OF
+SDP,San Diego Padres,L,R,1991,10306,Oswaldo Arcia,OF
+TOR,Toronto Blue Jays,L,R,1995,sa738385,Owen Spiwak,
+ATL,Atlanta Braves,S,R,1997,16556,Ozzie Albies,2B
+LAD,Los Angeles Dodgers,R,R,1985,9557,P.J. Walters,P
+MIA,Miami Marlins,R,R,1996,sa736473,Pablo Lopez,P
+SFG,San Francisco Giants,S,R,1986,5409,Pablo Sandoval,3B
+ATL,Atlanta Braves,L,L,1991,13398,Paco Rodriguez,P
+TEX,Texas Rangers,R,R,1987,8246,Paolo Espino,P
+LAA,Los Angeles Angels,R,R,1991,11502,Parker Bridwell,P
+MIN,Minnesota Twins,L,L,1989,11350,Pat Dean,P
+SEA,Seattle Mariners,R,R,1991,13427,Pat Light,P
+BAL,Baltimore Orioles,L,L,1988,6605,Pat McCoy,P
+PHI,Philadelphia Phillies,S,R,1980,4682,Pat Neshek,P
+COL,Colorado Rockies,R,R,1992,14885,Pat Valaika,3B/SS
+SEA,Seattle Mariners,L,S,1985,7108,Pat Venditte,P
+ARI,Arizona Diamondbacks,L,L,1989,9323,Patrick Corbin,P
+CIN,Cincinnati Reds,R,R,1989,13910,Patrick Kivlehan,OF
+PHI,Philadelphia Phillies,R,L,1990,10029,Patrick Schuster,P
+OAK,Oakland Athletics,R,R,1993,14739,Paul Blackburn,P
+SDP,San Diego Padres,R,R,1988,8037,Paul Clemens,P
+STL,St. Louis Cardinals,R,R,1993,18015,Paul DeJong,SS
+BAL,Baltimore Orioles,L,L,1992,sa738159,Paul Fry,
+ARI,Arizona Diamondbacks,R,R,1987,9218,Paul Goldschmidt,1B
+BAL,Baltimore Orioles,R,R,1982,7412,Paul Janish,SS
+CIN,Cincinnati Reds,L,L,1982,8678,Paul Maholm,P
+NYM,New York Mets,R,R,1990,13892,Paul Sewald,P
+KCR,Kansas City Royals,R,R,1985,8628,Paulo Orlando,OF
+BAL,Baltimore Orioles,L,R,1987,2495,Pedro Alvarez,3B
+BAL,Baltimore Orioles,R,R,1993,17697,Pedro Araujo,P
+LAD,Los Angeles Dodgers,R,R,1988,5420,Pedro Baez,P
+PHI,Philadelphia Phillies,R,R,1986,1330,Pedro Beato,P
+TEX,Texas Rangers,R,R,1985,5278,Pedro Ciriaco,3B/SS
+NYM,New York Mets,L,L,1976,1601,Pedro Feliciano,P
+TEX,Texas Rangers,L,L,1985,6616,Pedro Figueroa,P
+PHI,Philadelphia Phillies,S,R,1986,8385,Pedro Florimon,SS
+COL,Colorado Rockies,L,L,1989,4578,Pedro Hernandez,P
+WSN,Washington Nationals,R,R,1993,14523,Pedro Severino,C
+CHC,Chicago Cubs,R,R,1985,4070,Pedro Strop,P
+CIN,Cincinnati Reds,R,R,1987,9904,Pedro Villarreal,P
+CLE,Cleveland Indians,R,R,1988,10887,Perci Garner,P
+TEX,Texas Rangers,R,R,1988,2539,Pete Kozma,SS
+PHI,Philadelphia Phillies,L,R,1979,2748,Pete Orr,2B/3B
+ATL,Atlanta Braves,R,R,1987,2578,Peter Bourjos,OF
+ATL,Atlanta Braves,R,R,1978,4891,Peter Moylan,P
+LAD,Los Angeles Dodgers,R,R,1990,13288,Peter O'Brien,OF
+PIT,Pittsburgh Pirates,L,L,1982,5535,Phil Coke,P
+CIN,Cincinnati Reds,R,R,1988,10953,Phil Gosselin,2B
+MIN,Minnesota Twins,R,R,1986,7450,Phil Hughes,P
+TEX,Texas Rangers,R,R,1987,9489,Phil Irwin,P
+PHI,Philadelphia Phillies,R,R,1989,12675,Phil Klein,P
+SDP,San Diego Padres,R,R,1993,18064,Phil Maton,P
+HOU,Houston Astros,R,R,1982,8586,Philip Humber,P
+CIN,Cincinnati Reds,R,R,1992,14738,Phillip Ervin,OF
+NYM,New York Mets,R,R,1992,12950,Phillip Evans,2B/3B
+PHI,Philadelphia Phillies,L,R,1989,5362,Phillippe Aumont,P
+SFG,San Francisco Giants,R,R,1991,13435,Pierce Johnson,P
+TEX,Texas Rangers,R,R,1988,10500,Preston Claiborne,P
+MIL,Milwaukee Brewers,R,R,1987,7303,Preston Guilmet,P
+ATL,Atlanta Braves,L,L,1990,13633,Preston Tucker,OF
+TEX,Texas Rangers,L,R,1984,4613,Prince Fielder,1B
+MIL,Milwaukee Brewers,L,L,1984,9414,Quintin Berry,OF
+ATL,Atlanta Braves,R,R,1974,1245,R.A. Dickey,P
+TEX,Texas Rangers,R,R,1991,13401,R.J. Alvarez,P
+PIT,Pittsburgh Pirates,R,R,1983,5843,Radhames Liz,P
+WSN,Washington Nationals,R,R,1993,15769,Rafael Bautista,OF
+COL,Colorado Rockies,R,R,1975,177,Rafael Betancourt,
+BOS,Boston Red Sox,L,R,1996,17350,Rafael Devers,3B
+DET,Detroit Tigers,R,R,1988,4185,Rafael Dolis,P
+SDP,San Diego Padres,L,R,1987,12606,Raffy Lopez,C
+WSN,Washington Nationals,R,R,1984,10258,Rafael Martin,P
+NYM,New York Mets,R,R,1990,12760,Rafael Montero,P
+LAA,Los Angeles Angels,L,R,1991,10323,Rafael Ortega,OF
+CLE,Cleveland Indians,L,L,1982,4078,Rafael Perez,P
+CHC,Chicago Cubs,R,R,1979,1100,Rafael Soriano,P
+COL,Colorado Rockies,S,R,1987,2832,Rafael Ynoa,3B/OF
+COL,Colorado Rockies,L,L,1994,14350,Raimel Tapia,OF
+CIN,Cincinnati Reds,R,R,1990,17130,Raisel Iglesias,P
+CLE,Cleveland Indians,R,R,1980,3708,Rajai Davis,OF
+SFG,San Francisco Giants,S,R,1985,8841,Ramiro Pena,2B/3B/SS
+CIN,Cincinnati Reds,S,R,1989,10327,Ramon Cabrera,C
+BOS,Boston Red Sox,L,L,1992,11165,Ramon Flores,OF
+OAK,Oakland Athletics,R,R,1994,sa829185,Ramon Laureano,OF
+BAL,Baltimore Orioles,R,R,1981,7986,Ramon Ramirez,P
+TOR,Toronto Blue Jays,S,R,1979,1417,Ramon Santiago,2B/SS
+KCR,Kansas City Royals,S,R,1993,14113,Ramon Torres,2B/3B
+CHW,Chicago White Sox,R,R,1983,4685,Ramon Troncoso,P
+TOR,Toronto Blue Jays,R,R,1991,10243,Randal Grichuk,OF
+ARI,Arizona Diamondbacks,R,R,1990,5985,Randall Delgado,P
+CHC,Chicago Cubs,L,L,1994,14508,Randy Rosario,P
+OAK,Oakland Athletics,R,R,1992,sa548335,Rangel Ravelo,
+PHI,Philadelphia Phillies,L,L,1995,sa659551,Ranger Suarez,P
+MIA,Miami Marlins,L,L,1989,14077,Raudel Lazo,P
+WSN,Washington Nationals,R,R,1993,15766,Raudy Read,C
+OAK,Oakland Athletics,R,R,1992,12790,Raul Alcantara,P
+KCR,Kansas City Royals,S,R,1995,13769,Raul Mondesi,2B
+HOU,Houston Astros,L,L,1977,1953,Raul Valdes,P
+SFG,San Francisco Giants,R,R,1990,sa579473,Ray Black,
+CHW,Chicago White Sox,S,R,1981,1718,Ray Olmedo,2B/SS
+COL,Colorado Rockies,R,R,1990,sa455370,Rayan Gonzalez,
+LAD,Los Angeles Dodgers,R,R,1987,10710,Red Patterson,P
+WSN,Washington Nationals,R,R,1976,1702,Reed Johnson,OF
+TOR,Toronto Blue Jays,L,R,1995,sa737505,Reese McGuire,C
+WSN,Washington Nationals,L,R,1986,8380,Reid Brignac,SS
+TEX,Texas Rangers,R,R,1994,14503,Renato Nunez,DH/OF
+LAA,Los Angeles Angels,R,R,1983,3648,Rene Rivera,C
+ATL,Atlanta Braves,L,L,1987,9794,Rex Brothers,P
+LAA,Los Angeles Angels,S,R,1989,6008,Reynaldo Navarro,2B
+SFG,San Francisco Giants,R,R,1993,14966,Reyes Moronta,P
+HOU,Houston Astros,L,L,1992,13058,Reymin Guduan,P
+ARI,Arizona Diamondbacks,L,L,1991,10329,Rey Fuentes,OF
+CHW,Chicago White Sox,R,R,1994,16400,Reynaldo Lopez,P
+HOU,Houston Astros,R,R,1986,711,Rhiner Cruz,
+PHI,Philadelphia Phillies,R,R,1993,16472,Rhys Hoskins,1B/OF
+CHW,Chicago White Sox,R,R,1994,16318,Ricardo Pinto,P
+TEX,Texas Rangers,R,R,1992,15458,Ricardo Rodriguez,P
+ATL,Atlanta Braves,L,L,1997,sa830302,Ricardo Sanchez,P
+LAD,Los Angeles Dodgers,L,L,1980,4806,Rich Hill,P
+BAL,Baltimore Orioles,L,L,1987,7803,Richard Bleier,P
+PIT,Pittsburgh Pirates,R,R,1990,13549,Richard Rodriguez,P
+TOR,Toronto Blue Jays,S,R,1996,16411,Richard Urena,SS
+CLE,Cleveland Indians,R,R,1991,13271,Richie Shaffer,1B/DH
+BOS,Boston Red Sox,R,R,1988,2717,Rick Porcello,P
+TBR,Tampa Bay Rays,R,R,1982,1849,Rickie Weeks Jr.,2B
+KCR,Kansas City Royals,R,R,1982,3830,Ricky Nolasco,P
+TOR,Toronto Blue Jays,R,L,1984,3403,Ricky Romero,P
+NYY,New York Yankees,R,R,1989,10585,Rico Noel,DH/OF
+ATL,Atlanta Braves,L,R,1994,14103,Rio Ruiz,3B
+CHW,Chicago White Sox,L,R,1989,10655,Rob Brantly,C
+LAA,Los Angeles Angels,R,L,1989,11250,Rob Rasmussen,P
+TBR,Tampa Bay Rays,R,R,1991,13770,Rob Refsnyder,2B/OF
+MIL,Milwaukee Brewers,L,R,1987,9286,Rob Scahill,P
+LAD,Los Angeles Dodgers,R,R,1988,11446,Rob Segedin,1B/3B/OF
+SEA,Seattle Mariners,R,R,1994,14165,Rob Whalen,P
+MIL,Milwaukee Brewers,R,R,1985,8532,Rob Wooten,P
+CHC,Chicago Cubs,R,L,1992,15094,Rob Zastryzny,P
+SDP,San Diego Padres,R,L,1990,10354,Robbie Erlin,P
+MIN,Minnesota Twins,S,L,1989,5254,Robbie Grossman,OF
+ARI,Arizona Diamondbacks,L,L,1991,11486,Robbie Ray,P
+BOS,Boston Red Sox,L,L,1989,6819,Robbie Ross Jr.,P
+BOS,Boston Red Sox,S,L,1989,13042,Robby Scott,P
+MIA,Miami Marlins,R,R,1984,4900,Robert Andino,2B/SS
+LAA,Los Angeles Angels,L,L,1989,2570,Robert Carson,P
+LAA,Los Angeles Angels,R,R,1984,1149,Robert Coello,P
+NYM,New York Mets,R,R,1993,13696,Robert Gsellman,P
+CIN,Cincinnati Reds,R,R,1993,13594,Robert Stephenson,P
+SFG,San Francisco Giants,S,R,1989,12963,Roberto Gomez,P
+ATL,Atlanta Braves,R,R,1980,3273,Roberto Hernandez,P
+TOR,Toronto Blue Jays,R,R,1995,13764,Roberto Osuna,P
+CLE,Cleveland Indians,R,R,1988,2900,Roberto Perez,C
+SEA,Seattle Mariners,L,R,1982,3269,Robinson Cano,2B
+TEX,Texas Rangers,R,R,1984,3142,Robinson Chirinos,C
+SDP,San Diego Padres,R,R,1988,10533,Rocky Gale,C
+BOS,Boston Red Sox,L,L,1988,12673,Roenis Elias,P
+LAD,Los Angeles Dodgers,L,L,1984,6421,Roger Bernadina,OF
+LAA,Los Angeles Angels,L,R,1987,5225,Roger Kieschnick,OF
+KCR,Kansas City Royals,R,R,1979,2242,Roman Colon,P
+BOS,Boston Red Sox,R,R,1990,10307,Roman Mendez,P
+PHI,Philadelphia Phillies,S,R,1993,13546,Roman Quinn,OF
+TBR,Tampa Bay Rays,R,R,1982,2203,Ronald Belisario,P
+TEX,Texas Rangers,L,L,1994,14388,Ronald Guzman,1B
+TEX,Texas Rangers,R,R,1995,15688,Ronald Herrera,P
+NYY,New York Yankees,R,R,1992,11400,Ronald Torreyes,2B/3B/SS
+ATL,Atlanta Braves,R,R,1984,sa601536,Ronnier Mustelier,
+PHI,Philadelphia Phillies,R,R,1983,2179,Ronny Cedeno,SS
+SEA,Seattle Mariners,R,R,1981,2129,Ronny Paulino,C
+CIN,Cincinnati Reds,R,R,1993,14962,Rookie Davis,P
+COL,Colorado Rockies,S,R,1992,sa547996,Rosell Herrera,
+OAK,Oakland Athletics,R,L,1986,2859,Ross Detwiler,P
+CIN,Cincinnati Reds,R,R,1982,8268,Ross Ohlendorf,P
+LAD,Los Angeles Dodgers,R,R,1989,13273,Ross Stripling,P
+TEX,Texas Rangers,R,R,1982,4534,Ross Wolf,P
+TEX,Texas Rangers,L,R,1994,12282,Rougned Odor,2B
+SDP,San Diego Padres,L,R,1992,sa549441,Rowan Wick,
+TOR,Toronto Blue Jays,L,L,1995,sa738437,Rowdy Tellez,1B
+ARI,Arizona Diamondbacks,R,R,1989,3862,Rubby de la Rosa,P
+BAL,Baltimore Orioles,R,R,1989,5519,Ruben Tejada,SS
+HOU,Houston Astros,L,L,1987,5226,Rudy Owens,P
+BOS,Boston Red Sox,R,R,1987,17016,Rusney Castillo,OF
+PIT,Pittsburgh Pirates,R,R,1986,8265,Russ Canzler,1B/DH/OF
+TOR,Toronto Blue Jays,R,R,1983,4616,Russell Martin,C
+TOR,Toronto Blue Jays,L,L,1994,sa658266,Ryan Borucki,
+OAK,Oakland Athletics,R,R,1987,5615,Ryan Brasier,P
+MIL,Milwaukee Brewers,R,R,1983,3410,Ryan Braun,OF
+TBR,Tampa Bay Rays,R,R,1991,12138,Ryan Brett,2B
+OAK,Oakland Athletics,L,L,1987,9456,Ryan Buchter,P
+DET,Detroit Tigers,L,L,1990,12699,Ryan Carpenter,P
+SEA,Seattle Mariners,R,R,1987,8855,Ryan Cook,P
+CHW,Chicago White Sox,R,R,1992,sa737938,Ryan Cordell,
+LAD,Los Angeles Dodgers,L,L,1987,9261,Ryan Dennick,P
+ATL,Atlanta Braves,S,R,1981,2113,Ryan Doumit,C
+OAK,Oakland Athletics,R,R,1989,13974,Ryan Dull,P
+TEX,Texas Rangers,L,L,1985,6336,Ryan Feierabend,P
+ATL,Atlanta Braves,L,R,1986,7888,Ryan Flaherty,2B/3B
+SEA,Seattle Mariners,R,R,1989,14016,Ryan Garton,P
+KCR,Kansas City Royals,L,R,1988,9807,Ryan Goins,2B/SS
+TOR,Toronto Blue Jays,L,R,1997,sa918639,Ryan Gold,C
+CLE,Cleveland Indians,R,R,1980,4952,Ryan Hanigan,C
+PHI,Philadelphia Phillies,L,L,1979,2154,Ryan Howard,1B
+SEA,Seattle Mariners,R,R,1988,6596,Ryan Jackson,2B
+CHC,Chicago Cubs,L,L,1988,6962,Ryan Kalish,OF
+ATL,Atlanta Braves,R,R,1987,4858,Ryan Kelly,P
+MIN,Minnesota Twins,R,L,1988,10700,Ryan LaMarre,OF
+TOR,Toronto Blue Jays,L,L,1980,98,Ryan Langerhans,
+OAK,Oakland Athletics,R,R,1987,8879,Ryan Lavarnway,C
+SFG,San Francisco Giants,L,L,1986,6623,Ryan Lollis,OF
+TEX,Texas Rangers,R,L,1978,1260,Ryan Ludwick,OF
+WSN,Washington Nationals,L,R,1980,1852,Ryan Madson,P
+CIN,Cincinnati Reds,R,R,1983,7169,Ryan Mattheus,P
+COL,Colorado Rockies,L,R,1994,15112,Ryan McMahon,1B
+CLE,Cleveland Indians,L,L,1992,13688,Ryan Merritt,P
+MIN,Minnesota Twins,R,L,1988,10976,Ryan O'Rourke,P
+WSN,Washington Nationals,R,R,1987,8799,Ryan Perry,P
+MIN,Minnesota Twins,R,R,1988,7005,Ryan Pressly,P
+WSN,Washington Nationals,R,R,1981,2218,Ryan Raburn,OF
+NYM,New York Mets,L,R,1985,9385,Ryan Reid,P
+KCR,Kansas City Royals,R,R,1980,5653,Ryan Roberts,2B/3B
+ARI,Arizona Diamondbacks,L,L,1983,3245,Ryan Rowland-Smith,P
+TEX,Texas Rangers,R,R,1990,12409,Ryan Rua,1B/OF
+LAA,Los Angeles Angels,L,R,1988,9953,Ryan Schimpf,2B/3B
+STL,St. Louis Cardinals,L,L,1990,12249,Ryan Sherriff,P
+TEX,Texas Rangers,R,R,1988,10937,Ryan Strausborger,OF
+CHC,Chicago Cubs,L,L,1985,6352,Ryan Sweeney,OF
+TOR,Toronto Blue Jays,R,R,1987,10291,Ryan Tepera,P
+KCR,Kansas City Royals,L,L,1987,9154,Ryan Verdugo,P
+SFG,San Francisco Giants,R,R,1977,1011,Ryan Vogelsong,P
+TBR,Tampa Bay Rays,R,R,1986,7474,Ryan Webb,P
+TBR,Tampa Bay Rays,R,R,1990,10160,Ryan Weber,P
+LAA,Los Angeles Angels,L,R,1988,9312,Ryan Wheeler,1B/3B
+TBR,Tampa Bay Rays,R,L,1991,16502,Ryan Yarbrough,P
+WSN,Washington Nationals,R,R,1984,4220,Ryan Zimmerman,3B
+SFG,San Francisco Giants,L,R,1994,15982,Ryder Jones,1B/3B
+CHW,Chicago White Sox,R,R,1991,4779,Rymer Liriano,OF
+SEA,Seattle Mariners,R,R,1989,sa599485,Ryne Harper,P
+TBR,Tampa Bay Rays,R,R,1991,15947,Ryne Stanek,P
+SEA,Seattle Mariners,R,R,1992,15447,Ryon Healy,3B/DH
+CIN,Cincinnati Reds,L,R,1993,13690,Sal Romano,P
+KCR,Kansas City Royals,R,R,1990,7304,Salvador Perez,C
+NYY,New York Yankees,R,R,1985,868,Sam Demel,
+SFG,San Francisco Giants,R,R,1988,11710,Sam Dyson,P
+ATL,Atlanta Braves,R,L,1987,6832,Sam Freeman,P
+OAK,Oakland Athletics,L,L,1981,8254,Sam Fuld,OF
+TOR,Toronto Blue Jays,R,R,1990,12778,Sam Gaviglio,P
+COL,Colorado Rockies,R,L,1993,sa602898,Sam Howard,P
+ARI,Arizona Diamondbacks,R,R,1984,4664,Sam LeCure,P
+TOR,Toronto Blue Jays,L,L,1992,14874,Sam Moll,P
+BOS,Boston Red Sox,R,R,1993,16263,Sam Travis,1B
+STL,St. Louis Cardinals,R,R,1992,13485,Sam Tuivailala,P
+KCR,Kansas City Royals,L,R,1996,sa739574,Samir Duenez,
+WSN,Washington Nationals,R,L,1988,11457,Sammy Solis,P
+HOU,Houston Astros,R,R,1983,5285,Samuel Deduno,P
+MIA,Miami Marlins,R,R,1995,18684,Sandy Alcantara,P
+DET,Detroit Tigers,R,R,1993,sa657709,Sandy Baez,
+BOS,Boston Red Sox,S,R,1989,5273,Sandy Leon,C
+SFG,San Francisco Giants,R,R,1985,1525,Sandy Rosario,P
+OAK,Oakland Athletics,R,R,1980,2873,Santiago Casilla,P
+CIN,Cincinnati Reds,L,R,1990,10339,Scooter Gennett,2B
+LAD,Los Angeles Dodgers,L,L,1989,10591,Scott Alexander,P
+CLE,Cleveland Indians,R,R,1976,2642,Scott Atchison,P
+LAD,Los Angeles Dodgers,R,R,1981,6176,Scott Baker,P
+KCR,Kansas City Royals,R,R,1992,sa597976,Scott Barlow,P
+TOR,Toronto Blue Jays,L,L,1987,8718,Scott Barnes,P
+CHW,Chicago White Sox,R,R,1984,888,Scott Carroll,
+TOR,Toronto Blue Jays,R,R,1987,10706,Scott Copeland,P
+TOR,Toronto Blue Jays,L,L,1986,5089,Scott Diamond,P
+LAD,Los Angeles Dodgers,L,L,1985,7489,Scott Elbert,P
+CIN,Cincinnati Reds,L,R,1983,6283,Scott Feldman,P
+WSN,Washington Nationals,R,R,1980,1926,Scott Hairston,OF
+ATL,Atlanta Braves,L,L,1984,4897,Scott Kazmir,P
+PHI,Philadelphia Phillies,R,R,1994,17975,Scott Kingery,3B/SS/OF
+MIA,Miami Marlins,L,L,1985,885,Scott Maine,
+BAL,Baltimore Orioles,R,R,1989,12056,Scott McGough,P
+HOU,Houston Astros,L,R,1983,4390,Scott Moore,1B/3B
+COL,Colorado Rockies,R,R,1990,13911,Scott Oberg,P
+NYM,New York Mets,L,L,1981,2743,Scott Rice,P
+CIN,Cincinnati Reds,L,R,1990,12225,Scott Schebler,OF
+NYY,New York Yankees,R,R,1985,2881,Scott Sizemore,2B/3B
+CHW,Chicago White Sox,L,L,1989,12020,Scott Snodgress,P
+CIN,Cincinnati Reds,R,R,1986,4365,Scott Van Slyke,OF
+WSN,Washington Nationals,L,L,1982,1886,Sean Burnett,P
+LAA,Los Angeles Angels,R,R,1992,sa548268,Sean Coyle,
+WSN,Washington Nationals,L,L,1986,1581,Sean Doolittle,P
+STL,St. Louis Cardinals,L,L,1990,12781,Sean Gilmartin,P
+MIL,Milwaukee Brewers,R,R,1987,9853,Sean Halton,1B
+OAK,Oakland Athletics,R,L,1992,15873,Sean Manaea,P
+CIN,Cincinnati Reds,L,L,1982,5905,Sean Marshall,P
+ATL,Atlanta Braves,L,L,1993,16943,Sean Newcomb,P
+MIL,Milwaukee Brewers,L,L,1989,11341,Sean Nolin,P
+BOS,Boston Red Sox,R,R,1987,9137,Sean O'Sullivan,P
+PIT,Pittsburgh Pirates,R,R,1985,6589,Sean Rodriguez,2B
+PHI,Philadelphia Phillies,R,R,1994,sa657573,Seranthony Dominguez,P
+DET,Detroit Tigers,S,R,1996,sa739641,Sergio Alcantara,SS
+TBR,Tampa Bay Rays,R,R,1983,9817,Sergio Romo,P
+NYY,New York Yankees,R,R,1983,4734,Sergio Santos,P
+SEA,Seattle Mariners,R,R,1988,11346,Seth Frankoff,P
+NYM,New York Mets,R,R,1989,12447,Seth Lugo,P
+KCR,Kansas City Royals,R,R,1988,12235,Seth Maness,P
+PHI,Philadelphia Phillies,R,R,1988,10606,Seth Rosin,P
+BAL,Baltimore Orioles,L,L,1982,7331,Seth Smith,OF
+TOR,Toronto Blue Jays,R,R,1982,18719,Seung Hwan Oh,P
+MIA,Miami Marlins,R,R,1992,14697,Severino Gonzalez,P
+CHC,Chicago Cubs,R,R,1990,14200,Shae Simmons,P
+ATL,Atlanta Braves,R,R,1991,15258,Shane Carle,P
+DET,Detroit Tigers,R,R,1988,10756,Shane Greene,P
+SFG,San Francisco Giants,R,R,1979,1613,Shane Loux,P
+TBR,Tampa Bay Rays,L,L,1988,7423,Shane Peterson,OF
+NYY,New York Yankees,R,R,1984,4249,Shane Robinson,OF
+CHC,Chicago Cubs,S,R,1980,1677,Shane Victorino,OF
+CLE,Cleveland Indians,R,R,1981,6204,Shaun Marcum,P
+SEA,Seattle Mariners,R,R,1990,12857,Shawn Armstrong,P
+TOR,Toronto Blue Jays,R,R,1981,1882,Shawn Hill,P
+WSN,Washington Nationals,R,R,1984,7773,Shawn Kelley,P
+CLE,Cleveland Indians,L,L,1992,13606,Shawn Morimando,P
+SEA,Seattle Mariners,S,R,1987,9629,Shawn O'Malley,SS/OF
+TBR,Tampa Bay Rays,R,R,1988,10481,Shawn Tolleson,P
+CIN,Cincinnati Reds,S,R,1995,sa738578,Shed Long,2B
+ARI,Arizona Diamondbacks,R,R,1990,10197,Shelby Miller,P
+TEX,Texas Rangers,L,L,1982,3174,Shin-Soo Choo,OF
+LAA,Los Angeles Angels,L,R,1994,19755,Shohei Ohtani,DH
+ARI,Arizona Diamondbacks,R,R,1992,15051,Silvino Bracho,P
+OAK,Oakland Athletics,R,R,1988,9243,Simon Castro,P
+SDP,San Diego Padres,L,R,1980,3704,Skip Schumaker,2B/OF
+NYY,New York Yankees,L,L,1990,10336,Slade Heathcott,OF
+ARI,Arizona Diamondbacks,L,L,1992,12944,Socrates Brito,OF
+NYY,New York Yankees,R,R,1989,12768,Sonny Gray,P
+WSN,Washington Nationals,R,R,1991,13300,Spencer Kieboom,PH/PR
+CHC,Chicago Cubs,R,R,1988,12361,Spencer Patton,P
+DET,Detroit Tigers,R,R,1992,sa827481,Spencer Turnbull,P
+MIA,Miami Marlins,R,R,1990,4579,Starlin Castro,2B/SS
+PIT,Pittsburgh Pirates,R,R,1988,9241,Starling Marte,OF
+ARI,Arizona Diamondbacks,R,R,1992,16058,Stefan Crichton,P
+SEA,Seattle Mariners,R,R,1988,11746,Stefen Romero,OF
+COL,Colorado Rockies,R,R,1987,11204,Stephen Cardullo,1B/OF
+WSN,Washington Nationals,L,R,1983,4251,Stephen Drew,SS
+LAD,Los Angeles Dodgers,R,R,1986,8077,Stephen Fife,P
+MIN,Minnesota Twins,L,L,1994,sa737764,Stephen Gonsalves,P
+CIN,Cincinnati Reds,R,R,1991,sa658027,Stephen Johnson,
+OAK,Oakland Athletics,R,R,1991,13367,Stephen Piscotty,OF
+MIN,Minnesota Twins,R,R,1989,10663,Stephen Pryor,P
+WSN,Washington Nationals,R,R,1988,10131,Stephen Strasburg,P
+MIL,Milwaukee Brewers,L,R,1984,5000,Stephen Vogt,C
+MIA,Miami Marlins,R,R,1988,9615,Steven Ames,P
+SEA,Seattle Mariners,R,R,1990,9787,Steven Baron,C
+CHC,Chicago Cubs,R,R,1986,6483,Steve Cishek,P
+SEA,Seattle Mariners,L,R,1986,9542,Steve Clevenger,C
+CIN,Cincinnati Reds,R,R,1983,11827,Steve Delabar,P
+SFG,San Francisco Giants,R,R,1985,2185,Steve Edlefsen,P
+MIL,Milwaukee Brewers,R,R,1987,8402,Steve Geltz,P
+ARI,Arizona Diamondbacks,L,L,1990,15293,Steve Hathaway,P
+BAL,Baltimore Orioles,R,R,1987,4053,Steve Johnson,P
+MIA,Miami Marlins,S,R,1988,5422,Steve Lombardozzi,2B/OF
+TOR,Toronto Blue Jays,R,R,1983,9957,Steve Pearce,1B/OF
+BOS,Boston Red Sox,R,R,1989,12957,Steve Selsky,OF
+PHI,Philadelphia Phillies,L,L,1986,8587,Steve Susdorf,OF
+TOR,Toronto Blue Jays,R,R,1983,4450,Steve Tolleson,2B/3B
+PIT,Pittsburgh Pirates,L,L,1992,15291,Steven Brault,P
+PHI,Philadelphia Phillies,L,R,1984,113,Steven Lerud,
+NYM,New York Mets,R,L,1991,13361,Steven Matz,P
+DET,Detroit Tigers,L,R,1991,11854,Steven Moya,OF
+SFG,San Francisco Giants,L,L,1991,13580,Steven Okert,P
+ARI,Arizona Diamondbacks,R,R,1989,5667,Steven Souza Jr.,OF
+BOS,Boston Red Sox,R,R,1984,8185,Steven Wright,P
+TEX,Texas Rangers,R,R,1990,6415,Stolmy Pimentel,P
+CIN,Cincinnati Reds,R,R,1991,15207,Stuart Turner,C
+ATL,Atlanta Braves,R,R,1988,6027,Sugar Marimon,P
+ARI,Arizona Diamondbacks,L,L,1989,3237,T.J. McFarland,P
+NYM,New York Mets,R,R,1988,12495,T.J. Rivera,2B/3B
+ARI,Arizona Diamondbacks,R,R,1992,11836,Taijuan Walker,P
+CIN,Cincinnati Reds,R,R,1992,17610,Tanner Rainey,P
+WSN,Washington Nationals,R,R,1986,8753,Tanner Roark,P
+TEX,Texas Rangers,R,R,1987,10267,Tanner Scheppers,P
+BAL,Baltimore Orioles,R,L,1994,17586,Tanner Scott,P
+TOR,Toronto Blue Jays,R,R,1989,11964,Taylor Cole,P
+CHC,Chicago Cubs,R,R,1989,12782,Taylor Davis,1B/3B
+NYY,New York Yankees,L,L,1989,sa577007,Taylor Dugas,
+TBR,Tampa Bay Rays,R,R,1989,12590,Taylor Featherston,2B/3B
+MIL,Milwaukee Brewers,L,R,1986,9147,Taylor Green,1B/3B
+TOR,Toronto Blue Jays,R,R,1992,sa597787,Taylor Guerrieri,
+WSN,Washington Nationals,R,R,1989,12515,Taylor Hill,P
+WSN,Washington Nationals,R,R,1989,10466,Taylor Jordan,P
+MIL,Milwaukee Brewers,R,R,1989,13119,Taylor Jungmann,P
+SDP,San Diego Padres,L,R,1991,sa548170,Taylor Lindsey,
+SEA,Seattle Mariners,R,R,1989,12399,Taylor Motter,SS
+MIN,Minnesota Twins,L,L,1990,13449,Taylor Rogers,P
+CHC,Chicago Cubs,R,R,1983,5199,Taylor Teagarden,C
+OAK,Oakland Athletics,R,R,1987,10019,Taylor Thompson,P
+MIL,Milwaukee Brewers,S,R,1991,14899,Taylor Williams,P
+MIA,Miami Marlins,R,R,1991,11691,Tayron Guerrero,P
+TOR,Toronto Blue Jays,R,R,1992,13066,Teoscar Hernandez,OF
+KCR,Kansas City Royals,R,R,1991,13658,Terrance Gore,DH/OF
+TOR,Toronto Blue Jays,R,R,1984,8036,Thad Weber,P
+NYY,New York Yankees,R,R,1996,sa739620,Thairo Estrada,2B
+TEX,Texas Rangers,R,R,1987,6262,Tommy Field,2B/SS
+CHC,Chicago Cubs,R,R,1987,9461,Thomas Neal,OF
+TOR,Toronto Blue Jays,L,L,1994,sa658922,Thomas Pannone,P
+CHW,Chicago White Sox,R,R,1993,14510,Thyago Vieira,P
+CIN,Cincinnati Reds,R,R,1987,10968,Tim Adleman,P
+CHW,Chicago White Sox,R,R,1993,15172,Tim Anderson,SS
+BAL,Baltimore Orioles,R,R,1990,7949,Tim Beckham,2B/SS
+MIA,Miami Marlins,L,L,1991,sa503777,Tim Berry,
+KCR,Kansas City Royals,L,L,1989,3164,Tim Collins,P
+CLE,Cleveland Indians,L,L,1990,13762,Tim Cooney,P
+MIL,Milwaukee Brewers,R,R,1983,5518,Tim Dillard,P
+SFG,San Francisco Giants,R,R,1987,8609,Tim Federowicz,C
+KCR,Kansas City Royals,L,L,1990,16814,Tim Hill,P
+TEX,Texas Rangers,L,R,1984,5705,Tim Lincecum,P
+LAD,Los Angeles Dodgers,R,R,1992,15124,Tim Locastro,OF
+TOR,Toronto Blue Jays,L,L,1992,15042,Tim Mayza,P
+SDP,San Diego Padres,R,R,1989,9149,Tim Melville,P
+ARI,Arizona Diamondbacks,R,R,1982,6432,Tim Stauffer,P
+TOR,Toronto Blue Jays,R,L,1989,9121,T.J. House,P
+LAD,Los Angeles Dodgers,R,R,1980,2467,Todd Coffey,P
+STL,St. Louis Cardinals,S,R,1989,10822,Todd Cunningham,OF
+NYM,New York Mets,R,R,1986,785,Todd Frazier,
+TOR,Toronto Blue Jays,R,R,1985,9943,Todd Redmond,P
+CLE,Cleveland Indians,R,L,1982,6244,Tom Gorzelanny,P
+LAD,Los Angeles Dodgers,R,R,1986,6570,Tom Koehler,P
+COL,Colorado Rockies,R,R,1991,13499,Tom Murphy,C
+ARI,Arizona Diamondbacks,R,R,1983,9975,Tom Wilhelmsen,P
+NYM,New York Mets,R,R,1994,13755,Tomas Nido,C
+MIA,Miami Marlins,S,R,1991,10067,Tomas Telis,C/1B
+TEX,Texas Rangers,R,R,1986,9129,Tommy Hanson,P
+TOR,Toronto Blue Jays,L,L,1981,7542,Tommy Hottovy,P
+PHI,Philadelphia Phillies,R,R,1986,1157,Tommy Hunter,P
+TEX,Texas Rangers,R,R,1991,10349,Tommy Joseph,1B
+NYY,New York Yankees,R,R,1989,11384,Tommy Kahnle,P
+CHC,Chicago Cubs,L,R,1989,12371,Tommy La Stella,2B/3B
+NYY,New York Yankees,L,L,1984,7501,Tommy Layne,P
+MIA,Miami Marlins,R,R,1988,11147,Tommy Medica,1B
+NYM,New York Mets,L,L,1987,7608,Tommy Milone,P
+STL,St. Louis Cardinals,R,R,1988,2967,Tommy Pham,OF
+SFG,San Francisco Giants,S,R,1984,5053,Tony Abreu,2B/3B
+TEX,Texas Rangers,R,R,1983,3555,Tony Barnette,P
+LAA,Los Angeles Angels,L,L,1986,4964,Tony Campana,OF
+LAD,Los Angeles Dodgers,L,L,1989,12555,Tony Cingrani,P
+KCR,Kansas City Royals,R,R,1986,2802,Tony Cruz,C
+PHI,Philadelphia Phillies,L,R,1982,6141,Tony Gwynn,OF
+HOU,Houston Astros,L,R,1991,14894,Tony Kemp,OF
+CIN,Cincinnati Reds,R,R,1991,13443,Tony Renda,2B/OF
+ATL,Atlanta Braves,R,R,1988,6178,Tony Sanchez,C
+HOU,Houston Astros,L,L,1983,8280,Tony Sipp,P
+SFG,San Francisco Giants,L,L,1985,3132,Tony Watson,P
+COL,Colorado Rockies,L,R,1992,11470,Tony Wolters,C
+SEA,Seattle Mariners,R,R,1990,12876,Tony Zych,P
+CLE,Cleveland Indians,L,R,1985,11652,Toru Murata,P
+TEX,Texas Rangers,L,L,1982,3234,Travis Blackley,P
+HOU,Houston Astros,L,R,1983,4646,Travis Buck,OF
+NYM,New York Mets,R,R,1989,7739,Travis d'Arnaud,C
+NYY,New York Yankees,L,R,1977,1573,Travis Hafner,DH
+PIT,Pittsburgh Pirates,L,L,1983,4793,Travis Ishikawa,1B
+SDP,San Diego Padres,L,R,1991,13768,Travis Jankowski,OF
+MIL,Milwaukee Brewers,L,R,1990,11982,Travis Shaw,1B/3B
+TEX,Texas Rangers,L,L,1988,2830,Travis Snider,OF
+NYM,New York Mets,R,R,1989,11935,Travis Taijeron,OF
+STL,St. Louis Cardinals,R,R,1987,6748,Travis Tartamella,C
+SDP,San Diego Padres,R,L,1987,9884,Travis Wood,P
+OAK,Oakland Athletics,R,R,1991,9952,Trayce Thompson,OF
+SDP,San Diego Padres,S,R,1987,9875,Trayvon Robinson,OF
+WSN,Washington Nationals,R,R,1993,16252,Trea Turner,SS
+CLE,Cleveland Indians,R,R,1991,12703,Trevor Bauer,P
+CIN,Cincinnati Reds,L,R,1986,7074,Trevor Bell,P
+SFG,San Francisco Giants,R,R,1991,13895,Trevor Brown,C
+OAK,Oakland Athletics,R,R,1988,6249,Trevor Cahill,P
+HOU,Houston Astros,S,R,1983,3402,Trevor Crowe,OF
+SDP,San Diego Padres,R,R,1991,sa737842,Trevor Frank,
+WSN,Washington Nationals,R,R,1992,15046,Trevor Gott,P
+MIN,Minnesota Twins,R,R,1990,17002,Trevor Hildenberger,P
+MIN,Minnesota Twins,R,R,1989,6398,Trevor May,P
+KCR,Kansas City Royals,R,R,1993,sa829144,Trevor Oaks,P
+TEX,Texas Rangers,R,R,1986,7462,Trevor Plouffe,3B
+MIA,Miami Marlins,R,R,1993,19309,Trevor Richards,P
+STL,St. Louis Cardinals,R,R,1990,10745,Trevor Rosenthal,P
+COL,Colorado Rockies,R,R,1992,12564,Trevor Story,SS
+PIT,Pittsburgh Pirates,R,R,1992,16977,Trevor Williams,P
+PIT,Pittsburgh Pirates,R,R,1990,sa456039,Trey Haley,
+BAL,Baltimore Orioles,R,R,1992,15149,Trey Mancini,1B/OF
+MIA,Miami Marlins,S,L,1985,8368,Troy Patton,P
+ARI,Arizona Diamondbacks,R,R,1991,15570,Troy Scribner,P
+TOR,Toronto Blue Jays,R,R,1984,3531,Troy Tulowitzki,SS
+CHC,Chicago Cubs,L,L,1981,13046,Tsuyoshi Wada,P
+CIN,Cincinnati Reds,S,R,1991,10200,Tucker Barnhart,C
+SEA,Seattle Mariners,R,R,1983,5277,Tuffy Gosewisch,C
+SFG,San Francisco Giants,R,L,1990,14361,Ty Blach,P
+BOS,Boston Red Sox,L,R,1993,sa657997,Ty Buttrey,P
+PHI,Philadelphia Phillies,S,R,1988,7740,Ty Kelly,2B/3B/OF
+MIA,Miami Marlins,R,R,1977,1491,Ty Wigginton,1B/3B
+COL,Colorado Rockies,L,L,1989,12880,Tyler Anderson,P
+NYY,New York Yankees,R,R,1991,11850,Tyler Austin,1B
+NYM,New York Mets,R,R,1993,sa737928,Tyler Bashlor,P
+SFG,San Francisco Giants,R,R,1993,16981,Tyler Beede,P
+CHC,Chicago Cubs,R,R,1989,4338,Tyler Chatwood,P
+TOR,Toronto Blue Jays,R,R,1985,5640,Tyler Clippard,P
+MIA,Miami Marlins,R,R,1987,8536,Tyler Cloyd,P
+DET,Detroit Tigers,L,L,1990,12723,Tyler Collins,OF
+MIA,Miami Marlins,L,L,1985,5310,Tyler Colvin,OF
+MIL,Milwaukee Brewers,R,R,1989,10770,Tyler Cravy,P
+CHW,Chicago White Sox,R,R,1994,15126,Tyler Danish,P
+MIN,Minnesota Twins,R,R,1990,13758,Tyler Duffey,P
+ATL,Atlanta Braves,R,R,1986,9134,Tyler Flowers,C
+PIT,Pittsburgh Pirates,L,R,1993,14374,Tyler Glasnow,P
+CIN,Cincinnati Reds,R,R,1992,13180,Tyler Goeddel,OF
+ARI,Arizona Diamondbacks,R,R,1984,6220,Tyler Graham,OF
+ATL,Atlanta Braves,R,R,1983,4675,Tyler Greene,2B/SS
+SFG,San Francisco Giants,R,R,1992,sa829625,Tyler Herb,P
+CIN,Cincinnati Reds,R,R,1989,11391,Tyler Holt,OF
+MIN,Minnesota Twins,R,R,1991,18297,Tyler Kinley,P
+OAK,Oakland Athletics,R,R,1988,3211,Tyler Ladendorf,2B
+STL,St. Louis Cardinals,L,L,1988,11334,Tyler Lyons,P
+CIN,Cincinnati Reds,R,R,1994,16358,Tyler Mahle,P
+COL,Colorado Rockies,L,L,1990,10058,Tyler Matzek,P
+MIA,Miami Marlins,R,R,1987,7244,Tyler Moore,1B/OF
+CLE,Cleveland Indians,L,R,1991,13359,Tyler Naquin,OF
+STL,St. Louis Cardinals,R,R,1995,,,
+CLE,Cleveland Indians,R,L,1989,14741,Tyler Olson,P
+TEX,Texas Rangers,R,R,1989,6777,Tyler Pastornicky,2B/SS
+NYM,New York Mets,L,R,1990,12751,Tyler Pill,P
+WSN,Washington Nationals,L,L,1987,3223,Tyler Robertson,P
+CHW,Chicago White Sox,R,R,1989,10807,Tyler Saladino,2B/3B
+LAA,Los Angeles Angels,L,L,1991,10190,Tyler Skaggs,P
+TEX,Texas Rangers,R,R,1991,12490,Tyler Smith,2B/SS
+TBR,Tampa Bay Rays,R,R,1985,6780,Tyler Sturdevant,P
+BOS,Boston Red Sox,R,R,1988,10688,Tyler Thornburg,P
+NYY,New York Yankees,L,R,1994,15730,Tyler Wade,2B
+TEX,Texas Rangers,R,R,1991,13796,Tyler Wagner,P
+SDP,San Diego Padres,R,L,1990,14974,Tyler Webb,P
+HOU,Houston Astros,R,R,1990,15564,Tyler White,1B
+BAL,Baltimore Orioles,R,R,1989,12691,Tyler Wilson,P
+SDP,San Diego Padres,R,R,1992,11378,Tyrell Jenkins,P
+TOR,Toronto Blue Jays,R,R,1984,509,Tyson Brummett,
+SDP,San Diego Padres,R,R,1987,7872,Tyson Ross,P
+BOS,Boston Red Sox,L,R,1994,14678,Tzu-Wei Lin,2B/3B/SS
+BAL,Baltimore Orioles,R,R,1984,3374,Ubaldo Jimenez,P
+MIA,Miami Marlins,R,R,1987,6435,Vance Worley,P
+NYM,New York Mets,R,R,1988,9195,Vic Black,P
+LAA,Los Angeles Angels,R,R,1992,11681,Vicente Campos,P
+DET,Detroit Tigers,R,R,1993,15028,Victor Alcantara,P
+PHI,Philadelphia Phillies,R,R,1995,15915,Victor Arano,P
+CHC,Chicago Cubs,S,R,1993,14968,Victor Caratini,C/1B
+STL,St. Louis Cardinals,R,R,1980,5158,Victor Marte,P
+DET,Detroit Tigers,S,R,1978,393,Victor Martinez,
+DET,Detroit Tigers,S,R,1994,15487,Victor Reyes,DH/OF
+WSN,Washington Nationals,R,R,1997,18363,Victor Robles,OF
+BAL,Baltimore Orioles,L,L,1987,9674,Vidal Nuno,P
+SFG,San Francisco Giants,R,R,1986,5231,Vin Mazzaro,P
+TBR,Tampa Bay Rays,L,R,1988,8126,Vince Belnome,DH
+PHI,Philadelphia Phillies,R,R,1992,11189,Vince Velasquez,P
+LAA,Los Angeles Angels,R,R,1985,4782,Vinnie Pestano,P
+COL,Colorado Rockies,R,R,1985,7441,Wade Davis,P
+SEA,Seattle Mariners,L,L,1984,5221,Wade LeBlanc,P
+BAL,Baltimore Orioles,L,L,1986,8779,Wade Miley,P
+LAD,Los Angeles Dodgers,R,R,1994,19374,Walker Buehler,P
+SDP,San Diego Padres,R,R,1994,sa657984,Walker Lockett,
+WSN,Washington Nationals,R,R,1991,,,
+CIN,Cincinnati Reds,L,L,1991,14295,Wandy Peralta,P
+HOU,Houston Astros,S,L,1979,2586,Wandy Rodriguez,P
+DET,Detroit Tigers,R,R,1990,13211,Warwick Saupold,P
+MIL,Milwaukee Brewers,L,L,1992,14382,Wei-Chung Wang,P
+MIA,Miami Marlins,R,L,1985,13071,Wei-Yin Chen,P
+CHW,Chicago White Sox,R,R,1987,3256,Welington Castillo,C
+ARI,Arizona Diamondbacks,R,L,1985,5960,Wesley Wright,P
+KCR,Kansas City Royals,R,R,1989,11281,Whit Merrifield,2B
+SDP,San Diego Padres,R,R,1990,10047,Wil Myers,1B/OF
+SDP,San Diego Padres,R,R,1977,1556,Wil Nieves,C
+ATL,Atlanta Braves,R,R,1989,7655,Wilfredo Boscan,P
+NYM,New York Mets,R,R,1991,10416,Wilfredo Tovar,SS
+COL,Colorado Rockies,R,R,1989,8002,Wilin Rosario,C
+MIN,Minnesota Twins,R,R,1985,5219,Wilkin Ramirez,OF
+KCR,Kansas City Royals,R,R,1990,8801,Wilking Rodriguez,P
+HOU,Houston Astros,R,R,1984,3192,Will Harris,P
+ARI,Arizona Diamondbacks,L,L,1990,sa577888,Will Locante,
+TEX,Texas Rangers,R,R,1988,7002,Will Middlebrooks,3B
+WSN,Washington Nationals,L,L,1977,296,Will Ohman,
+TBR,Tampa Bay Rays,L,R,1983,9802,Will Rhymes,2B
+SFG,San Francisco Giants,R,L,1989,8048,Will Smith,P
+LAD,Los Angeles Dodgers,L,L,1982,211,Will Venable,
+CLE,Cleveland Indians,S,R,1997,sa830274,Willi Castro,SS
+DET,Detroit Tigers,R,R,1990,13331,William Cuevas,P
+BOS,Boston Red Sox,L,L,1992,sa597797,Williams Jerez,
+CHC,Chicago Cubs,R,R,1991,11592,Williams Perez,P
+SEA,Seattle Mariners,R,R,1977,1066,Willie Bloomquist,SS/OF
+TEX,Texas Rangers,L,R,1994,17838,Willie Calhoun,OF
+CIN,Cincinnati Reds,L,R,1978,236,Willie Harris,
+CHC,Chicago Cubs,R,R,1992,11609,Willson Contreras,C
+TBR,Tampa Bay Rays,R,R,1995,sa736655,Willy Adames,
+CHW,Chicago White Sox,R,R,1992,12956,Willy Garcia,OF
+WSN,Washington Nationals,S,R,1992,14320,Wilmer Difo,2B/SS
+NYM,New York Mets,R,R,1991,5827,Wilmer Flores,3B/SS
+LAD,Los Angeles Dodgers,R,R,1990,5257,Wilmer Font,P
+BAL,Baltimore Orioles,S,R,1981,1861,Wilson Betemit,3B
+TBR,Tampa Bay Rays,R,R,1987,1433,Wilson Ramos,C
+COL,Colorado Rockies,R,R,1983,4227,Wilton Lopez,P
+KCR,Kansas City Royals,R,R,1989,7738,Wily Peralta,P
+NYM,New York Mets,R,R,1994,sa659205,Wuilmer Becerra,
+DET,Detroit Tigers,R,R,1990,sa658999,Wynton Bernard,
+BOS,Boston Red Sox,R,R,1992,12161,Xander Bogaerts,SS
+SEA,Seattle Mariners,L,L,1990,8471,Xavier Avery,OF
+TBR,Tampa Bay Rays,L,L,1986,36,Xavier Cedeno,
+SDP,San Diego Padres,R,R,1978,1658,Xavier Nady,OF
+PHI,Philadelphia Phillies,L,R,1985,5963,Xavier Paul,OF
+MIA,Miami Marlins,R,R,1987,7409,Xavier Scruggs,1B
+PHI,Philadelphia Phillies,R,R,1993,15007,Yacksel Rios,P
+MIA,Miami Marlins,R,R,1992,11863,Yadiel Rivera,2B/3B
+STL,St. Louis Cardinals,R,R,1982,7007,Yadier Molina,C
+STL,St. Louis Cardinals,R,R,1995,16313,Yairo Munoz,3B
+LAD,Los Angeles Dodgers,R,R,1991,sa909930,Yaisel Sierra,
+CLE,Cleveland Indians,R,R,1987,9627,Yan Gomes,C
+CLE,Cleveland Indians,R,R,1991,16578,Yandy Diaz,3B
+TOR,Toronto Blue Jays,S,R,1987,5352,Yangervis Solarte,2B/3B
+BOS,Boston Red Sox,R,R,1993,sa659446,Yankory Pimentel,
+LAD,Los Angeles Dodgers,R,R,1990,14225,Yasiel Puig,OF
+LAD,Los Angeles Dodgers,S,R,1988,11368,Yasmani Grandal,C
+ARI,Arizona Diamondbacks,R,R,1990,17171,Yasmany Tomas,OF
+BAL,Baltimore Orioles,R,R,1993,sa597051,Yefrey Ramirez,
+MIA,Miami Marlins,S,R,1991,12090,Yefri Perez,2B/SS
+COL,Colorado Rockies,S,R,1994,sa658334,Yency Almonte,
+MIL,Milwaukee Brewers,S,R,1991,11166,Yhonathan Barrios,P
+LAD,Los Angeles Dodgers,R,R,1990,12095,Yimi Garcia,P
+CHW,Chicago White Sox,S,R,1995,17232,Yoan Moncada,2B
+NYM,New York Mets,R,R,1985,13110,Yoenis Cespedes,OF
+PIT,Pittsburgh Pirates,R,R,1988,10498,Yoervis Medina,P
+COL,Colorado Rockies,L,L,1986,5057,Yohan Flande,P
+KCR,Kansas City Royals,R,R,1983,6955,Yohan Pino,P
+TEX,Texas Rangers,L,L,1995,14391,Yohander Mendez,P
+COL,Colorado Rockies,R,R,1994,sa597083,Yonathan Daza,OF
+CLE,Cleveland Indians,L,R,1987,2530,Yonder Alonso,1B
+TBR,Tampa Bay Rays,R,R,1993,16401,Yonny Chirinos,P
+KCR,Kansas City Royals,R,R,1991,11855,Yordano Ventura,P
+MIN,Minnesota Twins,R,R,1994,sa597276,Yorman Landa,
+CIN,Cincinnati Reds,R,R,1992,9922,Yorman Rodriguez,OF
+LAA,Los Angeles Angels,R,R,1978,1135,Yorvit Torrealba,C
+ARI,Arizona Diamondbacks,R,R,1984,19756,Yoshihisa Hirano,P
+LAA,Anaheim Angels,R,R,1981,7759,Yoslan Herrera,P
+CIN,Cincinnati Reds,R,R,1986,8173,Yovani Gallardo,P
+CHC,Chicago Cubs,R,R,1986,13074,Yu Darvish,P
+CLE,Cleveland Indians,R,R,1995,sa830276,Yu-Cheng Chang,SS
+HOU,Houston Astros,R,R,1984,19198,Yulieski Gurriel,1B
+LAA,Los Angeles Angels,R,R,1982,4191,Yunel Escobar,3B/SS
+WSN,Washington Nationals,R,R,1981,11420,Yunesky Maya,P
+OAK,Oakland Athletics,R,R,1984,4020,Yusmeiro Petit,P
+PHI,Philadelphia Phillies,L,L,1992,16684,Zac Curtis,P
+DET,Detroit Tigers,S,R,1993,15285,Zac Reininger,P
+COL,Colorado Rockies,R,L,1988,9419,Zac Rosscup,P
+BAL,Baltimore Orioles,L,L,1987,3240,Zach Britton,P
+BAL,Baltimore Orioles,R,R,1983,9189,Zach Clark,P
+MIL,Milwaukee Brewers,R,R,1993,13183,Zach Davies,P
+MIN,Minnesota Twins,L,L,1983,3840,Zach Duke,P
+PHI,Philadelphia Phillies,R,R,1994,13774,Zach Eflin,P
+MIN,Minnesota Twins,L,L,1992,15343,Zack Granite,OF
+COL,Colorado Rockies,L,R,1994,sa658131,Zach Jemiola,
+SDP,San Diego Padres,R,R,1991,11468,Zach Lee,P
+KCR,Kansas City Royals,R,R,1994,sa658011,Zachary Lovvorn,
+NYM,New York Mets,R,R,1986,3735,Zach Lutz,1B/3B
+CLE,Cleveland Indians,R,R,1987,2895,Zach McAllister,P
+PHI,Philadelphia Phillies,R,R,1982,3193,Zach Miner,P
+LAD,Los Angeles Dodgers,R,R,1988,11294,Zach Neal,P
+PIT,Pittsburgh Pirates,L,L,1986,99,Zach Phillips,
+CHW,Chicago White Sox,R,R,1987,9080,Zach Putnam,P
+CHW,Chicago White Sox,R,R,1986,7397,Zach Stewart,P
+SEA,Seattle Mariners,R,R,1991,13269,Zach Vincej,2B/SS
+LAD,Los Angeles Dodgers,S,R,1989,10622,Zach Walters,DH/OF
+LAA,Los Angeles Angels,R,R,1985,2616,Zack Cozart,SS
+ARI,Arizona Diamondbacks,R,R,1990,14862,Zack Godley,P
+ARI,Arizona Diamondbacks,R,R,1983,1943,Zack Greinke,P
+MIL,Milwaukee Brewers,R,R,1990,sa502134,Zack Jones,
+MIN,Minnesota Twins,R,R,1995,sa737929,Zack Littell,P
+CIN,Cincinnati Reds,R,R,1992,15444,Zack Weiss,P
+NYM,New York Mets,L,R,1990,10310,Zack Wheeler,P
+BOS,Boston Red Sox,R,R,1989,3873,Zeke Spruill,P
+NYY,New York Yankees,R,R,1987,8822,Zelous Wheeler,3B/OF
+ATL,Atlanta Braves,S,R,1989,6732,Zoilo Almonte,OF
