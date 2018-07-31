@@ -5,14 +5,19 @@ import pandas as pd
 import numpy as np
 
 df_raw = pd.read_csv('Full_Forecast.csv').drop(labels = 'Unnamed: 0', axis=1)
+u_this = ['Id', 'Nickname','Position','Salary','Predict']
+df_fin = df_raw[u_this]
 i=0
 portfolio=[]
 df_out = pd.DataFrame(portfolio)
+df_app = pd.DataFrame()
+df_f = df_raw
+final_df = pd.DataFrame()
 while i<10:
-    df_f = df_raw.sample(frac=.8,replace=False).reset_index(0,drop=True)
     
-    #t_stack = 'TEX'
-    
+#    if i>0:
+#        df_f = df_f[~df_f['Nickname'].isin(portfolio)].reset_index(0,drop=True)
+        
     # Data input
     players = df_f['Nickname']
     predict = df_f['Predict']
@@ -24,7 +29,6 @@ while i<10:
     third = df_f['Third']
     ss = df_f['SS']
     of = df_f['OF']
-    #util = df_f['Util']
     
     LAA = df_f['LAA']
     BAL = df_f['BAL']
@@ -122,8 +126,8 @@ while i<10:
     prob += sum(STL[p]* x[p] for p in P) <= 4
     prob += sum(SDP[p]* x[p] for p in P) <= 4
     prob += sum(SFG[p]* x[p] for p in P) <= 4
-    prob += sum(SFG[p]* x[p] for p in P) >= 3
-    #prob += sum(stack[p]*x[p] for p in P) >=3
+    
+    #prob += sum(SFG[p]* x[p] for p in P) >= 3
     
     prob += sum(price[p] * x[p] for p in P) <= 35000
     
@@ -149,19 +153,38 @@ while i<10:
     print(len(portfolio))
     print(len(set(portfolio)))
     
-    df_app = pd.DataFrame(portfolio)
-#    df_b_sorted = pd.merge(df_b_sorted,df_park,how='inner',left_on=['Home_Team'],right_on=['Team_Short_Alt'])
+    #df_app = pd.DataFrame(portfolio)
+    ###########
+    l = df_f[df_f['Nickname'].isin(portfolio)].reset_index(0,drop=True)
+    """
+    k = game_df.iloc[solution.xf,:][['name','Tm','Position','Salary','preds']].sort_values('preds')
+    ids = asdf[['Nickname','Id']]
+    l = pd.merge(k,ids,left_on = 'name',right_on = 'Nickname')
+    """
+    positions = ['P','C/1B','2B','3B','SS','OF','OF','OF','UTIL']
+    row = [0,0,0,0,0,0,0,0,0]
+    for a in range(len(l.Nickname)):
+        for b in range(len(positions)): 
+            if row[b] == 0 and l.Position[a] in positions[b]:
+                row[b] = l.Id[a]
+                break
+    #utility is the Id that has not been assigned yet
+    util = [y for y in l.Id if y not in row]
+    row[8] = util[0]      
+    z = pd.DataFrame(row)
+    z = z.T
+    z.columns = positions
+    final_df = pd.concat([final_df,z])
     
+    ##############
+    #df_out = df_out.append(df_app)
     
-    df_out = df_out.append(df_app)
+    df_f = df_raw.sample(frac=.80,replace=False).reset_index(0,drop=True)
+    
     i+=1
-    
-df_out = pd.merge(df_out,df_raw,how='left', left_on=0,right_on='Nickname')   
 
-
-#print(pitcher)
-#print(c_first)
-#print(second)
-#print(third)
-#print(ss)
-#print(of)
+#df_out = pd.merge(df_out,df_raw,how='left', left_on=0,right_on='Nickname').drop(labels=0,axis=1)
+#use_col = ['FPPG', 'Id', 'Nickname', 'Position']
+#df_out = df_out[use_col]
+#df_out.to_csv('lineups.csv',sep=',', encoding='utf-8')
+final_df.to_csv('kek.csv',index=False)

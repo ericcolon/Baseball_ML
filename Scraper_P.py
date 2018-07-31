@@ -25,7 +25,10 @@ df_h['playerid'] = df_h['playerid'].astype('str')
 df_park['Team_Short'] = df_park['Team_Short'].astype('str')
 
 #set target value based on scoring system
-df_p['Target'] = df_p['ER']*(-3) + df_p['SO']*3 + df_p['IP']*3
+df_p['Q_Start'] = np.where(df_p['ER']<4,1,0)
+df_p['Target'] = df_p['ER']*(-3) + df_p['SO']*3 + df_p['IP']*3 + df_p['Q_Start']*(4)
+
+df_p = df_p.drop(labels='Q_Start',axis=1).reset_index(0,drop=True)
 
 #inner merge on player id in order to give players handedness attribute
 df_p=pd.merge(df_p,df_h,how='inner',on='playerid')
@@ -106,6 +109,7 @@ drop_df_f = ['Home','Away','Home_P','Away_P']
 df_f = df_f.drop(labels=drop_df_f,axis=1)
 
 df_f = df_f.loc[df_f['Roll_IP'] > 1.5].reset_index(0,drop=True)
+df_f = df_f.loc[df_f['Target'] >= 0].reset_index(0,drop=True)
 #df_f = df_f.loc[df_f['Target'] > 0].reset_index(0,drop=True)
 
 df_f['Throw_L'] = np.where(df_f['throws']=='L',1,0)

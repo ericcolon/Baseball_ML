@@ -22,7 +22,7 @@ df_park_drop = ['Season', 'Team', 'Team_Short', 'Team_Short_Alt','1B as L',
 
 df_park = df_park.drop(labels = df_park_drop,axis=1)
 df_daily = df_daily.drop(labels = df_daily_drop,axis=1)
-df_daily = df_daily.loc[(df_daily['Injury Indicator']!='DTD')&(df_daily['Injury Indicator']!='DL')].reset_index(0,drop=True)
+df_daily = df_daily.loc[(df_daily['Injury Indicator']!='DTD')&(df_daily['Injury Indicator']!='DL')&(df_daily['Injury Indicator']!='NA')].reset_index(0,drop=True)
 #df_daily = df_daily.loc[df_daily['Injury Indicator']!='DL'].reset_index(0,drop=True)
 
 df_daily_pitch = df_daily.loc[df_daily['Probable Pitcher']=='Yes'].reset_index(0,drop=True)
