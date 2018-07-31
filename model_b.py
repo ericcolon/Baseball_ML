@@ -34,7 +34,7 @@ df_f=df_f.drop(labels = clean_ML,axis=1)
 X = df_f.drop('Target_x',axis=1)
 y = df_f['Target_x']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
 dforest = XGBRegressor(booster='gbtree',eta=0.6, max_depth =9, n_estimators=80, min_child_weigth = 1)
 dforest.fit(X_train,y_train)
 

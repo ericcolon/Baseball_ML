@@ -32,8 +32,11 @@ df_h['playerid'] = df_h['playerid'].astype('str')
 df_park['Team_Short'] = df_park['Team_Short'].astype('str')
 
 #set target value based on scoring system
+df_p['Q_Start'] = np.where(df_p['ER']<4,1,0)
 df_b['Target'] = df_b['1B']*3 + df_b['2B']*6 + df_b['3B']*9 + df_b['HR']*12 +df_b['RBI']*3.5 + df_b['R']*3.2 + df_b['BB']*3 +df_b['SB']*6 + df_b['HBP']*3
-df_p['Target'] = df_p['ER']*(-3) + df_p['SO']*3 + df_p['IP']*3
+df_p['Target'] = df_p['ER']*(-3) + df_p['SO']*3 + df_p['IP']*3 + df_p['Q_Start']*(4)
+
+df_p = df_p.drop(labels='Q_Start',axis=1).reset_index(0,drop=True)
 
 #inner merge on player id in order to give players handedness attribute
 df_b=pd.merge(df_b,df_h,how='inner',on='playerid')
@@ -100,11 +103,11 @@ roll_apply_p = [ 'TBF', 'H', '2B', '3B', 'R','IP',
 #will have to look into setting it up so that the data processes by taking into account the year but for my purposes this suffices
 for stat in roll_apply_b:
     roll = 'Roll_'+stat
-    df_b_sorted[roll] = df_b_sorted.groupby('Name')[stat].rolling(5).mean().shift(1).reset_index(0,drop=True)
+    df_b_sorted[roll] = df_b_sorted.groupby('Name')[stat].rolling(15).mean().shift(1).reset_index(0,drop=True)
 
 for stat in roll_apply_p:
     roll = 'Roll_'+stat
-    df_p_sorted[roll] = df_p_sorted.groupby('Name')[stat].rolling(5).mean().shift(1).reset_index(0,drop=True)
+    df_p_sorted[roll] = df_p_sorted.groupby('Name')[stat].rolling(15).mean().shift(1).reset_index(0,drop=True)
 
 
 roll_apply_b = ['PA', 'AB', 'H', '1B', '2B',
