@@ -35,7 +35,7 @@ df_b = df_b.sort_values('Date').groupby('Name_x').tail(1)
 
 df_p = df_p.sort_values('Date').groupby('Name').tail(1)
 
-use_col_b = ['Date', 'Name_x', 'playerid_x', 'bats','Team_Short_Alt_x', 
+use_col_b = ['Date', 'Name_x', 'bats',
        
        'Roll_PA', 'Roll_H_x', 'Roll_1B', 'Roll_2B_x', 'Roll_3B_x',
        'Roll_HR_x', 'Roll_R_x', 'Roll_RBI', 'Roll_AVG', 'Roll_GB%',
@@ -43,7 +43,7 @@ use_col_b = ['Date', 'Name_x', 'playerid_x', 'bats','Team_Short_Alt_x',
        
        ]
 
-use_col_p = ['Date', 'Name', 'playerid', 'throws', 'Team_Short_Alt',
+use_col_p = ['Date', 'Name', 'throws', 
        
        'Roll_IP', 'Roll_ER', 'Roll_HR','Roll_OBP', 'Roll_ERA', 'Roll_BB/9',
        'Roll_K/BB', 'Roll_K%', 'Roll_K-BB%', 'Roll_WHIP', 'Roll_LOB%',
@@ -54,18 +54,26 @@ df_b = df_b[use_col_b]
 df_p = df_p[use_col_p]
 
 df_b = pd.merge(df_daily_batter,df_b,how= 'inner',left_on='Nickname', right_on ='Name_x')
-df_p = pd.merge(df_daily_pitch,df_p,how= 'inner',left_on='Nickname', right_on ='Name')
+df_p = pd.merge(df_daily_pitch,df_p,how= 'left',left_on='Nickname', right_on ='Name')
 
 df_b = pd.merge(df_b,df_p,how = 'inner', left_on = 'Opponent', right_on = 'Team').reset_index(0,drop=True)
 
 b_drop  = ['Date_x','Date_y','Name_x','Id_y','Position_y','Nickname_y','FPPG_y','Salary_y',
-           'Team_y','Opponent_y','Probable Pitcher','Away_y','Home_y','Date_y','Name','playerid']
+           'Team_y','Opponent_y','Probable Pitcher','Away_y','Home_y','Date_y','Name',]
 
 p_drop  = ['Opponent','Probable Pitcher','Away','Date', 'Name',]
 
 df_b=df_b.drop(labels=b_drop,axis=1)
 
 df_p=df_p.drop(labels=p_drop,axis=1)
+
+df_p['throws'] = df_p['throws'].fillna(value='R')
+
+replace = ['Roll_IP', 'Roll_ER', 'Roll_HR', 'Roll_OBP', 'Roll_ERA',
+       'Roll_BB/9', 'Roll_K/BB', 'Roll_K%', 'Roll_K-BB%', 'Roll_WHIP',
+       'Roll_LOB%', 'Roll_GB/FB', 'Roll_FB%', 'Roll_SO']
+
+df_p[replace] = df_p[replace].apply(lambda x: x.fillna(x.mean()),axis=0)
 
 df_b = pd.merge(df_b,df_park,left_on = 'Home_x',right_on = 'Team_FD')
 
