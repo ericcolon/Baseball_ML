@@ -100,11 +100,11 @@ roll_apply_p = [ 'TBF', 'H', '2B', '3B', 'R','IP',
 #will have to look into setting it up so that the data processes by taking into account the year but for my purposes this suffices
 for stat in roll_apply_b:
     roll = 'Roll_'+stat
-    df_b_sorted[roll] = df_b_sorted.groupby('Name')[stat].rolling(15).mean().shift(1).reset_index(0,drop=True)
+    df_b_sorted[roll] = df_b_sorted.groupby('Name')[stat].rolling(5).mean().shift(1).reset_index(0,drop=True)
 
 for stat in roll_apply_p:
     roll = 'Roll_'+stat
-    df_p_sorted[roll] = df_p_sorted.groupby('Name')[stat].rolling(15).mean().shift(1).reset_index(0,drop=True)
+    df_p_sorted[roll] = df_p_sorted.groupby('Name')[stat].rolling(5).mean().shift(1).reset_index(0,drop=True)
 
 
 roll_apply_b = ['PA', 'AB', 'H', '1B', '2B',

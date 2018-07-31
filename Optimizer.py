@@ -122,7 +122,7 @@ while i<10:
     prob += sum(STL[p]* x[p] for p in P) <= 4
     prob += sum(SDP[p]* x[p] for p in P) <= 4
     prob += sum(SFG[p]* x[p] for p in P) <= 4
-    
+    prob += sum(SFG[p]* x[p] for p in P) >= 3
     #prob += sum(stack[p]*x[p] for p in P) >=3
     
     prob += sum(price[p] * x[p] for p in P) <= 35000
@@ -157,6 +157,8 @@ while i<10:
     i+=1
     
 df_out = pd.merge(df_out,df_raw,how='left', left_on=0,right_on='Nickname')   
+
+
 #print(pitcher)
 #print(c_first)
 #print(second)
